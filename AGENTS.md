@@ -20,6 +20,8 @@ The goal is **not** 100 empty GitHub repos. The goal is 100 researched product b
 
 ## 2. Current operating mode
 
+Local lab layout is documented in `docs/LOCAL_WORKSPACE.md`: this repo is `index/`, and dedicated app repos live in sibling `projects/<repo-name>/` directories.
+
 - Work **local-first** while GitHub write permissions are blocked or unavailable.
 - Still keep the repository clean: update files, run validation, commit locally.
 - Do not fake remote success. If push fails, record the blocker plainly and leave the local commit ready.

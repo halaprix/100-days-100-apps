@@ -26,7 +26,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 
 ## Daily process
 
-See [`docs/PROCESS.md`](./docs/PROCESS.md). Dedicated project repos use [`docs/REPO_TEMPLATE.md`](./docs/REPO_TEMPLATE.md).
+See [`docs/PROCESS.md`](./docs/PROCESS.md). Local layout is in [`docs/LOCAL_WORKSPACE.md`](./docs/LOCAL_WORKSPACE.md). Dedicated project repos use [`docs/REPO_TEMPLATE.md`](./docs/REPO_TEMPLATE.md).
 
 ## Operating rules
 
