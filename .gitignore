@@ -1,0 +1,36 @@
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Env/secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.jks
+*.keystore
+
+# Node
+node_modules/
+dist/
+build/
+coverage/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Beads local runtime cache
+.beads/*.db-shm
+.beads/*.db-wal
+
+# Beads / Dolt files (added by bd init)
+.dolt/
+*.db
+.beads-credential-key
