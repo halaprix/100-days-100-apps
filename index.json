@@ -1,0 +1,16 @@
+{
+  "project": "halaprix/100-days-100-apps",
+  "title": "100 Days, 100 Apps",
+  "started_at": "2026-06-19",
+  "entries": [
+    {
+      "day": 0,
+      "date": "2026-06-19",
+      "app": "Meta index",
+      "repo": "https://github.com/halaprix/100-days-100-apps",
+      "signal": "Project kickoff",
+      "status": "scaffolded",
+      "notes": "Daily pipeline repo"
+    }
+  ]
+}

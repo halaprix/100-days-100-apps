@@ -1,0 +1,10 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "https://x.com/"
+    },
+    {
+      "pattern": "https://twitter.com/"
+    }
+  ]
+}

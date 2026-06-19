@@ -1,0 +1,23 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  hygiene:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: Validate JSON
+        run: python3 -m json.tool index.json >/tmp/index.json
+      - name: Secret and privacy scan
+        run: |
+          set -euo pipefail
+          ! grep -RInE 'BEGIN .* PRIVATE KEY|api[_-]?key|token=|secret=|\.p12|\.jks|\.keystore' .             --exclude-dir=.git             --exclude=AGENTS.md             --exclude=SECURITY.md             --exclude=ci.yml             --exclude=.gitignore
+          ! grep -RInE '192\.168\.[0-9]+\.[0-9]+|10\.[0-9]+\.[0-9]+\.[0-9]+|/home/[A-Za-z0-9_.-]+' .             --exclude-dir=.git             --exclude=AGENTS.md             --exclude=ci.yml

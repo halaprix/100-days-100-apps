@@ -1,0 +1,38 @@
+# Source configuration for the daily ideation pipeline.
+# Keep this public-safe: no private lists, tokens, or personal infrastructure.
+
+reddit:
+  subreddits:
+    - SideProject
+    - SaaS
+    - Entrepreneur
+    - startups
+    - selfhosted
+    - productivity
+    - LocalLLaMA
+    - artificial
+    - androidapps
+    - webdev
+    - sysadmin
+    - ADHD
+  sorts: [hot, new, top]
+  max_age_hours: 48
+  per_subreddit_limit: 15
+
+x:
+  queries:
+    - '"is there an app" OR "I wish there was"'
+    - '"tool for" "annoying"'
+    - '"anyone know" "app"'
+    - '"build in public" "problem"'
+  max_results: 25
+
+scoring:
+  threshold_for_repo_creation: 18
+  max_score: 25
+  dimensions:
+    usefulness: 5
+    feasibility: 5
+    demo_potential: 5
+    distribution: 5
+    novelty_or_timing: 5

@@ -1,0 +1,11 @@
+name: Bug report
+description: Report a problem
+title: "fix: "
+labels: [bug]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+    validations:
+      required: true

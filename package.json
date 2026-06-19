@@ -1,0 +1,13 @@
+{
+  "name": "100-days-100-apps",
+  "version": "0.1.0-alpha.0",
+  "private": true,
+  "scripts": {
+    "lint:json": "python3 -m json.tool index.json > /tmp/100-days-index.json",
+    "validate": "npm run lint:json"
+  },
+  "devDependencies": {
+    "@commitlint/config-conventional": "^19.8.1",
+    "@commitlint/cli": "^19.8.1"
+  }
+}
