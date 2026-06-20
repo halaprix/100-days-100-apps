@@ -40,6 +40,18 @@ Who has the pain, what repeats, and why existing options are bad.
 | Source | Link | Signal |
 |---|---|---|
 
+## Competitor / Substitute Check
+
+| Type | Name / Substitute | Notes |
+|---|---|---|
+| Direct competitor |  |  |
+| Indirect substitute |  |  |
+| Status quo |  |  |
+
+## Wedge
+
+Why this can still work despite existing options.
+
 ## Target user
 
 ## MVP
@@ -78,6 +90,8 @@ As a <user>, I want <capability>, so that <benefit>.
 ## Technical approach
 
 ## Validation plan
+
+Include how we will validate the wedge against competitors/substitutes, not just whether the app runs.
 
 ## Milestones
 

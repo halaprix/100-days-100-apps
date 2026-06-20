@@ -11,10 +11,11 @@ Every day we:
 1. Read public signals from Reddit, X/Twitter, and the web.
 2. Extract repeated pain points and timely product opportunities.
 3. Generate a shortlist of practical app ideas.
-4. Score ideas with a consistent rubric.
-5. Pick one winner.
-6. Record the daily brief in this repo.
-7. Create a dedicated project repo only when the winner clears the threshold or Marian explicitly says to build it.
+4. Run a competitor/substitute check for every shortlisted idea.
+5. Score ideas with a consistent rubric.
+6. Pick one winner.
+7. Record the daily brief in this repo.
+8. Create a dedicated project repo only when the winner clears the threshold or Marian explicitly says to build it.
 
 The goal is **not** 100 empty GitHub repos. The goal is 100 researched product bets with enough evidence to decide what deserves real implementation.
 
@@ -103,6 +104,18 @@ Status: idea-only | repo-created | rejected | blocked
 
 ## MVP scope
 
+## Competitor / Substitute Check
+
+| Type | Name / Substitute | Notes |
+|---|---|---|
+| Direct competitor |  |  |
+| Indirect substitute |  |  |
+| Status quo |  |  |
+
+## Wedge
+
+Why this can still work despite existing options. If there is no clear wedge, mark the idea `rejected` or narrow the niche before scoring.
+
 ## Scoring
 
 | Dimension | Score | Notes |
@@ -111,7 +124,7 @@ Status: idea-only | repo-created | rejected | blocked
 | Feasibility | /5 | |
 | Demo potential | /5 | |
 | Distribution | /5 | |
-| Novelty/timing | /5 | |
+| Competitive wedge / timing | /5 | |
 | Total | /25 | |
 
 ## Decision
@@ -132,7 +145,8 @@ Canonical source config lives in `sources.yml`.
 Reddit:
 
 - Read-only only.
-- Use public JSON endpoints or web search fallback.
+- Use the `reddit-readonly` skill first. Its public JSON calls may be blocked by Reddit with `HTTP 403 theme-beta`; in that case use its RSS fallback.
+- If both JSON and RSS are rate-limited or blocked, use web search queries constrained to Reddit, e.g. `site:reddit.com/r/SideProject "I wish"` or `site:reddit.com/r/SaaS "is there a tool"`, and say which fallback was used.
 - Prefer posts/comments from the last 48 hours.
 - Include permalinks for evidence.
 
@@ -148,6 +162,14 @@ Web:
 - Prefer original sources over AI-generated summaries.
 
 ## 7. Scoring and repo creation
+
+Before scoring, every shortlisted idea must include a quick competitor/substitute check:
+
+- **Direct competitors:** products that already solve the same job.
+- **Indirect substitutes:** spreadsheets, Notion templates, scripts, agencies, generic tools, or community/manual workflows.
+- **Status quo:** what the user does if they do not buy/build anything.
+- **Wedge:** why a 1-3 day MVP can still get attention despite existing options.
+- **Kill condition:** if existing options solve the painful job well and there is no wedge, reject or narrow the idea.
 
 Default threshold for creating a dedicated project repo: **18/25**.
 

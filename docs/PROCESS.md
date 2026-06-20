@@ -21,9 +21,27 @@ The daily file must include:
 3. proposed app,
 4. target user,
 5. MVP scope,
-6. scoring table,
-7. go/no-go decision,
-8. repo link if created.
+6. competitor/substitute check,
+7. wedge or kill condition,
+8. scoring table,
+9. go/no-go decision,
+10. repo link if created.
+
+## Competitor/substitute check
+
+Run this before scoring every shortlisted idea. Competition is whatever the target user would choose instead, not only same-category startups.
+
+Minimum fields:
+
+| Type | Question |
+|---|---|
+| Direct competitors | Which products already solve the same job? |
+| Indirect substitutes | Are users using spreadsheets, Notion, scripts, agencies, generic tools, or manual workflows? |
+| Status quo | What happens if the user does nothing new? |
+| Wedge | Why can a 1-3 day MVP still get attention? |
+| Kill condition | What evidence would make us reject or narrow the idea? |
+
+If there is no credible wedge, mark the idea `rejected` or narrow it before scoring.
 
 ## Scoring
 
@@ -33,7 +51,7 @@ The daily file must include:
 | Feasibility | 5 | Can an MVP be built quickly with known tools? |
 | Demo potential | 5 | Can it be shown clearly in a screenshot/GIF? |
 | Distribution | 5 | Is there an obvious place to find users? |
-| Novelty/timing | 5 | Is there a timely reason to build it now? |
+| Competitive wedge / timing | 5 | Is there a timely reason and a credible wedge against existing options? |
 
 Default threshold for creating a dedicated repo: **18/25**.
 
