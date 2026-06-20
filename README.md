@@ -24,6 +24,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 |---:|---|---|---|---|---|---|
 | 000 | 2026-06-19 | Meta index | [`halaprix/100-days-100-apps`](https://github.com/halaprix/100-days-100-apps) | Project kickoff | scaffolded | Daily pipeline repo |
 | 001 | 2026-06-19 | CommentPulse | [`halaprix/comment-pulse`](https://github.com/halaprix/comment-pulse) | Creators need traceable comment-to-pain-point summaries | blocked | Scored 20/25; scaffold commit local, git push blocked by 403 |
+| 002 | 2026-06-20 | TendTogether (held) | — | Neurodivergent-couple shared board with persistent Notice lane | idea-only | Scored 19/25; clears threshold but held — borderline, narrow audience. 9 ideas scored, 8 rejected on competitor gate. |
 
 ## Daily process
 

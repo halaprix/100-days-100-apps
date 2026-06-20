@@ -20,6 +20,15 @@
       "signal": "Creators need traceable comment-to-pain-point summaries",
       "status": "blocked",
       "notes": "Scored 20/25; scaffold commit local, git push blocked by 403"
+    },
+    {
+      "day": 2,
+      "date": "2026-06-20",
+      "app": "TendTogether (runner-up, held)",
+      "repo": null,
+      "signal": "Neurodivergent-couple shared board with persistent Notice lane",
+      "status": "idea-only",
+      "notes": "Scored 19/25; clears threshold but held — borderline score, narrow audience. 9 ideas scored, all others rejected on competitor gate."
     }
   ]
 }
