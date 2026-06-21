@@ -29,6 +29,15 @@
       "signal": "Neurodivergent-couple shared board with persistent Notice lane",
       "status": "idea-only",
       "notes": "Scored 19/25; clears threshold but held — borderline score, narrow audience. 9 ideas scored, all others rejected on competitor gate."
+    },
+    {
+      "day": 3,
+      "date": "2026-06-21",
+      "app": "HumanMark",
+      "repo": null,
+      "signal": "Developers cannot trust raw visitor counts in bot-heavy traffic",
+      "status": "idea-only",
+      "notes": "Scored 17/25; no repo — crowded analytics category, single strong public thread."
     }
   ]
 }
