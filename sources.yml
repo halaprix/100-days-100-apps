@@ -30,9 +30,20 @@ x:
 scoring:
   threshold_for_repo_creation: 18
   max_score: 25
+  scope:
+    accepted:
+      - software app
+      - SaaS
+      - CLI / developer tool
+      - local-first automation
+      - browser extension
+    reject_by_default:
+      - commodity physical gadget
+      - merch / gift SKU
+      - product that only works as an ecommerce arbitrage play
   dimensions:
     usefulness: 5
     feasibility: 5
     demo_potential: 5
     distribution: 5
-    novelty_or_timing: 5
+    competitive_wedge_timing: 5

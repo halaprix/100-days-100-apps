@@ -14,6 +14,11 @@ Each daily run creates one markdown file in `ideas/`:
 ideas/YYYY-MM-DD-short-name.md
 ```
 
+The output must be an **app/software bet**: SaaS, CLI, developer tool,
+browser extension, local-first automation, or similar software MVP. Commodity
+physical products, merch, gift SKUs, and ecommerce arbitrage ideas are out of
+scope for this repo unless Marian explicitly asks for that kind of research.
+
 The daily file must include:
 
 1. source evidence,
@@ -42,6 +47,10 @@ Minimum fields:
 | Kill condition | What evidence would make us reject or narrow the idea? |
 
 If there is no credible wedge, mark the idea `rejected` or narrow it before scoring.
+
+If the idea is a physical accessory whose best route is Alibaba/Amazon sourcing
+and branding, mark it `rejected` for this repo even if it is commercially
+plausible as a SKU. This repository is not a generic product-import lab.
 
 ## Scoring
 

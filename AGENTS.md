@@ -19,6 +19,8 @@ Every day we:
 
 The goal is **not** 100 empty GitHub repos. The goal is 100 researched product bets with enough evidence to decide what deserves real implementation.
 
+Scope guard: this is **100 Apps**, not a generic product-import lab. Daily winners must be software/app bets (SaaS, CLI, developer tool, browser extension, local-first automation, etc.). Commodity physical gadgets, merch/gift SKUs, and ideas whose main path is Alibaba/Amazon sourcing are rejected by default unless Marian explicitly asks for physical-product research.
+
 ## 2. Current operating mode
 
 Local lab layout is documented in `docs/LOCAL_WORKSPACE.md`: this repo is `index/`, and dedicated app repos live in sibling `projects/<repo-name>/` directories.
