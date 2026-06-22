@@ -26,6 +26,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 001 | 2026-06-19 | CommentPulse | [`halaprix/comment-pulse`](https://github.com/halaprix/comment-pulse) | Creators need traceable comment-to-pain-point summaries | blocked | Scored 20/25; scaffold commit local, git push blocked by 403 |
 | 002 | 2026-06-20 | TendTogether (held) | — | Neurodivergent-couple shared board with persistent Notice lane | idea-only | Scored 19/25; clears threshold but held — borderline, narrow audience. 9 ideas scored, 8 rejected on competitor gate. |
 | 003 | 2026-06-21 | HumanMark | — | Developers cannot trust raw visitor counts in bot-heavy traffic | idea-only | Scored 17/25; no repo — crowded analytics category, single strong public thread. |
+| 004 | 2026-06-22 | VibeGuard | — | Vibe-coded founders need a plain-language launch security gate | idea-only | Scored 17/25; no repo — strong timing, crowded AppSec/autofix category. |
 
 ## Daily process
 
