@@ -30,6 +30,15 @@ x:
 scoring:
   threshold_for_repo_creation: 18
   max_score: 25
+  repo_creation_gates:
+    distribution_min: 4
+    competitive_wedge_timing_min: 3
+  status_quo_pain_tests:
+    - wastes more than 30 minutes per week
+    - causes lost money
+    - creates public embarrassment
+    - blocks a launch or sale
+    - creates compliance or security risk
   scope:
     accepted:
       - software app
@@ -41,6 +50,13 @@ scoring:
       - commodity physical gadget
       - merch / gift SKU
       - product that only works as an ecommerce arbitrage play
+      - generic AI video or demo tool without a narrow workflow wedge
+      - generic security scanner/autofix wrapper
+      - generic analytics dashboard
+      - LLM spend or observability dashboard without a unique channel
+      - job-application automation with trust or policy risk
+      - social-listening or lead-mining tool that depends on spammy outreach
+      - generic notes, todo, focus, or browser-extension app
   dimensions:
     usefulness: 5
     feasibility: 5

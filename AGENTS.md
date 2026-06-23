@@ -173,11 +173,34 @@ Before scoring, every shortlisted idea must include a quick competitor/substitut
 - **Wedge:** why a 1-3 day MVP can still get attention despite existing options.
 - **Kill condition:** if existing options solve the painful job well and there is no wedge, reject or narrow the idea.
 
+For every shortlisted idea, write this wedge-first line before assigning a score:
+
+```text
+Specific user → existing substitute → why substitute fails → narrow wedge → distribution path → reason now
+```
+
+Reject or narrow the idea if the wedge, status-quo pain, or distribution path is
+vague. A generic audience such as Product Hunt, r/SaaS, or indie hackers is not
+enough distribution by itself.
+
+Reject crowded categories by default unless source evidence proves a narrow
+workflow wedge and a concrete first-user channel. Examples: AI video/demo tools,
+generic security scanner/autofix wrappers, analytics dashboards, LLM
+spend/observability, job-application automation, social-listening/lead-mining,
+notes/todo/focus apps, and generic browser extensions.
+
 Default threshold for creating a dedicated project repo: **18/25**.
+
+Repo creation also requires:
+
+| Gate | Minimum |
+|---|---:|
+| Competitive wedge / timing | 3/5 |
+| Distribution | 4/5 |
 
 Create a dedicated repo when either:
 
-1. winner score is `>= 18`, or
+1. winner score is `>= 18` and the dimension gates pass, or
 2. Marian explicitly says to build/create it.
 
 Do not create a repo for low-signal ideas just to satisfy a daily streak.
