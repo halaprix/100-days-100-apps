@@ -47,6 +47,15 @@
       "signal": "Vibe-coded founders need a plain-language launch security gate",
       "status": "idea-only",
       "notes": "Scored 17/25; no repo — strong timing, crowded AppSec/autofix category."
+    },
+    {
+      "day": 5,
+      "date": "2026-06-23",
+      "app": "DemoCut",
+      "repo": null,
+      "signal": "SaaS founders need demo story/shot planning before recording complex products",
+      "status": "idea-only",
+      "notes": "Scored 17/25; no repo — useful pain, but crowded AI demo/video category."
     }
   ]
 }
