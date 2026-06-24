@@ -56,6 +56,15 @@
       "signal": "SaaS founders need demo story/shot planning before recording complex products",
       "status": "idea-only",
       "notes": "Scored 17/25; no repo — useful pain, but crowded AI demo/video category."
+    },
+    {
+      "day": 6,
+      "date": "2026-06-24",
+      "app": "DeskPatch",
+      "repo": "https://github.com/halaprix/deskpatch",
+      "signal": "Locked-down analyst desktops need safe self-service Power BI updates without stored admin creds",
+      "status": "blocked",
+      "notes": "Scored 19/25; remote repo created, local scaffold push blocked by GitHub 403."
     }
   ]
 }
