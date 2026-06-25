@@ -29,6 +29,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 004 | 2026-06-22 | VibeGuard | — | Vibe-coded founders need a plain-language launch security gate | idea-only | Scored 17/25; no repo — strong timing, crowded AppSec/autofix category. |
 | 005 | 2026-06-23 | DemoCut | — | SaaS founders need demo story/shot planning before recording complex products | idea-only | Scored 17/25; no repo — useful pain, but crowded AI demo/video category. |
 | 006 | 2026-06-24 | DeskPatch | [`halaprix/deskpatch`](https://github.com/halaprix/deskpatch) | Locked-down analyst desktops need safe self-service Power BI updates without stored admin creds | blocked | Scored 19/25; remote repo created, local scaffold push blocked by GitHub 403. |
+| 007 | 2026-06-25 | SelectDiet | — | Astro/static-site developers need bundle-aware select component decisions | idea-only | Scored 17/25; no repo — useful narrow dev-tool wedge, but evidence is still one strong thread plus package/docs signals. |
 
 ## Daily process
 

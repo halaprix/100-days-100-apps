@@ -65,6 +65,15 @@
       "signal": "Locked-down analyst desktops need safe self-service Power BI updates without stored admin creds",
       "status": "blocked",
       "notes": "Scored 19/25; remote repo created, local scaffold push blocked by GitHub 403."
+    },
+    {
+      "day": 7,
+      "date": "2026-06-25",
+      "app": "SelectDiet",
+      "repo": null,
+      "signal": "Astro/static-site developers need bundle-aware select component decisions",
+      "status": "idea-only",
+      "notes": "Scored 17/25; no repo — useful narrow dev-tool wedge, but evidence is still one strong thread plus package/docs signals."
     }
   ]
 }
