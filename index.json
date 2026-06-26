@@ -74,6 +74,15 @@
       "signal": "Astro/static-site developers need bundle-aware select component decisions",
       "status": "idea-only",
       "notes": "Scored 17/25; no repo — useful narrow dev-tool wedge, but evidence is still one strong thread plus package/docs signals."
+    },
+    {
+      "day": 8,
+      "date": "2026-06-26",
+      "app": "AgentLedger",
+      "repo": null,
+      "signal": "Self-hosted personal agents need a proof-of-done task ledger that prevents drifting project and waiting lists",
+      "status": "idea-only",
+      "notes": "Scored 18/25; no repo — total clears, but distribution gate fails at 3/5."
     }
   ]
 }
