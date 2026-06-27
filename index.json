@@ -83,6 +83,15 @@
       "signal": "Self-hosted personal agents need a proof-of-done task ledger that prevents drifting project and waiting lists",
       "status": "idea-only",
       "notes": "Scored 18/25; no repo — total clears, but distribution gate fails at 3/5."
+    },
+    {
+      "day": 9,
+      "date": "2026-06-27",
+      "app": "PipeTwin",
+      "repo": "https://github.com/halaprix/pipe-twin",
+      "signal": "Maintainers need failed CI runs turned into local repro bundles before pushing blind fixes",
+      "status": "blocked",
+      "notes": "Scored 19/25; remote repo created, local scaffold push blocked by GitHub 403."
     }
   ]
 }
