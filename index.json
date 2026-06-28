@@ -92,6 +92,15 @@
       "signal": "Maintainers need failed CI runs turned into local repro bundles before pushing blind fixes",
       "status": "blocked",
       "notes": "Scored 19/25; remote repo created, local scaffold push blocked by GitHub 403."
+    },
+    {
+      "day": 10,
+      "date": "2026-06-28",
+      "app": "NIS2 EvidencePack",
+      "repo": "https://github.com/halaprix/nis2-evidencepack",
+      "signal": "EU SME IT owners need offline NIS2 evidence binders without adopting full GRC SaaS",
+      "status": "blocked",
+      "notes": "Scored 19/25; remote repo created, local scaffold push blocked by GitHub 403."
     }
   ]
 }
