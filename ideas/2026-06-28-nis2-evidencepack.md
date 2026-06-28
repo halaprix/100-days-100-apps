@@ -87,7 +87,7 @@ Reject or narrow if target users say NISD2/Reglyze spreadsheet upload is already
 
 ## Decision
 
-Create the dedicated project scaffold for NIS2 EvidencePack, but mark the day `blocked` rather than cleanly `repo-created`: the GitHub repository was created at https://github.com/halaprix/nis2-evidencepack, the local scaffold commit is ready (`d12ea36`), and `git push` failed with GitHub HTTP 403 (`Permission to halaprix/nis2-evidencepack.git denied to halaprix`).
+Create the dedicated project scaffold for NIS2 EvidencePack, but mark the day `blocked` rather than cleanly `repo-created`: the GitHub repository was created at https://github.com/halaprix/nis2-evidencepack, the local scaffold commit is ready (`98e199d`), and `git push` failed with GitHub HTTP 403 (`Permission to halaprix/nis2-evidencepack.git denied to halaprix`).
 
 ## Next build step
 

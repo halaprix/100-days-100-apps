@@ -100,7 +100,7 @@
       "repo": "https://github.com/halaprix/nis2-evidencepack",
       "signal": "EU SME IT owners need offline NIS2 evidence binders without adopting full GRC SaaS",
       "status": "blocked",
-      "notes": "Scored 19/25; remote repo created, local scaffold push blocked by GitHub 403."
+      "notes": "Scored 19/25; remote repo created, local scaffold commit 98e199d ready; push blocked by GitHub 403."
     }
   ]
 }
