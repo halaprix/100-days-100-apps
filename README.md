@@ -33,6 +33,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 008 | 2026-06-26 | AgentLedger | — | Self-hosted personal agents need a proof-of-done task ledger that prevents drifting project and waiting lists | idea-only | Scored 18/25; no repo — total clears, but distribution gate fails at 3/5. |
 | 009 | 2026-06-27 | PipeTwin | [`halaprix/pipe-twin`](https://github.com/halaprix/pipe-twin) | Maintainers need failed CI runs turned into local repro bundles before pushing blind fixes | blocked | Scored 19/25; remote repo created, local scaffold push blocked by GitHub 403. |
 | 010 | 2026-06-28 | NIS2 EvidencePack | [`halaprix/nis2-evidencepack`](https://github.com/halaprix/nis2-evidencepack) | EU SME IT owners need offline NIS2 evidence binders without adopting full GRC SaaS | blocked | Scored 19/25; remote repo created, local scaffold commit 98e199d ready; push blocked by GitHub 403. |
+| 011 | 2026-06-29 | Llama CUDA Doctor | [`halaprix/llama-cuda-doctor`](https://github.com/halaprix/llama-cuda-doctor) | Local LLM builders need CUDA/driver/llama.cpp mismatch diagnostics before rebuilding blind | blocked | Scored 19/25; remote repo created, local scaffold commit aa6a7ab ready; push blocked by GitHub 403. |
 
 ## Daily process
 
