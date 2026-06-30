@@ -110,6 +110,15 @@
       "signal": "Local LLM builders need CUDA/driver/llama.cpp mismatch diagnostics before rebuilding blind",
       "status": "blocked",
       "notes": "Scored 19/25; remote repo created, local scaffold commit aa6a7ab ready; push blocked by GitHub 403."
+    },
+    {
+      "day": 12,
+      "date": "2026-06-30",
+      "app": "PeerPath",
+      "repo": "https://github.com/halaprix/peerpath",
+      "signal": "Self-hosters need Dockerized WireGuard/wg-easy host-to-peer routing diagnostics before pasting unsafe firewall fixes",
+      "status": "blocked",
+      "notes": "Scored 20/25; remote repo created, local scaffold commit a3382d6 ready; push blocked by GitHub 403."
     }
   ]
 }
