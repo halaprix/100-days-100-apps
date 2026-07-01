@@ -35,6 +35,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 010 | 2026-06-28 | NIS2 EvidencePack | [`halaprix/nis2-evidencepack`](https://github.com/halaprix/nis2-evidencepack) | EU SME IT owners need offline NIS2 evidence binders without adopting full GRC SaaS | blocked | Scored 19/25; remote repo created, local scaffold commit 98e199d ready; push blocked by GitHub 403. |
 | 011 | 2026-06-29 | Llama CUDA Doctor | [`halaprix/llama-cuda-doctor`](https://github.com/halaprix/llama-cuda-doctor) | Local LLM builders need CUDA/driver/llama.cpp mismatch diagnostics before rebuilding blind | blocked | Scored 19/25; remote repo created, local scaffold commit aa6a7ab ready; push blocked by GitHub 403. |
 | 012 | 2026-06-30 | PeerPath | [`halaprix/peerpath`](https://github.com/halaprix/peerpath) | Self-hosters need Dockerized WireGuard/wg-easy host-to-peer routing diagnostics before pasting unsafe firewall fixes | blocked | Scored 20/25; remote repo created, local scaffold commit a3382d6 ready; push blocked by GitHub 403. |
+| 013 | 2026-07-01 | PermTwin | — | SharePoint admins need safe user-to-user permission diffs before copying access | idea-only | Scored 17/25; no repo — direct competitors already cover permission reporting/compare, wedge needs sharper proof. |
 
 ## Daily process
 

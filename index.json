@@ -119,6 +119,15 @@
       "signal": "Self-hosters need Dockerized WireGuard/wg-easy host-to-peer routing diagnostics before pasting unsafe firewall fixes",
       "status": "blocked",
       "notes": "Scored 20/25; remote repo created, local scaffold commit a3382d6 ready; push blocked by GitHub 403."
+    },
+    {
+      "day": 13,
+      "date": "2026-07-01",
+      "app": "PermTwin",
+      "repo": null,
+      "signal": "SharePoint admins need safe user-to-user permission diffs before copying access",
+      "status": "idea-only",
+      "notes": "Scored 17/25; no repo — direct competitors already cover permission reporting/compare, wedge needs sharper proof."
     }
   ]
 }
