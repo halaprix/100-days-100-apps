@@ -128,6 +128,15 @@
       "signal": "SharePoint admins need safe user-to-user permission diffs before copying access",
       "status": "idea-only",
       "notes": "Scored 17/25; no repo — direct competitors already cover permission reporting/compare, wedge needs sharper proof."
+    },
+    {
+      "day": 14,
+      "date": "2026-07-02",
+      "app": "HeaderPass",
+      "repo": "https://github.com/halaprix/headerpass",
+      "signal": "Self-hosters need safe diagnostics when Cloudflare Access/tunnel headers break mobile or API clients",
+      "status": "repo-created",
+      "notes": "Scored 19/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
     }
   ]
 }
