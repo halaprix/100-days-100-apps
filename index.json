@@ -137,6 +137,15 @@
       "signal": "Self-hosters need safe diagnostics when Cloudflare Access/tunnel headers break mobile or API clients",
       "status": "repo-created",
       "notes": "Scored 19/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
+    },
+    {
+      "day": 15,
+      "date": "2026-07-03",
+      "app": "VramJanitor",
+      "repo": "https://github.com/halaprix/vram-janitor",
+      "signal": "Local LLM users need reclaimable desktop VRAM identified before launching models",
+      "status": "repo-created",
+      "notes": "Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
     }
   ]
 }

@@ -37,6 +37,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 012 | 2026-06-30 | PeerPath | [`halaprix/peerpath`](https://github.com/halaprix/peerpath) | Self-hosters need Dockerized WireGuard/wg-easy host-to-peer routing diagnostics before pasting unsafe firewall fixes | blocked | Scored 20/25; remote repo created, local scaffold commit a3382d6 ready; push blocked by GitHub 403. |
 | 013 | 2026-07-01 | PermTwin | — | SharePoint admins need safe user-to-user permission diffs before copying access | idea-only | Scored 17/25; no repo — direct competitors already cover permission reporting/compare, wedge needs sharper proof. |
 | 014 | 2026-07-02 | HeaderPass | [`halaprix/headerpass`](https://github.com/halaprix/headerpass) | Self-hosters need safe diagnostics when Cloudflare Access/tunnel headers break mobile or API clients | repo-created | Scored 19/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
+| 015 | 2026-07-03 | VramJanitor | [`halaprix/vram-janitor`](https://github.com/halaprix/vram-janitor) | Local LLM users need reclaimable desktop VRAM identified before launching models | repo-created | Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
 
 ## Daily process
 
