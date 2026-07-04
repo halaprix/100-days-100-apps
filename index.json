@@ -146,6 +146,15 @@
       "signal": "Local LLM users need reclaimable desktop VRAM identified before launching models",
       "status": "repo-created",
       "notes": "Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
+    },
+    {
+      "day": 16,
+      "date": "2026-07-04",
+      "app": "R2 Backup Probe",
+      "repo": "https://github.com/halaprix/r2-backup-probe",
+      "signal": "Duplicati + Cloudflare R2 backup users need executable diagnostics before trusting failed/opaque S3 connection tests",
+      "status": "repo-created",
+      "notes": "Scored 19/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
     }
   ]
 }
