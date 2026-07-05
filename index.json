@@ -155,6 +155,15 @@
       "signal": "Duplicati + Cloudflare R2 backup users need executable diagnostics before trusting failed/opaque S3 connection tests",
       "status": "repo-created",
       "notes": "Scored 19/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
+    },
+    {
+      "day": 17,
+      "date": "2026-07-05",
+      "app": "BecomeDoctor",
+      "repo": "https://github.com/halaprix/become-doctor",
+      "signal": "Ubuntu/Ansible operators need a safe sudo-rs become-compatibility preflight before upgrade windows",
+      "status": "repo-created",
+      "notes": "Scored 19/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
     }
   ]
 }
