@@ -40,6 +40,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 015 | 2026-07-03 | VramJanitor | [`halaprix/vram-janitor`](https://github.com/halaprix/vram-janitor) | Local LLM users need reclaimable desktop VRAM identified before launching models | repo-created | Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
 | 016 | 2026-07-04 | R2 Backup Probe | [`halaprix/r2-backup-probe`](https://github.com/halaprix/r2-backup-probe) | Duplicati + Cloudflare R2 backup users need executable diagnostics before trusting failed/opaque S3 connection tests | repo-created | Scored 19/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
 | 017 | 2026-07-05 | BecomeDoctor | [`halaprix/become-doctor`](https://github.com/halaprix/become-doctor) | Ubuntu/Ansible operators need a safe `sudo-rs` become-compatibility preflight before upgrade windows | repo-created | Scored 19/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
+| 018 | 2026-07-06 | LabFit | [`halaprix/labfit`](https://github.com/halaprix/labfit) | Self-hosters need Proxmox-vs-NAS workload placement advice before copying install scripts | repo-created | Scored 19/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
 
 ## Daily process
 

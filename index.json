@@ -164,6 +164,15 @@
       "signal": "Ubuntu/Ansible operators need a safe sudo-rs become-compatibility preflight before upgrade windows",
       "status": "repo-created",
       "notes": "Scored 19/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
+    },
+    {
+      "day": 18,
+      "date": "2026-07-06",
+      "app": "LabFit",
+      "repo": "https://github.com/halaprix/labfit",
+      "signal": "Self-hosters need Proxmox-vs-NAS workload placement advice before copying install scripts",
+      "status": "repo-created",
+      "notes": "Scored 19/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
     }
   ]
 }
