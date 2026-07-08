@@ -182,6 +182,15 @@
       "signal": "Windows imaging admins need OEM/OOBE setup trap checks before silent post-image script failures",
       "status": "repo-created",
       "notes": "Scored 19/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
+    },
+    {
+      "day": 20,
+      "date": "2026-07-08",
+      "app": "DavSync Doctor",
+      "repo": "https://github.com/halaprix/davsync-doctor",
+      "signal": "Radicale/Baïkal self-hosters need Apple Contacts/CardDAV sync diagnostics before leaking configs into support threads",
+      "status": "repo-created",
+      "notes": "Scored 19/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
     }
   ]
 }
