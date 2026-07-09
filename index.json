@@ -191,6 +191,15 @@
       "signal": "Radicale/Baïkal self-hosters need Apple Contacts/CardDAV sync diagnostics before leaking configs into support threads",
       "status": "repo-created",
       "notes": "Scored 19/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
+    },
+    {
+      "day": 21,
+      "date": "2026-07-09",
+      "app": "BayTrace",
+      "repo": "https://github.com/halaprix/baytrace",
+      "signal": "Proxmox homelab builders need read-only SATA bay/controller diagnostics before trusting flaky disk detection",
+      "status": "repo-created",
+      "notes": "Scored 21/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
     }
   ]
 }
