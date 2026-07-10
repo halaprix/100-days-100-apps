@@ -44,6 +44,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 019 | 2026-07-07 | OOBEGuard | [`halaprix/oobeguard`](https://github.com/halaprix/oobeguard) | Windows imaging admins need OEM/OOBE setup trap checks before silent post-image script failures | repo-created | Scored 19/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
 | 020 | 2026-07-08 | DavSync Doctor | [`halaprix/davsync-doctor`](https://github.com/halaprix/davsync-doctor) | Radicale/Baïkal self-hosters need Apple Contacts/CardDAV sync diagnostics before leaking configs into support threads | repo-created | Scored 19/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
 | 021 | 2026-07-09 | BayTrace | [`halaprix/baytrace`](https://github.com/halaprix/baytrace) | Proxmox homelab builders need read-only SATA bay/controller diagnostics before trusting flaky disk detection | repo-created | Scored 21/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
+| 022 | 2026-07-10 | StorePacket | [`halaprix/storepacket`](https://github.com/halaprix/storepacket) | Solo mobile SaaS founders need App Store submission packet prep before losing days in App Store Connect | repo-created | Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
 
 ## Daily process
 
