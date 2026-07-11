@@ -209,6 +209,15 @@
       "signal": "Solo mobile SaaS founders need App Store submission packet prep before losing days in App Store Connect",
       "status": "repo-created",
       "notes": "Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
+    },
+    {
+      "day": 23,
+      "date": "2026-07-11",
+      "app": "SheetSentry",
+      "repo": "https://github.com/halaprix/sheetsentry",
+      "signal": "Builders need sheet-backed API/MCP endpoint checks before provider caps or schema drift blank public pages",
+      "status": "repo-created",
+      "notes": "Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
     }
   ]
 }
