@@ -46,6 +46,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 021 | 2026-07-09 | BayTrace | [`halaprix/baytrace`](https://github.com/halaprix/baytrace) | Proxmox homelab builders need read-only SATA bay/controller diagnostics before trusting flaky disk detection | repo-created | Scored 21/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
 | 022 | 2026-07-10 | StorePacket | [`halaprix/storepacket`](https://github.com/halaprix/storepacket) | Solo mobile SaaS founders need App Store submission packet prep before losing days in App Store Connect | repo-created | Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
 | 023 | 2026-07-11 | SheetSentry | [`halaprix/sheetsentry`](https://github.com/halaprix/sheetsentry) | Builders need sheet-backed API/MCP endpoint checks before provider caps or schema drift blank public pages | repo-created | Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
+| 024 | 2026-07-12 | FreeTierFit | [`halaprix/free-tier-fit`](https://github.com/halaprix/free-tier-fit) | Self-hosters need tiny-host Docker Compose fit checks before overloading free-tier VMs | repo-created | Scored 19/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
 
 ## Daily process
 

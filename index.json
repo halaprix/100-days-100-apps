@@ -218,6 +218,15 @@
       "signal": "Builders need sheet-backed API/MCP endpoint checks before provider caps or schema drift blank public pages",
       "status": "repo-created",
       "notes": "Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
+    },
+    {
+      "day": 24,
+      "date": "2026-07-12",
+      "app": "FreeTierFit",
+      "repo": "https://github.com/halaprix/free-tier-fit",
+      "signal": "Self-hosters need tiny-host Docker Compose fit checks before overloading free-tier VMs",
+      "status": "repo-created",
+      "notes": "Scored 19/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
     }
   ]
 }
