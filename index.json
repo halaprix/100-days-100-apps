@@ -236,6 +236,15 @@
       "signal": "Microsoft 365 admins need tenant-country/CSP-region decision packets before overbuying or delaying tenant migrations",
       "status": "repo-created",
       "notes": "Scored 19/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
+    },
+    {
+      "day": 26,
+      "date": "2026-07-14",
+      "app": "PortLease",
+      "repo": "https://github.com/halaprix/portlease",
+      "signal": "Self-hosters need read-only UPnP/NAT-PMP lease reports before a NAS silently exposes services",
+      "status": "repo-created",
+      "notes": "Scored 22/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
     }
   ]
 }

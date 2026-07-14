@@ -48,6 +48,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 023 | 2026-07-11 | SheetSentry | [`halaprix/sheetsentry`](https://github.com/halaprix/sheetsentry) | Builders need sheet-backed API/MCP endpoint checks before provider caps or schema drift blank public pages | repo-created | Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
 | 024 | 2026-07-12 | FreeTierFit | [`halaprix/free-tier-fit`](https://github.com/halaprix/free-tier-fit) | Self-hosters need tiny-host Docker Compose fit checks before overloading free-tier VMs | repo-created | Scored 19/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
 | 025 | 2026-07-13 | TenantRoute | [`halaprix/tenant-route`](https://github.com/halaprix/tenant-route) | Microsoft 365 admins need tenant-country/CSP-region decision packets before overbuying or delaying tenant migrations | repo-created | Scored 19/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
+| 026 | 2026-07-14 | PortLease | [`halaprix/portlease`](https://github.com/halaprix/portlease) | Self-hosters need read-only UPnP/NAT-PMP lease reports before a NAS silently exposes services | repo-created | Scored 22/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
 
 ## Daily process
 
