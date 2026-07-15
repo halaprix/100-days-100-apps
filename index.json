@@ -245,6 +245,15 @@
       "signal": "Self-hosters need read-only UPnP/NAT-PMP lease reports before a NAS silently exposes services",
       "status": "repo-created",
       "notes": "Scored 22/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
+    },
+    {
+      "day": 27,
+      "date": "2026-07-15",
+      "app": "TzDrift",
+      "repo": "https://github.com/halaprix/tzdrift",
+      "signal": "Sysadmins need timezone-law/tzdata readiness packets before stale runtimes or local-time schedulers drift",
+      "status": "repo-created",
+      "notes": "Scored 21/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
     }
   ]
 }
