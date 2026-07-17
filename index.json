@@ -263,6 +263,15 @@
       "signal": "Sensitive-support sites need browser-trace safety audits before SEO titles or slugs expose at-risk users",
       "status": "repo-created",
       "notes": "Scored 21/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
+    },
+    {
+      "day": 29,
+      "date": "2026-07-17",
+      "app": "TicketScrub",
+      "repo": "https://github.com/halaprix/ticketscrub",
+      "signal": "Jira admins need PII/secrets draft checks before tickets store sensitive data",
+      "status": "repo-created",
+      "notes": "Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
     }
   ]
 }
