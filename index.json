@@ -272,6 +272,15 @@
       "signal": "Jira admins need PII/secrets draft checks before tickets store sensitive data",
       "status": "repo-created",
       "notes": "Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
+    },
+    {
+      "day": 30,
+      "date": "2026-07-18",
+      "app": "MxCutover",
+      "repo": "https://github.com/halaprix/mxcutover",
+      "signal": "M365 admins need email-gateway cutover readiness packets before Proofpoint/Mimecast migrations break mail flow",
+      "status": "repo-created",
+      "notes": "Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
     }
   ]
 }

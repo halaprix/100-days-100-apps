@@ -52,6 +52,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 027 | 2026-07-15 | TzDrift | [`halaprix/tzdrift`](https://github.com/halaprix/tzdrift) | Sysadmins need timezone-law/tzdata readiness packets before stale runtimes or local-time schedulers drift | repo-created | Scored 21/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
 | 028 | 2026-07-16 | ExitTrace | [`halaprix/exittrace`](https://github.com/halaprix/exittrace) | Sensitive-support sites need browser-trace safety audits before SEO titles or slugs expose at-risk users | repo-created | Scored 21/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
 | 029 | 2026-07-17 | TicketScrub | [`halaprix/ticketscrub`](https://github.com/halaprix/ticketscrub) | Jira admins need PII/secrets draft checks before tickets store sensitive data | repo-created | Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
+| 030 | 2026-07-18 | MxCutover | [`halaprix/mxcutover`](https://github.com/halaprix/mxcutover) | M365 admins need email-gateway cutover readiness packets before Proofpoint/Mimecast migrations break mail flow | repo-created | Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
 
 ## Daily process
 
