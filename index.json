@@ -281,6 +281,15 @@
       "signal": "M365 admins need email-gateway cutover readiness packets before Proofpoint/Mimecast migrations break mail flow",
       "status": "repo-created",
       "notes": "Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
+    },
+    {
+      "day": 31,
+      "date": "2026-07-19",
+      "app": "BackupLocksmith",
+      "repo": "https://github.com/halaprix/backup-locksmith",
+      "signal": "Self-hosters need safe UrBackup lockout recovery packets before reinstalling or deleting backup metadata",
+      "status": "repo-created",
+      "notes": "Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
     }
   ]
 }
