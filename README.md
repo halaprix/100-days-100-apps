@@ -54,7 +54,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 029 | 2026-07-17 | TicketScrub | [`halaprix/ticketscrub`](https://github.com/halaprix/ticketscrub) | Jira admins need PII/secrets draft checks before tickets store sensitive data | repo-created | Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
 | 030 | 2026-07-18 | MxCutover | [`halaprix/mxcutover`](https://github.com/halaprix/mxcutover) | M365 admins need email-gateway cutover readiness packets before Proofpoint/Mimecast migrations break mail flow | repo-created | Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
 | 031 | 2026-07-19 | BackupLocksmith | [`halaprix/backup-locksmith`](https://github.com/halaprix/backup-locksmith) | Self-hosters need safe UrBackup lockout recovery packets before reinstalling or deleting backup metadata | repo-created | Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
-| 032 | 2026-07-21 | WinSvcBeacon | [`halaprix/winsvc-beacon`](https://github.com/halaprix/winsvc-beacon) | Windows-heavy admins need simple Uptime Kuma-shaped checks for Windows Services without full monitoring stacks | repo-created | Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
+| 032 | 2026-07-21 | WinSvcBeacon | [`halaprix/winsvc-beacon`](https://github.com/halaprix/winsvc-beacon) | Windows-heavy admins need simple Uptime Kuma-shaped checks for Windows Services without full monitoring stacks | repo-created | Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.1 after CI smoke fix. |
 
 ## Daily process
 

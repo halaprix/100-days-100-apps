@@ -97,7 +97,7 @@ Kill or narrow if Uptime Kuma ships first-party Windows Service monitors with se
 
 ## Decision
 
-Create `halaprix/winsvc-beacon` as a dedicated project repo: https://github.com/halaprix/winsvc-beacon. The idea scores 20/25, Distribution is 4/5, and Competitive wedge/timing is 3/5. Repo status is `repo-created`: scaffold pushed to GitHub and tagged `v0.1.0-alpha.0`.
+Create `halaprix/winsvc-beacon` as a dedicated project repo: https://github.com/halaprix/winsvc-beacon. The idea scores 20/25, Distribution is 4/5, and Competitive wedge/timing is 3/5. Repo status is `repo-created`: scaffold pushed to GitHub and tagged `v0.1.0-alpha.1` after fixing the scaffold CI smoke check.
 
 ## Next build step
 

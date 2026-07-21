@@ -298,7 +298,7 @@
       "repo": "https://github.com/halaprix/winsvc-beacon",
       "signal": "Windows-heavy admins need simple Uptime Kuma-shaped checks for Windows Services without full monitoring stacks",
       "status": "repo-created",
-      "notes": "Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
+      "notes": "Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.1 after CI smoke fix."
     }
   ]
 }
