@@ -299,6 +299,15 @@
       "signal": "Windows-heavy admins need simple Uptime Kuma-shaped checks for Windows Services without full monitoring stacks",
       "status": "repo-created",
       "notes": "Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.1 after CI smoke fix."
+    },
+    {
+      "day": 33,
+      "date": "2026-07-22",
+      "app": "ReplayFence",
+      "repo": "https://github.com/halaprix/replayfence",
+      "signal": "SaaS/webhook builders need local retry/idempotency preflights before duplicate deliveries create side effects",
+      "status": "repo-created",
+      "notes": "Scored 21/25; repo scaffold pushed and tagged v0.1.0-alpha.1 after CI smoke fix."
     }
   ]
 }
