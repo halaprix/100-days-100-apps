@@ -56,6 +56,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 031 | 2026-07-19 | BackupLocksmith | [`halaprix/backup-locksmith`](https://github.com/halaprix/backup-locksmith) | Self-hosters need safe UrBackup lockout recovery packets before reinstalling or deleting backup metadata | repo-created | Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
 | 032 | 2026-07-21 | WinSvcBeacon | [`halaprix/winsvc-beacon`](https://github.com/halaprix/winsvc-beacon) | Windows-heavy admins need simple Uptime Kuma-shaped checks for Windows Services without full monitoring stacks | repo-created | Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.1 after CI smoke fix. |
 | 033 | 2026-07-22 | ReplayFence | [`halaprix/replayfence`](https://github.com/halaprix/replayfence) | SaaS/webhook builders need local retry/idempotency preflights before duplicate deliveries create side effects | repo-created | Scored 21/25; repo scaffold pushed and tagged v0.1.0-alpha.1 after CI smoke fix. |
+| 034 | 2026-07-23 | ReportChain | [`halaprix/reportchain`](https://github.com/halaprix/reportchain) | Microsoft 365 admins need safe manager/direct-report distribution-list preview packets before Entra/Exchange rule mistakes or static DL drift | repo-created | Scored 19/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
 
 ## Daily process
 

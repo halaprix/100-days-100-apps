@@ -308,6 +308,15 @@
       "signal": "SaaS/webhook builders need local retry/idempotency preflights before duplicate deliveries create side effects",
       "status": "repo-created",
       "notes": "Scored 21/25; repo scaffold pushed and tagged v0.1.0-alpha.1 after CI smoke fix."
+    },
+    {
+      "day": 34,
+      "date": "2026-07-23",
+      "app": "ReportChain",
+      "repo": "https://github.com/halaprix/reportchain",
+      "signal": "Microsoft 365 admins need safe manager/direct-report distribution-list preview packets before Entra/Exchange rule mistakes or static DL drift",
+      "status": "repo-created",
+      "notes": "Scored 19/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
     }
   ]
 }
