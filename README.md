@@ -57,6 +57,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 032 | 2026-07-21 | WinSvcBeacon | [`halaprix/winsvc-beacon`](https://github.com/halaprix/winsvc-beacon) | Windows-heavy admins need simple Uptime Kuma-shaped checks for Windows Services without full monitoring stacks | repo-created | Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.1 after CI smoke fix. |
 | 033 | 2026-07-22 | ReplayFence | [`halaprix/replayfence`](https://github.com/halaprix/replayfence) | SaaS/webhook builders need local retry/idempotency preflights before duplicate deliveries create side effects | repo-created | Scored 21/25; repo scaffold pushed and tagged v0.1.0-alpha.1 after CI smoke fix. |
 | 034 | 2026-07-23 | ReportChain | [`halaprix/reportchain`](https://github.com/halaprix/reportchain) | Microsoft 365 admins need safe manager/direct-report distribution-list preview packets before Entra/Exchange rule mistakes or static DL drift | repo-created | Scored 19/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
+| 035 | 2026-07-24 | ProxyEnv Doctor | [`halaprix/proxyenv-doctor`](https://github.com/halaprix/proxyenv-doctor) | Self-hosted CI developers need proxy-env compatibility packets before `HTTP_PROXY` / `NO_PROXY` drift breaks GitLab Runner or Docker jobs | repo-created | Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
 
 ## Daily process
 
