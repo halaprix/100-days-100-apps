@@ -326,6 +326,15 @@
       "signal": "Self-hosted CI developers need proxy-env compatibility packets before HTTP_PROXY / NO_PROXY drift breaks GitLab Runner or Docker jobs",
       "status": "repo-created",
       "notes": "Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
+    },
+    {
+      "day": 36,
+      "date": "2026-07-25",
+      "app": "QueryGap",
+      "repo": "https://github.com/halaprix/querygap",
+      "signal": "AdGuard Home self-hosters need query-log/dashboard reconciliation before chasing phantom DNS filtering issues",
+      "status": "repo-created",
+      "notes": "Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
     }
   ]
 }
