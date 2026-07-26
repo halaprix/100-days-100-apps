@@ -335,6 +335,15 @@
       "signal": "AdGuard Home self-hosters need query-log/dashboard reconciliation before chasing phantom DNS filtering issues",
       "status": "repo-created",
       "notes": "Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
+    },
+    {
+      "day": 37,
+      "date": "2026-07-26",
+      "app": "CampaignPacket",
+      "repo": "https://github.com/halaprix/campaignpacket",
+      "signal": "Small-business Teams Phone admins need 10DLC/SMS campaign approval packets before vague rejection codes restart multi-week loops",
+      "status": "repo-created",
+      "notes": "Scored 21/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
     }
   ]
 }
