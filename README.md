@@ -60,6 +60,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 035 | 2026-07-24 | ProxyEnv Doctor | [`halaprix/proxyenv-doctor`](https://github.com/halaprix/proxyenv-doctor) | Self-hosted CI developers need proxy-env compatibility packets before `HTTP_PROXY` / `NO_PROXY` drift breaks GitLab Runner or Docker jobs | repo-created | Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
 | 036 | 2026-07-25 | QueryGap | [`halaprix/querygap`](https://github.com/halaprix/querygap) | AdGuard Home self-hosters need query-log/dashboard reconciliation before chasing phantom DNS filtering issues | repo-created | Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
 | 037 | 2026-07-26 | CampaignPacket | [`halaprix/campaignpacket`](https://github.com/halaprix/campaignpacket) | Small-business Teams Phone admins need 10DLC/SMS campaign approval packets before vague rejection codes restart multi-week loops | repo-created | Scored 21/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
+| 038 | 2026-07-27 | SplitPath | [`halaprix/splitpath`](https://github.com/halaprix/splitpath) | Self-hosters need split-DNS/private reverse-proxy diagnostics before exposing services or guessing DNS fixes | repo-created | Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0. |
 
 ## Daily process
 

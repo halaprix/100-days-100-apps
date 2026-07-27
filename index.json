@@ -344,6 +344,15 @@
       "signal": "Small-business Teams Phone admins need 10DLC/SMS campaign approval packets before vague rejection codes restart multi-week loops",
       "status": "repo-created",
       "notes": "Scored 21/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
+    },
+    {
+      "day": 38,
+      "date": "2026-07-27",
+      "app": "SplitPath",
+      "repo": "https://github.com/halaprix/splitpath",
+      "signal": "Self-hosters need split-DNS/private reverse-proxy diagnostics before exposing services or guessing DNS fixes",
+      "status": "repo-created",
+      "notes": "Scored 20/25; repo scaffold pushed and tagged v0.1.0-alpha.0."
     }
   ]
 }
