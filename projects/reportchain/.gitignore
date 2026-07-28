@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+
+# Build/test
+/dist/
+/build/
+/.pytest_cache/
+/coverage.xml
+
+# Beads / Dolt local state
+.dolt/
+*.db
+.beads-credential-key
+.beads/proxieddb/
+.beads/embeddeddolt/
+.beads/backup/
+.beads/last-touched

@@ -2,7 +2,7 @@
 
 Date: 2026-07-04
 Status: repo-created
-Repo: https://github.com/halaprix/r2-backup-probe
+Repo: ../projects/r2-backup-probe
 
 ## One-line pitch
 
@@ -91,7 +91,7 @@ Kill or narrow if current Duplicati releases add first-class Cloudflare R2 suppo
 
 Create the dedicated repo because R2 Backup Probe scored 19/25, Distribution is 4/5, and Competitive wedge / timing is 3/5.
 
-Repo created, scaffold pushed, and tagged: https://github.com/halaprix/r2-backup-probe
+Repo created, scaffold pushed, and tagged: ../projects/r2-backup-probe
 
 ## Next build step
 

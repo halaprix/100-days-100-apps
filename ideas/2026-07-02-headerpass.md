@@ -2,7 +2,7 @@
 
 Date: 2026-07-02
 Status: repo-created
-Repo: https://github.com/halaprix/headerpass
+Repo: ../projects/headerpass
 
 ## One-line pitch
 
@@ -88,7 +88,7 @@ Reject or narrow if app-level custom-header support becomes common enough that u
 
 Create the dedicated repo because HeaderPass scored 19/25, Distribution is 4/5, and Competitive wedge / timing is 3/5.
 
-Repo created and scaffold pushed: https://github.com/halaprix/headerpass
+Repo created and scaffold pushed: ../projects/headerpass
 
 ## Next build step
 

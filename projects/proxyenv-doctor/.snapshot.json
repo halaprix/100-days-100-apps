@@ -1,0 +1,11 @@
+{
+  "slug": "proxyenv-doctor",
+  "name": "ProxyEnv Doctor",
+  "source": "local 100-days-lab project repo",
+  "archived_at": "2026-07-28T05:37:20+00:00",
+  "source_remote": "https://github.com/halaprix/proxyenv-doctor.git",
+  "source_branch": "main",
+  "source_commit": "457ba8159f1eee9713c72efed2f4f587ea5f4fa1",
+  "tracked_file_count": 22,
+  "canonical_path": "projects/proxyenv-doctor"
+}

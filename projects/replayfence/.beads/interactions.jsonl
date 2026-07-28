@@ -1,0 +1,1 @@
+{"id":"int-be7fee85fc6ca9b15d004490e5555bcd","kind":"field_change","created_at":"2026-07-22T07:27:02.954704186Z","actor":"halaprix","issue_id":"rf-5u4","extra":{"field":"status","new_value":"closed","old_value":"in_progress","reason":"Fixed before v0.1.0-alpha.1"}}

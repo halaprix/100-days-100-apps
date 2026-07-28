@@ -1,0 +1,41 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  hygiene:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check required files
+        run: |
+          test -f README.md
+          test -f SPEC.md
+          test -f AGENTS.md
+          test -f CHANGELOG.md
+          test -f LICENSE
+          test -f CONTRIBUTING.md
+          test -f SECURITY.md
+      - name: Public-safety scan
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          banned = [
+              'BEGIN ' + 'PRIVATE KEY',
+              'Authorization:' + ' Bearer ',
+              'x-access-' + 'token:',
+              'api_' + 'key=',
+              'client_' + 'secret',
+          ]
+          paths = [p for p in Path('.').rglob('*') if p.is_file() and '.git' not in p.parts]
+          for path in paths:
+              text = path.read_text(errors='ignore')
+              for needle in banned:
+                  if needle in text:
+                      raise SystemExit(f'public-safety scan failed: {needle!r} in {path}')
+          PY

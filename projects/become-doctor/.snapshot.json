@@ -1,0 +1,11 @@
+{
+  "slug": "become-doctor",
+  "name": "BecomeDoctor",
+  "source": "local 100-days-lab project repo",
+  "archived_at": "2026-07-28T05:37:20+00:00",
+  "source_remote": "https://github.com/halaprix/become-doctor.git",
+  "source_branch": "main",
+  "source_commit": "abf52ae1f27cd945df48c5bba9f4b0bb9b262d5b",
+  "tracked_file_count": 21,
+  "canonical_path": "projects/become-doctor"
+}

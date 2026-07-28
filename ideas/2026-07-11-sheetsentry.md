@@ -81,7 +81,7 @@ Kill or narrow the idea if target users say their sheet-backed pages are noncrit
 
 Create the dedicated repo because SheetSentry scored 20/25, Distribution is 4/5, and Competitive wedge / timing is 4/5.
 
-Repo: https://github.com/halaprix/sheetsentry
+Repo: ../projects/sheetsentry
 
 ## Next build step
 

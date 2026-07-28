@@ -1,0 +1,11 @@
+{
+  "slug": "tenant-route",
+  "name": "TenantRoute",
+  "source": "local 100-days-lab project repo",
+  "archived_at": "2026-07-28T05:37:20+00:00",
+  "source_remote": "https://github.com/halaprix/tenant-route.git",
+  "source_branch": "main",
+  "source_commit": "e4da2d847c330d3099fac80d0e9dc43faaf848c1",
+  "tracked_file_count": 22,
+  "canonical_path": "projects/tenant-route"
+}

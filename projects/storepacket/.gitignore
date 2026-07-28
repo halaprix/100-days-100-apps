@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Local editor/agent state
+.claude/
+CLAUDE.md
+.DS_Store
+
+# Generated packets may contain private app metadata.
+dist/
+packets/
+*.storepacket.local.yaml

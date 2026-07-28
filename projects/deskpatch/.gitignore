@@ -1,0 +1,12 @@
+.beads/*.db
+.beads/*.db-shm
+.beads/*.db-wal
+.DS_Store
+*.log
+/dist/
+/build/
+
+# Beads / Dolt files (added by bd init)
+.dolt/
+*.db
+.beads-credential-key

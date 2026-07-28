@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# Local/editor state
+.DS_Store
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+
+# Beads local state exports
+.beads/embeddeddolt/
+.beads/backup/
+.beads/*.db
+.beads/*.db-shm
+.beads/*.db-wal
+.beads/last-touched
+.beads/export-state.json

@@ -1,0 +1,11 @@
+{
+  "slug": "llama-cuda-doctor",
+  "name": "Llama CUDA Doctor",
+  "source": "local 100-days-lab project repo",
+  "archived_at": "2026-07-28T05:37:20+00:00",
+  "source_remote": "https://github.com/halaprix/llama-cuda-doctor.git",
+  "source_branch": "main",
+  "source_commit": "aa6a7ab7b061a0400eb3ee17c798e0063f3578e9",
+  "tracked_file_count": 22,
+  "canonical_path": "projects/llama-cuda-doctor"
+}

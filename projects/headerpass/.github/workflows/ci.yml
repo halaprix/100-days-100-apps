@@ -1,0 +1,33 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  docs:
+    name: Docs sanity
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Validate required files
+        run: |
+          test -f README.md
+          test -f SPEC.md
+          test -f AGENTS.md
+          test -f CHANGELOG.md
+          test -f LICENSE
+          test -f CONTRIBUTING.md
+          test -f SECURITY.md
+      - name: Check for obvious unredacted examples
+        run: |
+          if grep -RInE 'CF-Access-Client-Secret: [[:alnum:]_-]{12,}' . --exclude-dir=.git; then
+            echo "Possible unredacted secret example found"
+            exit 1
+          fi

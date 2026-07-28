@@ -88,7 +88,7 @@ Reject or narrow if llama.cpp and binding maintainers ship an official `doctor` 
 
 ## Decision
 
-Create the dedicated project scaffold for Llama CUDA Doctor, but mark the day `blocked` rather than cleanly `repo-created`: the GitHub repository was created at https://github.com/halaprix/llama-cuda-doctor, the local scaffold commit is ready (`aa6a7ab`), and `git push` failed with GitHub HTTP 403 (`Permission to halaprix/llama-cuda-doctor.git denied to halaprix`).
+Create the dedicated project scaffold for Llama CUDA Doctor, but mark the day `blocked` rather than cleanly `repo-created`: the GitHub repository was created at ../projects/llama-cuda-doctor, the local scaffold commit is ready (`aa6a7ab`), and `git push` failed with GitHub HTTP 403 (`Permission to halaprix/llama-cuda-doctor.git denied to halaprix`).
 
 ## Next build step
 

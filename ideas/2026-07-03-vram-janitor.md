@@ -2,7 +2,7 @@
 
 Date: 2026-07-03
 Status: repo-created
-Repo: https://github.com/halaprix/vram-janitor
+Repo: ../projects/vram-janitor
 
 ## One-line pitch
 
@@ -90,7 +90,7 @@ Kill or narrow if early users only want a general GPU dashboard, automatic proce
 
 Create the dedicated repo because VramJanitor scored 20/25, Distribution is 4/5, and Competitive wedge / timing is 3/5.
 
-Repo created, scaffold pushed, and tagged: https://github.com/halaprix/vram-janitor
+Repo created, scaffold pushed, and tagged: ../projects/vram-janitor
 
 ## Next build step
 

@@ -2,7 +2,7 @@
 
 Date: 2026-07-08
 Status: repo-created
-Repo: https://github.com/halaprix/davsync-doctor
+Repo: ../projects/davsync-doctor
 
 ## One-line pitch
 

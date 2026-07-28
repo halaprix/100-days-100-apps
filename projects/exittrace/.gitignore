@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.DS_Store
+exittrace-report.md
+exittrace-report.csv
+
+# Beads / Dolt files (added by bd init)
+.dolt/
+*.db
+.beads-credential-key

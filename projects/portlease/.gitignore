@@ -1,0 +1,26 @@
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+
+# Python / Node future-proofing
+.venv/
+__pycache__/
+node_modules/
+dist/
+build/
+
+# Local environment
+.env
+.env.*
+
+# Beads local DB/runtime state
+.beads/*.db
+.beads/*.db-shm
+.beads/*.db-wal
+.beads/.git/
+
+# Beads / Dolt files (added by bd init)
+.dolt/
+*.db
+.beads-credential-key

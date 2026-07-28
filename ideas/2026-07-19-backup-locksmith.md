@@ -96,7 +96,7 @@ Kill or narrow if UrBackup ships a first-party cross-platform recovery wizard th
 
 ## Decision
 
-Create `halaprix/backup-locksmith` as a dedicated project repo: https://github.com/halaprix/backup-locksmith. The score clears the 18/25 threshold, Distribution is 4/5, and Competitive wedge/timing is 3/5. Repo status is `repo-created`: scaffold pushed to GitHub and tagged `v0.1.0-alpha.0`.
+Create `halaprix/backup-locksmith` as a dedicated project repo: ../projects/backup-locksmith. The score clears the 18/25 threshold, Distribution is 4/5, and Competitive wedge/timing is 3/5. Repo status is `repo-created`: scaffold pushed to GitHub and tagged `v0.1.0-alpha.0`.
 
 ## Next build step
 

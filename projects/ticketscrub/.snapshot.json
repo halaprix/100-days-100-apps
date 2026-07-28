@@ -1,0 +1,11 @@
+{
+  "slug": "ticketscrub",
+  "name": "TicketScrub",
+  "source": "local 100-days-lab project repo",
+  "archived_at": "2026-07-28T05:37:20+00:00",
+  "source_remote": "https://github.com/halaprix/ticketscrub.git",
+  "source_branch": "main",
+  "source_commit": "5a81b609ebe7fc1677fc32b09f1bb686689a63b9",
+  "tracked_file_count": 22,
+  "canonical_path": "projects/ticketscrub"
+}

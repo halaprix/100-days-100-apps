@@ -15,3 +15,10 @@ Rules:
 - Do not put app implementation code inside `index/`.
 - Do not commit absolute local filesystem paths into public-facing docs.
 - Project repos get their own `.beads/`; the index repo keeps only incubator/index tasks.
+
+
+## Consolidated snapshots
+
+The master index repo also tracks public-safe snapshots of the dedicated app repos under `projects/<repo-name>/`.
+These snapshots are the canonical copy to keep before cleaning up the separate GitHub repositories.
+They intentionally exclude each source repo's `.git/` directory and include only files tracked at the source repo `HEAD` plus a `.snapshot.json` provenance file.

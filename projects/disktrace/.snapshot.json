@@ -1,0 +1,11 @@
+{
+  "slug": "disktrace",
+  "name": "DiskTrace",
+  "source": "local 100-days-lab project repo",
+  "archived_at": "2026-07-28T05:37:20+00:00",
+  "source_remote": null,
+  "source_branch": "main",
+  "source_commit": "e250869813e17ff94053a5cf56768aef27ce0651",
+  "tracked_file_count": 21,
+  "canonical_path": "projects/disktrace"
+}

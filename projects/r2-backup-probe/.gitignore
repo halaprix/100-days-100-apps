@@ -1,0 +1,14 @@
+.DS_Store
+.env
+*.log
+coverage/
+dist/
+build/
+node_modules/
+__pycache__/
+.pytest_cache/
+
+# Beads / Dolt files (added by bd init)
+.dolt/
+*.db
+.beads-credential-key

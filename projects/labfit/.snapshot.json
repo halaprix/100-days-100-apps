@@ -1,0 +1,11 @@
+{
+  "slug": "labfit",
+  "name": "LabFit",
+  "source": "local 100-days-lab project repo",
+  "archived_at": "2026-07-28T05:37:20+00:00",
+  "source_remote": "https://github.com/halaprix/labfit.git",
+  "source_branch": "main",
+  "source_commit": "38537545e9979e8f15e55fcd55e57487a1c9226e",
+  "tracked_file_count": 21,
+  "canonical_path": "projects/labfit"
+}

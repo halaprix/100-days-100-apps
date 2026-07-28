@@ -1,0 +1,11 @@
+{
+  "slug": "tzdrift",
+  "name": "TzDrift",
+  "source": "local 100-days-lab project repo",
+  "archived_at": "2026-07-28T05:37:20+00:00",
+  "source_remote": "https://github.com/halaprix/tzdrift.git",
+  "source_branch": "main",
+  "source_commit": "6df4bef2c0f1a133bc54d3d7db9f131e8ff18cba",
+  "tracked_file_count": 23,
+  "canonical_path": "projects/tzdrift"
+}

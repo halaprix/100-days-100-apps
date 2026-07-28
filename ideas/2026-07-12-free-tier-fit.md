@@ -82,7 +82,7 @@ Kill or narrow the idea if target users say they already deploy one service at a
 
 Create the dedicated repo because FreeTierFit scored 19/25, Distribution is 4/5, and Competitive wedge / timing is 3/5.
 
-Repo: https://github.com/halaprix/free-tier-fit
+Repo: ../projects/free-tier-fit
 
 ## Next build step
 

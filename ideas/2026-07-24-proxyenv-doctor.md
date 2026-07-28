@@ -81,7 +81,7 @@ Reject or narrow if existing GitLab/Docker docs plus a short netshoot/curl recip
 
 Create the repo. ProxyEnv Doctor clears 18/25 with Distribution 4/5 and Competitive wedge/timing 3/5. Status is `repo-created` because the scaffold was pushed and tagged.
 
-Repo: https://github.com/halaprix/proxyenv-doctor
+Repo: ../projects/proxyenv-doctor
 
 ## Next build step
 

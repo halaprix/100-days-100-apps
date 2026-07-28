@@ -1,0 +1,11 @@
+{
+  "slug": "backup-locksmith",
+  "name": "BackupLocksmith",
+  "source": "local 100-days-lab project repo",
+  "archived_at": "2026-07-28T05:37:20+00:00",
+  "source_remote": "https://github.com/halaprix/backup-locksmith.git",
+  "source_branch": "main",
+  "source_commit": "b4ecc7260a55c6e9ec475b3fde92d25448b42172",
+  "tracked_file_count": 21,
+  "canonical_path": "projects/backup-locksmith"
+}

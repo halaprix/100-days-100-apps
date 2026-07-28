@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Node/build artifacts
+node_modules/
+dist/
+build/
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+
+# Local runtime outputs
+*.log
+tzdrift-report.md
+tzdrift-report.csv
+
+# Beads local state
+.beads/embeddeddolt/
+.beads/backup/
+.beads/last-touched

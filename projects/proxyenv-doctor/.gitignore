@@ -1,0 +1,30 @@
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Local env and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Beads local database internals; keep passive export tracked
+.beads/embeddeddolt/
+.beads/backup/
+.beads/*.db
+.beads/*.db-*
+.beads/last-touched

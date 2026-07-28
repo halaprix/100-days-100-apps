@@ -1,0 +1,36 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  docs:
+    name: Docs sanity
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Validate required files
+        run: |
+          test -f README.md
+          test -f SPEC.md
+          test -f AGENTS.md
+          test -f CHANGELOG.md
+          test -f LICENSE
+          test -f CONTRIBUTING.md
+          test -f SECURITY.md
+          test -f .github/PULL_REQUEST_TEMPLATE.md
+      - name: Check for obvious secret examples
+        run: |
+          # Exclude this workflow file so the scanner does not match its own
+          # test patterns; scan repository content and docs instead.
+          if grep -RInE '(whsec_|sk_live_|rk_live_|ghp_[A-Za-z0-9_]{20,}|xox[baprs]-)' . --exclude-dir=.git --exclude-dir=.beads --exclude=ci.yml; then
+            echo "Possible unredacted secret example found"
+            exit 1
+          fi

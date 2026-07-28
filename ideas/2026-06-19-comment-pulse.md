@@ -55,7 +55,7 @@ Small YouTube, newsletter, course, and community creators who have enough commen
 
 ## Decision
 
-Create a dedicated repo: [`halaprix/comment-pulse`](https://github.com/halaprix/comment-pulse).
+Create a dedicated repo: [`halaprix/comment-pulse`](../projects/comment-pulse).
 
 The GitHub repo was created via the API, but the initial scaffold push failed with `403`. The scaffold commit exists locally and is ready to push once GitHub contents write access is fixed. The product should stay narrow: import comments, cluster pains, preserve evidence links, export a weekly brief.
 

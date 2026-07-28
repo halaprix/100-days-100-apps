@@ -1,0 +1,11 @@
+{
+  "slug": "baytrace",
+  "name": "BayTrace",
+  "source": "local 100-days-lab project repo",
+  "archived_at": "2026-07-28T05:37:20+00:00",
+  "source_remote": "https://github.com/halaprix/baytrace.git",
+  "source_branch": "main",
+  "source_commit": "93566b231aeb5dc70e8cb238f85747a57e00d9aa",
+  "tracked_file_count": 21,
+  "canonical_path": "projects/baytrace"
+}

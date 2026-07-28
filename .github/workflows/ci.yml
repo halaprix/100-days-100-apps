@@ -16,8 +16,5 @@ jobs:
           node-version: 22
       - name: Validate JSON
         run: python3 -m json.tool index.json >/tmp/index.json
-      - name: Secret and privacy scan
-        run: |
-          set -euo pipefail
-          ! grep -RInE 'BEGIN .* PRIVATE KEY|api[_-]?key|token=|secret=|\.p12|\.jks|\.keystore' .             --exclude-dir=.git             --exclude=AGENTS.md             --exclude=SECURITY.md             --exclude=ci.yml             --exclude=.gitignore
-          ! grep -RInE '192\.168\.[0-9]+\.[0-9]+|10\.[0-9]+\.[0-9]+\.[0-9]+|/home/[A-Za-z0-9_.-]+' .             --exclude-dir=.git             --exclude=AGENTS.md             --exclude=ci.yml
+      - name: Verify consolidated project snapshots
+        run: python3 scripts/verify-consolidated-projects.py

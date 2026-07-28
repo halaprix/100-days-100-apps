@@ -85,7 +85,7 @@ Reject or narrow if Microsoft’s current Entra dynamic direct-report rules plus
 
 Create the repo. ReportChain clears 18/25 with Distribution 4/5 and Competitive wedge/timing 3/5. Status is `repo-created` because the scaffold was pushed and tagged.
 
-Repo: https://github.com/halaprix/reportchain
+Repo: ../projects/reportchain
 
 ## Next build step
 

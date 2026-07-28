@@ -1,0 +1,49 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  hygiene:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Check required files
+        run: |
+          test -f README.md
+          test -f SPEC.md
+          test -f AGENTS.md
+          test -f CHANGELOG.md
+          test -f LICENSE
+          test -f CONTRIBUTING.md
+          test -f SECURITY.md
+      - name: Public safety scan
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          root = Path('.')
+          patterns = [
+              'GH' + 'TOKEN',
+              'gh' + 'p_',
+              'gh' + 'o_',
+              'github' + '_pat_',
+              'BEGIN ' + 'RSA PRIVATE KEY',
+              'BEGIN ' + 'OPENSSH PRIVATE KEY',
+              'x-access-' + 'token:',
+          ]
+          skip_dirs = {'.git', '.beads'}
+          hits = []
+          for path in root.rglob('*'):
+              if not path.is_file() or any(part in skip_dirs for part in path.parts):
+                  continue
+              text = path.read_text(errors='ignore')
+              for marker in patterns:
+                  if marker in text:
+                      hits.append(f'{path}: {marker}')
+          if hits:
+              raise SystemExit('\n'.join(hits))
+          PY

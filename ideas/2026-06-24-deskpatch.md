@@ -89,7 +89,7 @@ Reject or narrow if target users already have Intune, PDQ, Action1, Admin By Req
 
 ## Decision
 
-Create a dedicated repo scaffold for `deskpatch`. The remote repository exists at https://github.com/halaprix/deskpatch, but pushing the local scaffold was blocked by GitHub `403`, so the project remains blocked until content write access works. This is not a generic patch manager; it is a narrow, auditable self-service updater for locked-down analyst desktops, with Power BI Desktop as the first recipe.
+Create a dedicated repo scaffold for `deskpatch`. The remote repository exists at ../projects/deskpatch, but pushing the local scaffold was blocked by GitHub `403`, so the project remains blocked until content write access works. This is not a generic patch manager; it is a narrow, auditable self-service updater for locked-down analyst desktops, with Power BI Desktop as the first recipe.
 
 ## Next build step
 

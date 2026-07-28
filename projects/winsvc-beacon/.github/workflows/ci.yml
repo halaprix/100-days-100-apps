@@ -1,0 +1,46 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  hygiene:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify scaffold files
+        run: |
+          test -f README.md
+          test -f SPEC.md
+          test -f AGENTS.md
+          test -f CHANGELOG.md
+          test -f LICENSE
+          test -f CONTRIBUTING.md
+          test -f SECURITY.md
+          test -f .github/PULL_REQUEST_TEMPLATE.md
+      - name: Public-safety smoke check
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          token_markers = ['gh' + 'p_', 'github' + '_pat_']
+          push_url = re.compile(r'KUMA_[A-Z0-9_]*_PUSH_URL=https://')
+          files = [
+              Path('README.md'),
+              Path('SPEC.md'),
+              Path('AGENTS.md'),
+              Path('CHANGELOG.md'),
+              Path('CONTRIBUTING.md'),
+              Path('SECURITY.md'),
+              Path('.github/PULL_REQUEST_TEMPLATE.md'),
+          ]
+          failures = []
+          for path in files:
+              text = path.read_text(encoding='utf-8')
+              if any(marker in text for marker in token_markers) or push_url.search(text):
+                  failures.append(str(path))
+          if failures:
+              raise SystemExit('public-safety markers found in: ' + ', '.join(failures))
+          PY

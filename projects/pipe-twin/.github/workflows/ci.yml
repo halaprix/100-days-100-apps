@@ -1,0 +1,19 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  hygiene:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate markdown files exist
+        run: |
+          test -f README.md
+          test -f SPEC.md
+          test -f SECURITY.md
+          test -f CONTRIBUTING.md

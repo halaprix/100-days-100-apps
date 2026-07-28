@@ -83,7 +83,7 @@ Kill or narrow the idea if first-time mobile founders say AppConsul-style checkl
 
 Create the dedicated repo because StorePacket scored 20/25, Distribution is 4/5, and Competitive wedge / timing is 3/5.
 
-Repo: https://github.com/halaprix/storepacket
+Repo: ../projects/storepacket
 
 ## Next build step
 

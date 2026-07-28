@@ -80,7 +80,7 @@ Narrow or reject if Microsoft ships a built-in pre-submission validator that cat
 
 Create the repo. CampaignPacket clears 18/25 with Distribution 4/5 and Competitive wedge/timing 4/5. Status is `repo-created` because the scaffold was created, pushed, verified, and tagged.
 
-Repo: https://github.com/halaprix/campaignpacket
+Repo: ../projects/campaignpacket
 
 ## Next build step
 

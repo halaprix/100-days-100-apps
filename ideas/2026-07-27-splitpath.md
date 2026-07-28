@@ -76,7 +76,7 @@ Reject or narrow if Tailscale/NetBird first-party CLI tools already provide a co
 
 ## Decision
 
-Create the dedicated project repo: https://github.com/halaprix/splitpath
+Create the dedicated project repo: ../projects/splitpath
 
 Status is `repo-created`: local scaffold was created, committed, pushed to GitHub, and tagged `v0.1.0-alpha.0`.
 

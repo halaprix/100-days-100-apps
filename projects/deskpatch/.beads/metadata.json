@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "deskpatch",
+  "project_id": "46d2c00d-14d6-4604-9a28-ac7b6281327f"
+}
