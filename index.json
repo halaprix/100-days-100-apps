@@ -392,7 +392,7 @@
       "repo": "projects/disktrace",
       "signal": "Windows Server admins need safe disk-I/O incident collection packets before intermittent freezes recur",
       "status": "repo-created",
-      "notes": "Scaffold/spec snapshot consolidated directly into the master repo; local project had no dedicated GitHub remote."
+      "notes": "Scored 20/25; weakest dimension is competitive wedge/timing at 3/5. Scaffold/spec snapshot consolidated directly into the master repo; local project had no dedicated GitHub remote."
     }
   ]
 }
