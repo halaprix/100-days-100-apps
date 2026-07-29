@@ -62,6 +62,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 037 | 2026-07-26 | CampaignPacket | [`projects/campaignpacket`](./projects/campaignpacket) | Small-business Teams Phone admins need 10DLC/SMS campaign approval packets before vague rejection codes restart multi-week loops | repo-created | Scored 21/25; repo scaffold pushed and tagged v0; snapshot consolidated into master repo at projects/campaignpacket. |
 | 038 | 2026-07-27 | SplitPath | [`projects/splitpath`](./projects/splitpath) | Self-hosters need split-DNS/private reverse-proxy diagnostics before exposing services or guessing DNS fixes | repo-created | Scored 20/25; repo scaffold pushed and tagged v0; snapshot consolidated into master repo at projects/splitpath. |
 | 039 | 2026-07-28 | DiskTrace | [`projects/disktrace`](./projects/disktrace) | Windows Server admins need safe disk-I/O incident collection packets before intermittent freezes recur | repo-created | Scored 20/25; weakest dimension is competitive wedge/timing at 3/5. Scaffold/spec snapshot consolidated directly into the master repo; local project had no dedicated GitHub remote. |
+| 040 | 2026-07-29 | RenderGate | [`projects/rendergate`](./projects/rendergate) | Self-hosters need one-coworker access packets for GPU render workstations without opening the rest of the LAN | repo-created | Scored 19/25; weakest dimension is competitive wedge/timing at 3/5. Scaffold/spec snapshot consolidated directly into the master repo; local project had no dedicated GitHub remote. |
 
 ## Consolidated project snapshots
 

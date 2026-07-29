@@ -1,0 +1,23 @@
+# Dependencies and build output
+node_modules/
+dist/
+build/
+coverage/
+.venv/
+__pycache__/
+*.pyc
+
+# Local environment
+.env
+.env.*
+!.env.example
+
+# Runtime/log output
+*.log
+*.trace
+*.etl
+*.pcap
+
+# Beads embedded DB; keep passive exports/config only
+.beads/embeddeddolt/
+.beads/last-touched

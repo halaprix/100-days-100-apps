@@ -30,6 +30,7 @@ Each project contains a `.snapshot.json` with the source remote, branch, and com
 | R2 Backup Probe | [`projects/r2-backup-probe`](./r2-backup-probe) | https://github.com/halaprix/r2-backup-probe.git | `6d711b5` |
 | ReplayFence | [`projects/replayfence`](./replayfence) | https://github.com/halaprix/replayfence.git | `82ccc7d` |
 | ReportChain | [`projects/reportchain`](./reportchain) | https://github.com/halaprix/reportchain.git | `719f224` |
+| RenderGate | [`projects/rendergate`](./rendergate) | — | `05326e9` |
 | SheetSentry | [`projects/sheetsentry`](./sheetsentry) | https://github.com/halaprix/sheetsentry.git | `db99fb5` |
 | SplitPath | [`projects/splitpath`](./splitpath) | https://github.com/halaprix/splitpath.git | `25475f1` |
 | StorePacket | [`projects/storepacket`](./storepacket) | https://github.com/halaprix/storepacket.git | `79034c8` |

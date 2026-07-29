@@ -1,5 +1,5 @@
 {
-  "archived_at": "2026-07-28T05:37:20+00:00",
+  "archived_at": "2026-07-29T07:25:12+00:00",
   "projects": [
     {
       "slug": "backup-locksmith",
@@ -242,6 +242,17 @@
       "source_commit": "6d711b5de8f30e67ca01565ceabdaf28ae777998",
       "tracked_file_count": 22,
       "canonical_path": "projects/r2-backup-probe"
+    },
+    {
+      "slug": "rendergate",
+      "name": "RenderGate",
+      "source": "local 100-days-lab project repo",
+      "archived_at": "2026-07-29T07:25:12+00:00",
+      "source_remote": null,
+      "source_branch": "main",
+      "source_commit": "05326e9de2477b4ba24159ab71c422123934bdfc",
+      "tracked_file_count": 21,
+      "canonical_path": "projects/rendergate"
     },
     {
       "slug": "replayfence",

@@ -1,0 +1,54 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  scaffold:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify scaffold files
+        run: |
+          test -f README.md
+          test -f SPEC.md
+          test -f AGENTS.md
+          test -f LICENSE
+          test -f CONTRIBUTING.md
+          test -f SECURITY.md
+          test -f CHANGELOG.md
+          test -f .github/PULL_REQUEST_TEMPLATE.md
+          test -f .beads/issues.jsonl
+      - name: Public safety scan
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          patterns = [
+              'GH' + 'TOKEN',
+              'gh' + 'p_',
+              'gh' + 'o_',
+              'github' + '_pat_',
+              'sk' + '_live_',
+              'wh' + 'sec_',
+              'BEGIN ' + 'RSA PRIVATE KEY',
+              'BEGIN ' + 'OPENSSH PRIVATE KEY',
+              'x-access-' + 'token:',
+          ]
+          skip_dirs = {'.git', '.beads'}
+          hits = []
+          for path in Path('.').rglob('*'):
+              if not path.is_file() or any(part in skip_dirs for part in path.parts):
+                  continue
+              text = path.read_text(errors='ignore')
+              for marker in patterns:
+                  if marker in text:
+                      hits.append(f'{path}: {marker}')
+          if hits:
+              raise SystemExit('\n'.join(hits))
+          PY

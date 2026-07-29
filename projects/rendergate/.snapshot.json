@@ -1,0 +1,11 @@
+{
+  "slug": "rendergate",
+  "name": "RenderGate",
+  "source": "local 100-days-lab project repo",
+  "archived_at": "2026-07-29T07:25:12+00:00",
+  "source_remote": null,
+  "source_branch": "main",
+  "source_commit": "05326e9de2477b4ba24159ab71c422123934bdfc",
+  "tracked_file_count": 21,
+  "canonical_path": "projects/rendergate"
+}
