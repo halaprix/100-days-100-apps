@@ -1,0 +1,11 @@
+{
+  "slug": "purgebrake",
+  "name": "PurgeBrake",
+  "source": "local 100-days-lab project repo",
+  "archived_at": "2026-07-30T07:26:06+00:00",
+  "source_remote": null,
+  "source_branch": "main",
+  "source_commit": "3f07bd84ba878119806cbfbf9213efbfbc0ece9b",
+  "tracked_file_count": 22,
+  "canonical_path": "projects/purgebrake"
+}

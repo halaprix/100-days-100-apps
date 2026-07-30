@@ -402,6 +402,15 @@
       "signal": "Self-hosters need one-coworker access packets for GPU render workstations without opening the rest of the LAN",
       "status": "repo-created",
       "notes": "Scored 19/25; weakest dimension is competitive wedge/timing at 3/5. Scaffold/spec snapshot consolidated directly into the master repo; local project had no dedicated GitHub remote."
+    },
+    {
+      "day": 41,
+      "date": "2026-07-30",
+      "app": "PurgeBrake",
+      "repo": "projects/purgebrake",
+      "signal": "M365/KnowBe4 admins need email-remediation dry-run packets before empty or broad purge/quarantine queries hit mailboxes",
+      "status": "repo-created",
+      "notes": "Scored 21/25; weakest dimensions tied at 4/5. Scaffold/spec snapshot consolidated directly into the master repo; local project had no dedicated GitHub remote."
     }
   ]
 }
