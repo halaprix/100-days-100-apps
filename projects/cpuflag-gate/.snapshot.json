@@ -5,7 +5,7 @@
   "archived_at": "2026-07-31T07:21:21+00:00",
   "source_remote": null,
   "source_branch": "main",
-  "source_commit": "06214489d0827b7b179d77d70e3313ea3cfd7f5a",
+  "source_commit": "b7888bd545b679d7d87717c95b58a99330c43020",
   "tracked_file_count": 21,
   "canonical_path": "projects/cpuflag-gate"
 }
