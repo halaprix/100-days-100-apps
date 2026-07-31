@@ -11,6 +11,7 @@ Each project contains a `.snapshot.json` with the source remote, branch, and com
 | BecomeDoctor | [`projects/become-doctor`](./become-doctor) | https://github.com/halaprix/become-doctor.git | `abf52ae` |
 | CampaignPacket | [`projects/campaignpacket`](./campaignpacket) | https://github.com/halaprix/campaignpacket.git | `e9ca76d` |
 | CommentPulse | [`projects/comment-pulse`](./comment-pulse) | https://github.com/halaprix/comment-pulse.git | `4e60cda` |
+| CpuFlag Gate | [`projects/cpuflag-gate`](./cpuflag-gate) | — | `0621448` |
 | DavSync Doctor | [`projects/davsync-doctor`](./davsync-doctor) | https://github.com/halaprix/davsync-doctor.git | `49f986f` |
 | DeskPatch | [`projects/deskpatch`](./deskpatch) | https://github.com/halaprix/deskpatch.git | `f492585` |
 | DiskTrace | [`projects/disktrace`](./disktrace) | — | `e250869` |

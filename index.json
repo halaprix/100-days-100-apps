@@ -411,6 +411,15 @@
       "signal": "M365/KnowBe4 admins need email-remediation dry-run packets before empty or broad purge/quarantine queries hit mailboxes",
       "status": "repo-created",
       "notes": "Scored 21/25; weakest dimensions tied at 4/5. Scaffold/spec snapshot consolidated directly into the master repo; local project had no dedicated GitHub remote."
+    },
+    {
+      "day": 42,
+      "date": "2026-07-31",
+      "app": "CpuFlag Gate",
+      "repo": "projects/cpuflag-gate",
+      "signal": "Proxmox VM users need host-vs-guest CPU feature packets before x86-64-v2/v3 container and ML workloads crash-loop",
+      "status": "repo-created",
+      "notes": "Scored 21/25; weakest dimensions tied at 4/5. Scaffold/spec snapshot consolidated directly into the master repo; local project had no dedicated GitHub remote."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "archived_at": "2026-07-30T07:26:06+00:00",
+  "archived_at": "2026-07-31T07:21:21+00:00",
   "projects": [
     {
       "slug": "backup-locksmith",
@@ -55,6 +55,17 @@
       "source_commit": "4e60cda817c1c8195059248b2ce1094b48b25876",
       "tracked_file_count": 30,
       "canonical_path": "projects/comment-pulse"
+    },
+    {
+      "slug": "cpuflag-gate",
+      "name": "CpuFlag Gate",
+      "source": "local 100-days-lab project repo",
+      "archived_at": "2026-07-31T07:21:21+00:00",
+      "source_remote": null,
+      "source_branch": "main",
+      "source_commit": "06214489d0827b7b179d77d70e3313ea3cfd7f5a",
+      "tracked_file_count": 21,
+      "canonical_path": "projects/cpuflag-gate"
     },
     {
       "slug": "davsync-doctor",
