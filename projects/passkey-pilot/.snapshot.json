@@ -1,0 +1,11 @@
+{
+  "slug": "passkey-pilot",
+  "name": "PasskeyPilot",
+  "source": "local 100-days-lab project repo",
+  "archived_at": "2026-08-01T07:28:12+00:00",
+  "source_remote": null,
+  "source_branch": "main",
+  "source_commit": "0bb08a611e9299db5b79f737fc9d458f275ecba5",
+  "tracked_file_count": 23,
+  "canonical_path": "projects/passkey-pilot"
+}

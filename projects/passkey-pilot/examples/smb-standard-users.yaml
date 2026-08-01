@@ -1,0 +1,31 @@
+tenant_context:
+  tenant_size: smb
+  regulated_environment: false
+  current_mfa_methods: [sms, otp_app, authenticator]
+  conditional_access_strength_required: false
+cohorts:
+  - name: standard-users
+    privileged: false
+    handles_sensitive_systems: false
+    device_platforms:
+      windows: 80
+      macos: 10
+      ios: 60
+      android: 40
+    allowed_passkey_providers:
+      - icloud_keychain
+      - google_password_manager
+      - microsoft_password_manager
+    unmanaged_personal_devices_allowed: true
+    support_risk_notes: "Some users resist dedicated work apps on personal phones."
+  - name: privileged-admins
+    privileged: true
+    handles_sensitive_systems: true
+    device_platforms:
+      windows: 100
+      ios: 30
+      android: 20
+    allowed_passkey_providers:
+      - microsoft_authenticator
+      - fido2_security_key
+    unmanaged_personal_devices_allowed: false

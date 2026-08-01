@@ -420,6 +420,15 @@
       "signal": "Proxmox VM users need host-vs-guest CPU feature packets before x86-64-v2/v3 container and ML workloads crash-loop",
       "status": "repo-created",
       "notes": "Scored 21/25; weakest dimensions tied at 4/5. Scaffold/spec snapshot consolidated directly into the master repo; local project had no dedicated GitHub remote."
+    },
+    {
+      "day": 43,
+      "date": "2026-08-01",
+      "app": "PasskeyPilot",
+      "repo": "projects/passkey-pilot",
+      "signal": "Microsoft Entra admins need synced-vs-device-bound passkey rollout packets before tenant-wide passkey profile changes",
+      "status": "repo-created",
+      "notes": "Scored 20/25; weakest dimension is competitive wedge/timing at 3/5. Scaffold/spec snapshot consolidated directly into the master repo; local project had no dedicated GitHub remote."
     }
   ]
 }

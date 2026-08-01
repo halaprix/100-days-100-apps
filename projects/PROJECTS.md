@@ -23,6 +23,7 @@ Each project contains a `.snapshot.json` with the source remote, branch, and com
 | MxCutover | [`projects/mxcutover`](./mxcutover) | https://github.com/halaprix/mxcutover.git | `b15535f` |
 | NIS2 EvidencePack | [`projects/nis2-evidencepack`](./nis2-evidencepack) | https://github.com/halaprix/nis2-evidencepack.git | `98e199d` |
 | OOBEGuard | [`projects/oobeguard`](./oobeguard) | https://github.com/halaprix/oobeguard.git | `e9814d1` |
+| PasskeyPilot | [`projects/passkey-pilot`](./passkey-pilot) | — | `0bb08a6` |
 | PeerPath | [`projects/peerpath`](./peerpath) | https://github.com/halaprix/peerpath.git | `2714ac6` |
 | PipeTwin | [`projects/pipe-twin`](./pipe-twin) | https://github.com/halaprix/pipe-twin.git | `25c63a1` |
 | PortLease | [`projects/portlease`](./portlease) | https://github.com/halaprix/portlease.git | `5dc7293` |
@@ -30,9 +31,9 @@ Each project contains a `.snapshot.json` with the source remote, branch, and com
 | PurgeBrake | [`projects/purgebrake`](./purgebrake) | — | `3f07bd8` |
 | QueryGap | [`projects/querygap`](./querygap) | https://github.com/halaprix/querygap.git | `3eb5f4a` |
 | R2 Backup Probe | [`projects/r2-backup-probe`](./r2-backup-probe) | https://github.com/halaprix/r2-backup-probe.git | `6d711b5` |
+| RenderGate | [`projects/rendergate`](./rendergate) | — | `05326e9` |
 | ReplayFence | [`projects/replayfence`](./replayfence) | https://github.com/halaprix/replayfence.git | `82ccc7d` |
 | ReportChain | [`projects/reportchain`](./reportchain) | https://github.com/halaprix/reportchain.git | `719f224` |
-| RenderGate | [`projects/rendergate`](./rendergate) | — | `05326e9` |
 | SheetSentry | [`projects/sheetsentry`](./sheetsentry) | https://github.com/halaprix/sheetsentry.git | `db99fb5` |
 | SplitPath | [`projects/splitpath`](./splitpath) | https://github.com/halaprix/splitpath.git | `25475f1` |
 | StorePacket | [`projects/storepacket`](./storepacket) | https://github.com/halaprix/storepacket.git | `79034c8` |
