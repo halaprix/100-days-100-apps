@@ -66,6 +66,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 041 | 2026-07-30 | PurgeBrake | [`projects/purgebrake`](./projects/purgebrake) | M365/KnowBe4 admins need email-remediation dry-run packets before empty or broad purge/quarantine queries hit mailboxes | repo-created | Scored 21/25; weakest dimensions tied at 4/5. Scaffold/spec snapshot consolidated directly into the master repo; local project had no dedicated GitHub remote. |
 | 042 | 2026-07-31 | CpuFlag Gate | [`projects/cpuflag-gate`](./projects/cpuflag-gate) | Proxmox VM users need host-vs-guest CPU feature packets before x86-64-v2/v3 container and ML workloads crash-loop | repo-created | Scored 21/25; weakest dimensions tied at 4/5. Scaffold/spec snapshot consolidated directly into the master repo; local project had no dedicated GitHub remote. |
 | 043 | 2026-08-01 | PasskeyPilot | [`projects/passkey-pilot`](./projects/passkey-pilot) | Microsoft Entra admins need synced-vs-device-bound passkey rollout packets before tenant-wide passkey profile changes | repo-created | Scored 20/25; weakest dimension is competitive wedge/timing at 3/5. Scaffold/spec snapshot consolidated directly into the master repo; local project had no dedicated GitHub remote. |
+| 044 | 2026-08-02 | ChunkRail | — | WebRTC file-transfer builders need data-channel chunk/backpressure checks before large transfers blow browser memory | idea-only | Scored 17/25; no repo — narrow developer pain, with usefulness, distribution, and wedge tied at 3/5. |
 
 ## Consolidated project snapshots
 
