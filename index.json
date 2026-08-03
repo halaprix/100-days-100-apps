@@ -438,6 +438,15 @@
       "signal": "WebRTC file-transfer builders need data-channel chunk/backpressure checks before large transfers blow browser memory",
       "status": "idea-only",
       "notes": "Scored 17/25; no repo — narrow developer pain, with usefulness, distribution, and wedge tied at 3/5."
+    },
+    {
+      "day": 45,
+      "date": "2026-08-03",
+      "app": "BanLift",
+      "repo": null,
+      "signal": "Self-hosters need phone-safe Fail2Ban accidental-ban recovery before disabling protection or SSHing awkwardly from a couch",
+      "status": "idea-only",
+      "notes": "Scored 17/25; no repo — useful emergency pain, but fail2ban-ui/fail2web weaken the wedge."
     }
   ]
 }
