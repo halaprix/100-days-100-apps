@@ -447,6 +447,15 @@
       "signal": "Self-hosters need phone-safe Fail2Ban accidental-ban recovery before disabling protection or SSHing awkwardly from a couch",
       "status": "idea-only",
       "notes": "Scored 17/25; no repo — useful emergency pain, but fail2ban-ui/fail2web weaken the wedge."
+    },
+    {
+      "day": 46,
+      "date": "2026-08-04",
+      "app": "SmbFreeze",
+      "repo": null,
+      "signal": "Windows admins need SMB/Explorer hang incident packets before intermittent mapped-drive stalls disappear",
+      "status": "idea-only",
+      "notes": "Scored 19/25; no repo — total clears, but distribution gate fails at 3/5."
     }
   ]
 }
