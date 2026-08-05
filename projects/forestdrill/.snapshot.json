@@ -1,0 +1,11 @@
+{
+  "slug": "forestdrill",
+  "name": "ForestDrill",
+  "source": "local 100-days-lab project repo",
+  "archived_at": "2026-08-05T07:25:08Z",
+  "source_remote": null,
+  "source_branch": "main",
+  "source_commit": "5454d882b0c5bdb82bccb5c3e45fccb083fbce94",
+  "tracked_file_count": 22,
+  "canonical_path": "projects/forestdrill"
+}

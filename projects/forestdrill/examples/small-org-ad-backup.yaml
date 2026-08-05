@@ -1,0 +1,26 @@
+environment:
+  org_size: small_team
+  domain_controller_count: 20
+  hypervisors:
+    - hyper_v
+    - vmware
+  ad_recycle_bin_enabled: true
+backup_plan:
+  primary:
+    product: primary-backup-platform
+    covers_system_state: true
+    covers_bare_metal: true
+    backup_manager_joined_to_ad: true
+  secondary:
+    target: object-storage
+    tier: cold
+    method: command-line-copy
+recovery_accounts:
+  built_in_administrator_verified: true
+  dsrm_password_verified: false
+  break_glass_account_verified: false
+drill_scenarios:
+  - isolated-network-forest-restore
+  - single-domain-restore
+  - gpo-and-sysvol-restore
+  - backup-manager-unavailable

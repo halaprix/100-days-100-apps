@@ -16,6 +16,7 @@ Each project contains a `.snapshot.json` with the source remote, branch, and com
 | DeskPatch | [`projects/deskpatch`](./deskpatch) | https://github.com/halaprix/deskpatch.git | `f492585` |
 | DiskTrace | [`projects/disktrace`](./disktrace) | — | `e250869` |
 | ExitTrace | [`projects/exittrace`](./exittrace) | https://github.com/halaprix/exittrace.git | `1bd9e8f` |
+| ForestDrill | [`projects/forestdrill`](./forestdrill) | — | `5454d88` |
 | FreeTierFit | [`projects/free-tier-fit`](./free-tier-fit) | https://github.com/halaprix/free-tier-fit.git | `2788c6a` |
 | HeaderPass | [`projects/headerpass`](./headerpass) | https://github.com/halaprix/headerpass.git | `79c7a65` |
 | LabFit | [`projects/labfit`](./labfit) | https://github.com/halaprix/labfit.git | `3853754` |

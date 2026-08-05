@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+
+# Generated packets
+forestdrill-packet.md
+forestdrill-summary.json
+
+# Beads / Dolt local state
+.dolt/
+*.db
+.beads-credential-key
+.beads/proxieddb/
+.beads/embeddeddolt/
+.beads/*.db
+.beads/last-touched
+.beads/interactions.jsonl
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
