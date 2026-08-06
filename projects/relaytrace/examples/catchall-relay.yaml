@@ -1,0 +1,15 @@
+relay:
+  name: example-front-relay
+  accepted_headers:
+    - X-Envelope
+    - X-Original-To
+    - Delivered-To
+    - Original-Recipient
+
+probes:
+  - id: catchall-token-1
+    expected_recipient: token1@example.test
+    expected_route: spam-source-tagging
+  - id: catchall-token-2
+    expected_recipient: token2@example.test
+    expected_route: default-catchall

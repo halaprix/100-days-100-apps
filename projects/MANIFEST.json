@@ -1,5 +1,5 @@
 {
-  "archived_at": "2026-08-05T07:25:08Z",
+  "archived_at": "2026-08-06T07:25:48Z",
   "projects": [
     {
       "slug": "backup-locksmith",
@@ -286,6 +286,17 @@
       "source_commit": "6d711b5de8f30e67ca01565ceabdaf28ae777998",
       "tracked_file_count": 22,
       "canonical_path": "projects/r2-backup-probe"
+    },
+    {
+      "slug": "relaytrace",
+      "name": "RelayTrace",
+      "source": "local 100-days-lab project repo",
+      "archived_at": "2026-08-06T07:25:48Z",
+      "source_remote": null,
+      "source_branch": "main",
+      "source_commit": "7aea399de0b4d018c06b91bb7574c29ee71bf5e1",
+      "tracked_file_count": 23,
+      "canonical_path": "projects/relaytrace"
     },
     {
       "slug": "rendergate",

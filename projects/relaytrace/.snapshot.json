@@ -1,0 +1,11 @@
+{
+  "slug": "relaytrace",
+  "name": "RelayTrace",
+  "source": "local 100-days-lab project repo",
+  "archived_at": "2026-08-06T07:25:48Z",
+  "source_remote": null,
+  "source_branch": "main",
+  "source_commit": "7aea399de0b4d018c06b91bb7574c29ee71bf5e1",
+  "tracked_file_count": 23,
+  "canonical_path": "projects/relaytrace"
+}
