@@ -71,6 +71,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 046 | 2026-08-04 | SmbFreeze | — | Windows admins need SMB/Explorer hang incident packets before intermittent mapped-drive stalls disappear | idea-only | Scored 19/25; no repo — total clears, but distribution gate fails at 3/5. |
 | 047 | 2026-08-05 | ForestDrill | [`projects/forestdrill`](./projects/forestdrill) | Small-team AD admins need backup recovery-drill packets before discovering restore-plan gaps during an incident | repo-created | Scored 20/25; weakest dimension is competitive wedge/timing at 3/5. Scaffold/spec snapshot consolidated directly into the master repo; local project had no dedicated GitHub remote. |
 | 048 | 2026-08-06 | RelayTrace | [`projects/relaytrace`](./projects/relaytrace) | Self-hosted mail admins need SMTP forwarding envelope-recipient probes before catch-all relay changes silently break routing | repo-created | Scored 19/25; weakest dimension is competitive wedge/timing at 3/5. Scaffold/spec snapshot consolidated directly into the master repo; local project had no dedicated GitHub remote. |
+| 049 | 2026-08-09 | StatePin | [`projects/statepin`](./projects/statepin) | Self-hosters need a no-server current-state board instead of scrolling webhook logs | repo-created | Scored 20/25; weakest dimension is competitive wedge/timing at 3/5. Scaffold/spec snapshot consolidated directly into the master repo; local project had no dedicated GitHub remote. |
 
 ## Consolidated project snapshots
 

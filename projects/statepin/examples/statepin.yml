@@ -1,0 +1,28 @@
+board:
+  title: Homelab current state
+  generated_at: 2026-08-09T00:00:00Z
+cards:
+  - key: backups
+    label: Backups
+    status: ok
+    value: ok 2h ago
+    updated_at: 2026-08-09T00:00:00Z
+    max_age: PT6H
+    detail: Latest synthetic backup completed.
+    link: null
+  - key: ci
+    label: CI
+    status: ok
+    value: main green
+    updated_at: 2026-08-09T00:00:00Z
+    max_age: PT12H
+    detail: Synthetic CI status card.
+    link: null
+  - key: disk
+    label: Disk
+    status: warn
+    value: 71 percent used
+    updated_at: 2026-08-09T00:00:00Z
+    max_age: PT1H
+    detail: Synthetic disk usage card.
+    link: null

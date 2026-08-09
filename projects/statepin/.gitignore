@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Node / build output
+node_modules/
+dist/
+build/
+coverage/
+
+# Local environment
+.env
+.env.*
+!.env.example
+
+# Beads local database internals
+.beads/embeddeddolt/
+.beads/last-touched
+.beads/.local_version

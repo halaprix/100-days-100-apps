@@ -1,5 +1,5 @@
 {
-  "archived_at": "2026-08-06T07:25:48Z",
+  "archived_at": "2026-08-09T07:21:45Z",
   "projects": [
     {
       "slug": "backup-locksmith",
@@ -352,6 +352,17 @@
       "source_commit": "25475f180c9990d80421cd89de25fecffd97ce19",
       "tracked_file_count": 23,
       "canonical_path": "projects/splitpath"
+    },
+    {
+      "slug": "statepin",
+      "name": "StatePin",
+      "source": "local 100-days-lab project repo",
+      "archived_at": "2026-08-09T07:21:45Z",
+      "source_remote": null,
+      "source_branch": "main",
+      "source_commit": "50d57e8661d67675c2e6e41edb362c1238ea27dd",
+      "tracked_file_count": 23,
+      "canonical_path": "projects/statepin"
     },
     {
       "slug": "storepacket",
