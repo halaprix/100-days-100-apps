@@ -1,0 +1,12 @@
+station:
+  id: demo-station
+  timezone: UTC
+archive:
+  path: .weatherfork/demo.sqlite3
+sinks:
+  - name: home-assistant-demo
+    url: http://127.0.0.1:8123/api/webhook/demo-ecowitt
+    timeout_seconds: 3
+report:
+  output_dir: dist/report
+  compare_days: 365

@@ -1,5 +1,5 @@
 {
-  "archived_at": "2026-08-09T07:21:45Z",
+  "archived_at": "2026-08-10T07:21:52Z",
   "projects": [
     {
       "slug": "backup-locksmith",
@@ -418,6 +418,17 @@
       "source_commit": "ed9f937d9c0c2d6925c73a1689f40075e8a2833f",
       "tracked_file_count": 21,
       "canonical_path": "projects/vram-janitor"
+    },
+    {
+      "slug": "weatherfork",
+      "name": "WeatherFork",
+      "source": "local 100-days-lab project repo",
+      "archived_at": "2026-08-10T07:21:52Z",
+      "source_remote": null,
+      "source_branch": "main",
+      "source_commit": "43ccdec25b83ebe29ca2f62a55358600e12d057c",
+      "tracked_file_count": 25,
+      "canonical_path": "projects/weatherfork"
     },
     {
       "slug": "winsvc-beacon",

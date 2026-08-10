@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local runtime data
+*.sqlite
+*.sqlite3
+*.db
+*.log
+.weatherfork/
+dist/
+build/
+
+# Editor/system
+.DS_Store
+.idea/
+.vscode/
+
+# Beads embedded database/cache
+.beads/embeddeddolt/

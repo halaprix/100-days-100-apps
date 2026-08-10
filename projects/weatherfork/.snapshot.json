@@ -1,0 +1,11 @@
+{
+  "slug": "weatherfork",
+  "name": "WeatherFork",
+  "source": "local 100-days-lab project repo",
+  "archived_at": "2026-08-10T07:21:52Z",
+  "source_remote": null,
+  "source_branch": "main",
+  "source_commit": "43ccdec25b83ebe29ca2f62a55358600e12d057c",
+  "tracked_file_count": 25,
+  "canonical_path": "projects/weatherfork"
+}
