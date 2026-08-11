@@ -1,0 +1,37 @@
+version: 1
+rootless: true
+
+networks:
+  - name: appnet
+
+volumes:
+  - name: media-data
+
+pods:
+  - name: media
+    networks: [appnet]
+    containers:
+      - jellyfin
+
+containers:
+  - name: jellyfin
+    image: docker.io/jellyfin/jellyfin:latest
+    pod: media
+    ports:
+      - "8096:8096"
+    volumes:
+      - "media-data:/config"
+    env_files:
+      - "./env/jellyfin.env.example"
+    after:
+      - network-online.target
+    wants:
+      - network-online.target
+
+  - name: gatus
+    image: ghcr.io/twin/gatus:latest
+    ports:
+      - "8080:8080"
+    volumes:
+      - "./config/gatus:/config:ro"
+    env_files: []

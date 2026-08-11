@@ -492,6 +492,15 @@
       "signal": "Home Assistant + Ecowitt users need a store-first weather upload relay for durable history and seasonal comparisons",
       "status": "repo-created",
       "notes": "Scored 19/25; weakest dimension is competitive wedge/timing at 3/5. Scaffold/spec snapshot consolidated directly into the master repo; local project had no dedicated GitHub remote."
+    },
+    {
+      "day": 51,
+      "date": "2026-08-11",
+      "app": "QuadletState",
+      "repo": "projects/quadlet-state",
+      "signal": "Self-hosters need desired-state Podman Quadlet generation and diff plans instead of hand-writing every unit",
+      "status": "repo-created",
+      "notes": "Scored 19/25; weakest dimension is competitive wedge/timing at 3/5. Scaffold/spec snapshot consolidated directly into the master repo; local project had no dedicated GitHub remote."
     }
   ]
 }

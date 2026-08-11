@@ -1,5 +1,5 @@
 {
-  "archived_at": "2026-08-10T07:21:52Z",
+  "archived_at": "2026-08-11T07:16:04Z",
   "projects": [
     {
       "slug": "backup-locksmith",
@@ -264,6 +264,17 @@
       "source_commit": "3f07bd84ba878119806cbfbf9213efbfbc0ece9b",
       "tracked_file_count": 22,
       "canonical_path": "projects/purgebrake"
+    },
+    {
+      "slug": "quadlet-state",
+      "name": "QuadletState",
+      "source": "local 100-days-lab project snapshot",
+      "archived_at": "2026-08-11T07:16:04Z",
+      "source_remote": null,
+      "source_branch": "main",
+      "source_commit": null,
+      "tracked_file_count": 14,
+      "canonical_path": "projects/quadlet-state"
     },
     {
       "slug": "querygap",

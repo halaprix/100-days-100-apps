@@ -1,0 +1,2 @@
+{"id":"qst-001","title":"Implement quadlet-state MVP skeleton","status":"open","priority":1,"issue_type":"task","description":"Parse a simple YAML inventory, emit Podman Quadlet files, and render a public-safe diff/plan without applying changes."}
+{"id":"qst-002","title":"Add fixture inventory and scaffold verifier","status":"open","priority":2,"issue_type":"task","description":"Keep examples public-safe and verify required scaffold files, evidence, and generated fixture contract."}
