@@ -15,6 +15,7 @@ Each project contains a `.snapshot.json` with the source remote, branch, and com
 | DavSync Doctor | [`projects/davsync-doctor`](./davsync-doctor) | https://github.com/halaprix/davsync-doctor.git | `49f986f` |
 | DeskPatch | [`projects/deskpatch`](./deskpatch) | https://github.com/halaprix/deskpatch.git | `f492585` |
 | DiskTrace | [`projects/disktrace`](./disktrace) | — | `e250869` |
+| EolBridge | [`projects/eolbridge`](./eolbridge) | — | — |
 | ExitTrace | [`projects/exittrace`](./exittrace) | https://github.com/halaprix/exittrace.git | `1bd9e8f` |
 | ForestDrill | [`projects/forestdrill`](./forestdrill) | — | `5454d88` |
 | FreeTierFit | [`projects/free-tier-fit`](./free-tier-fit) | https://github.com/halaprix/free-tier-fit.git | `2788c6a` |

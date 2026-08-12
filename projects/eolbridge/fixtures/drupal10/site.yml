@@ -1,0 +1,9 @@
+# Synthetic Drupal 10 site profile for EolBridge fixtures.
+label: Example Museum Drupal site
+business_criticality: high
+site_class: public
+owner: Web Team
+desired_upgrade_window: 2026-Q3
+custom_components:
+  - example_museum_events
+  - example_museum_theme

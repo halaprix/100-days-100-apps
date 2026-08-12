@@ -1,0 +1,21 @@
+{
+  "packages": [
+    {
+      "name": "drupal/core-recommended",
+      "version": "10.4.8",
+      "type": "metapackage"
+    },
+    {
+      "name": "drupal/webform",
+      "version": "6.2.9",
+      "type": "drupal-module"
+    },
+    {
+      "name": "drupal/legacy_widget",
+      "version": "1.0.0",
+      "type": "drupal-module",
+      "abandoned": true
+    }
+  ],
+  "packages-dev": []
+}

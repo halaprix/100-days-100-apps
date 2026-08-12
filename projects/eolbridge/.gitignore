@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated output
+dist/
+build/
+generated/
+packet.md
+packet.html
+
+# Local files
+.env
+.env.*
+*.local
+.DS_Store

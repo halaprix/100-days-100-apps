@@ -1,5 +1,5 @@
 {
-  "archived_at": "2026-08-11T07:16:04Z",
+  "archived_at": "2026-08-12T07:16:11Z",
   "projects": [
     {
       "slug": "backup-locksmith",
@@ -99,6 +99,17 @@
       "source_commit": "e250869813e17ff94053a5cf56768aef27ce0651",
       "tracked_file_count": 21,
       "canonical_path": "projects/disktrace"
+    },
+    {
+      "slug": "eolbridge",
+      "name": "EolBridge",
+      "source": "local 100-days-lab project snapshot",
+      "archived_at": "2026-08-12T07:16:11Z",
+      "source_remote": null,
+      "source_branch": "main",
+      "source_commit": null,
+      "tracked_file_count": 16,
+      "canonical_path": "projects/eolbridge"
     },
     {
       "slug": "exittrace",

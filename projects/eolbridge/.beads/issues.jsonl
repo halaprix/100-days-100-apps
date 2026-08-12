@@ -1,0 +1,2 @@
+{"id":"eolbridge-001","title":"Implement packet generator MVP","description":"Parse sanitized Composer/profile fixtures and render deterministic Drupal 10 EOL decision packet markdown.","status":"open","priority":1,"type":"task"}
+{"id":"eolbridge-002","title":"Add redaction tests","description":"Reject or redact secret-looking values before packet rendering.","status":"open","priority":2,"type":"task"}
