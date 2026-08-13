@@ -1,0 +1,2 @@
+{"id":"syncbrake-001","title":"Implement packet generator MVP","description":"Parse sanitized pending-export/readiness fixtures and render deterministic Entra Connect blast-radius and break-glass readiness packet markdown.","status":"open","priority":1,"type":"task"}
+{"id":"syncbrake-002","title":"Add redaction tests","description":"Reject or redact tenant names, UPN domains, hostnames, private paths, support-case details, and secret-looking values before packet rendering.","status":"open","priority":2,"type":"task"}

@@ -1,0 +1,9 @@
+change_label: example-ou-filter-change
+threshold_enabled: true
+threshold_value: 500
+staging_mode_used: true
+emergency_accounts_verified_count: 1
+emergency_accounts_last_tested: '2026-08-01'
+support_path_verified: false
+rollback_owner: identity-admin-example
+notes: synthetic fixture only

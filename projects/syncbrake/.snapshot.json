@@ -1,0 +1,11 @@
+{
+  "slug": "syncbrake",
+  "name": "SyncBrake",
+  "source": "local 100-days-lab project snapshot",
+  "archived_at": "2026-08-13T07:21:35Z",
+  "source_remote": null,
+  "source_branch": "main",
+  "source_commit": null,
+  "tracked_file_count": 16,
+  "canonical_path": "projects/syncbrake"
+}

@@ -1,0 +1,6 @@
+object_id,display_name,user_principal_name,object_type,object_modification_type,attributes_changed
+u-001,Example Global Admin,admin.one@example.invalid,user,delete,"accountEnabled,memberOf"
+u-002,Example Break Glass,bg.one@example.invalid,user,update,"displayName"
+u-003,Example Sales User,sales.one@example.invalid,user,delete,"accountEnabled"
+g-001,Example Finance Group,,group,delete,"members"
+d-001,Example Shared Tablet,,device,disable,"accountEnabled"

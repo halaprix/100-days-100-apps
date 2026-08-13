@@ -510,6 +510,15 @@
       "signal": "Drupal 10 site owners need budget-ready EOL upgrade packets before December 2026 support ends",
       "status": "repo-created",
       "notes": "Scored 20/25; weakest dimensions tied at 4/5. Scaffold/spec snapshot consolidated directly into the master repo; local project had no dedicated GitHub remote."
+    },
+    {
+      "day": 53,
+      "date": "2026-08-13",
+      "app": "SyncBrake",
+      "repo": "projects/syncbrake",
+      "signal": "Hybrid identity admins need Entra Connect pending-export and break-glass preflight packets before sync mistakes lock out Microsoft 365 administration",
+      "status": "repo-created",
+      "notes": "Scored 21/25; weakest dimensions tied at 4/5. Scaffold/spec snapshot consolidated directly into the master repo; local project had no dedicated GitHub remote."
     }
   ]
 }

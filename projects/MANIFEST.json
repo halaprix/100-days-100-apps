@@ -1,5 +1,5 @@
 {
-  "archived_at": "2026-08-12T07:16:11Z",
+  "archived_at": "2026-08-13T07:21:35Z",
   "projects": [
     {
       "slug": "backup-locksmith",
@@ -396,6 +396,17 @@
       "source_commit": "79034c8c3f09d9381f90258d9f937dd665934056",
       "tracked_file_count": 21,
       "canonical_path": "projects/storepacket"
+    },
+    {
+      "slug": "syncbrake",
+      "name": "SyncBrake",
+      "source": "local 100-days-lab project snapshot",
+      "archived_at": "2026-08-13T07:21:35Z",
+      "source_remote": null,
+      "source_branch": "main",
+      "source_commit": null,
+      "tracked_file_count": 16,
+      "canonical_path": "projects/syncbrake"
     },
     {
       "slug": "tenant-route",
