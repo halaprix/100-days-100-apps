@@ -1,5 +1,5 @@
 {
-  "archived_at": "2026-08-13T07:21:35Z",
+  "archived_at": "2026-08-14T07:23:43Z",
   "projects": [
     {
       "slug": "backup-locksmith",
@@ -275,6 +275,17 @@
       "source_commit": "3f07bd84ba878119806cbfbf9213efbfbc0ece9b",
       "tracked_file_count": 22,
       "canonical_path": "projects/purgebrake"
+    },
+    {
+      "slug": "pushbench",
+      "name": "PushBench",
+      "source": "local 100-days-lab project snapshot",
+      "archived_at": "2026-08-14T07:23:43Z",
+      "source_remote": null,
+      "source_branch": "main",
+      "source_commit": null,
+      "tracked_file_count": 16,
+      "canonical_path": "projects/pushbench"
     },
     {
       "slug": "quadlet-state",

@@ -31,6 +31,7 @@ Each project contains a `.snapshot.json` with the source remote, branch, and com
 | PortLease | [`projects/portlease`](./portlease) | https://github.com/halaprix/portlease.git | `5dc7293` |
 | ProxyEnv Doctor | [`projects/proxyenv-doctor`](./proxyenv-doctor) | https://github.com/halaprix/proxyenv-doctor.git | `457ba81` |
 | PurgeBrake | [`projects/purgebrake`](./purgebrake) | — | `3f07bd8` |
+| PushBench | [`projects/pushbench`](./pushbench) | — | — |
 | QuadletState | [`projects/quadlet-state`](./quadlet-state) | — | — |
 | QueryGap | [`projects/querygap`](./querygap) | https://github.com/halaprix/querygap.git | `3eb5f4a` |
 | R2 Backup Probe | [`projects/r2-backup-probe`](./r2-backup-probe) | https://github.com/halaprix/r2-backup-probe.git | `6d711b5` |

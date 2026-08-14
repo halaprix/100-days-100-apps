@@ -1,0 +1,20 @@
+name: tiny-local-unifiedpush
+backends:
+  - ntfy-http
+  - ntfy-websocket
+  - autopush-fixture
+targets:
+  ntfy: http://localhost:8081
+  autopush: http://localhost:8082
+load:
+  devices: 250
+  reconnects_per_minute: 20
+  publishes_per_minute: 120
+  payload_bytes: [256, 1024, 4096]
+slos:
+  target_p95_ms: 750
+  max_error_rate: 0.01
+budget:
+  monthly_usd: 12
+safety:
+  local_only: true

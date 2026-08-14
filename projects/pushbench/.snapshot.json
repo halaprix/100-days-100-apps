@@ -1,0 +1,11 @@
+{
+  "slug": "pushbench",
+  "name": "PushBench",
+  "source": "local 100-days-lab project snapshot",
+  "archived_at": "2026-08-14T07:23:43Z",
+  "source_remote": null,
+  "source_branch": "main",
+  "source_commit": null,
+  "tracked_file_count": 16,
+  "canonical_path": "projects/pushbench"
+}

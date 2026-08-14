@@ -519,6 +519,15 @@
       "signal": "Hybrid identity admins need Entra Connect pending-export and break-glass preflight packets before sync mistakes lock out Microsoft 365 administration",
       "status": "repo-created",
       "notes": "Scored 21/25; weakest dimensions tied at 4/5. Scaffold/spec snapshot consolidated directly into the master repo; local project had no dedicated GitHub remote."
+    },
+    {
+      "day": 54,
+      "date": "2026-08-14",
+      "app": "PushBench",
+      "repo": "projects/pushbench",
+      "signal": "Self-hosted UnifiedPush operators need ntfy-vs-Autopush benchmark and cost packets before real users depend on push delivery",
+      "status": "repo-created",
+      "notes": "Scored 20/25; weakest dimensions tied at 4/5. Scaffold/spec snapshot consolidated directly into the master repo; local project had no dedicated GitHub remote."
     }
   ]
 }

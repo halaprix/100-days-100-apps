@@ -1,0 +1,2 @@
+{"id":"pushbench-001","title":"Implement local benchmark runner MVP","description":"Parse load profile fixtures, run local ntfy-style scenarios, and render deterministic markdown/JSON readiness packet.","status":"open","priority":1,"type":"task"}
+{"id":"pushbench-002","title":"Add unsafe target guard tests","description":"Reject public/default push service targets unless an explicit local fixture allowlist is provided.","status":"open","priority":1,"type":"task"}

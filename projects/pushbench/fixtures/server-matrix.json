@@ -1,0 +1,19 @@
+{
+  "backends": [
+    {
+      "id": "ntfy-http",
+      "transport": "http-stream",
+      "fixture_url": "http://localhost:8081"
+    },
+    {
+      "id": "ntfy-websocket",
+      "transport": "websocket",
+      "fixture_url": "ws://localhost:8081/ws"
+    },
+    {
+      "id": "autopush-fixture",
+      "transport": "websocket-plus-http",
+      "fixture_url": "http://localhost:8082"
+    }
+  ]
+}
