@@ -1,0 +1,31 @@
+{
+  "session_id": "sample-drive-session",
+  "started_at": "2026-08-15T07:00:00Z",
+  "device_profile": "aftermarket-head-unit",
+  "probes": [
+    {
+      "timestamp": "2026-08-15T07:00:05Z",
+      "target": "gateway",
+      "state": "healthy",
+      "latency_ms": 4,
+      "loss_percent": 0,
+      "dns_ok": null
+    },
+    {
+      "timestamp": "2026-08-15T07:00:10Z",
+      "target": "dns",
+      "state": "healthy",
+      "latency_ms": 25,
+      "loss_percent": 0,
+      "dns_ok": true
+    },
+    {
+      "timestamp": "2026-08-15T07:00:15Z",
+      "target": "https-endpoint",
+      "state": "degraded",
+      "latency_ms": 850,
+      "loss_percent": 40,
+      "dns_ok": true
+    }
+  ]
+}

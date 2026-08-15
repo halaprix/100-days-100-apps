@@ -1,5 +1,5 @@
 {
-  "archived_at": "2026-08-14T07:23:43Z",
+  "archived_at": "2026-08-15T07:22:56Z",
   "projects": [
     {
       "slug": "backup-locksmith",
@@ -99,6 +99,17 @@
       "source_commit": "e250869813e17ff94053a5cf56768aef27ce0651",
       "tracked_file_count": 21,
       "canonical_path": "projects/disktrace"
+    },
+    {
+      "slug": "driveping",
+      "name": "DrivePing",
+      "source": "local 100-days-lab project snapshot",
+      "archived_at": "2026-08-15T07:22:56Z",
+      "source_remote": null,
+      "source_branch": "main",
+      "source_commit": null,
+      "tracked_file_count": 14,
+      "canonical_path": "projects/driveping"
     },
     {
       "slug": "eolbridge",

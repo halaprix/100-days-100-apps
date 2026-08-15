@@ -1,0 +1,1 @@
+{"id":"driveping-001","title":"Build foreground notification probe spike","status":"open","priority":1,"type":"task","description":"Implement the first Android foreground-service spike with fake probe results, persistent notification state, and local JSON export."}
