@@ -1,0 +1,1 @@
+{"id":"patchproof-001","title":"Build static export parser and packet renderer","status":"open","priority":1,"type":"task","description":"Implement the first local parser/rendering spike: ingest patch, scanner, endpoint last-seen, and exception fixtures; classify sample assets; render a Markdown evidence packet."}

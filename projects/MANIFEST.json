@@ -1,5 +1,5 @@
 {
-  "archived_at": "2026-08-15T07:22:56Z",
+  "archived_at": "2026-08-16T07:20:00Z",
   "projects": [
     {
       "slug": "backup-locksmith",
@@ -231,6 +231,17 @@
       "source_commit": "0bb08a611e9299db5b79f737fc9d458f275ecba5",
       "tracked_file_count": 23,
       "canonical_path": "projects/passkey-pilot"
+    },
+    {
+      "slug": "patchproof",
+      "name": "PatchProof",
+      "source": "local 100-days-lab project snapshot",
+      "archived_at": "2026-08-16T07:20:00Z",
+      "source_remote": null,
+      "source_branch": "main",
+      "source_commit": null,
+      "tracked_file_count": 14,
+      "canonical_path": "projects/patchproof"
     },
     {
       "slug": "peerpath",

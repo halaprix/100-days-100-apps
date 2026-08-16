@@ -27,6 +27,7 @@ Each project contains a `.snapshot.json` with the source remote, branch, and com
 | NIS2 EvidencePack | [`projects/nis2-evidencepack`](./nis2-evidencepack) | https://github.com/halaprix/nis2-evidencepack.git | `98e199d` |
 | OOBEGuard | [`projects/oobeguard`](./oobeguard) | https://github.com/halaprix/oobeguard.git | `e9814d1` |
 | PasskeyPilot | [`projects/passkey-pilot`](./passkey-pilot) | — | `0bb08a6` |
+| PatchProof | [`projects/patchproof`](./patchproof) | — | — |
 | PeerPath | [`projects/peerpath`](./peerpath) | https://github.com/halaprix/peerpath.git | `2714ac6` |
 | PipeTwin | [`projects/pipe-twin`](./pipe-twin) | https://github.com/halaprix/pipe-twin.git | `25c63a1` |
 | PortLease | [`projects/portlease`](./portlease) | https://github.com/halaprix/portlease.git | `5dc7293` |

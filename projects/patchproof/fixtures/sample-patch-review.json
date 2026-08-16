@@ -1,0 +1,33 @@
+{
+  "report_id": "sample-patch-review",
+  "generated_at": "2026-08-16T07:20:00Z",
+  "assets": [
+    {
+      "asset_label": "asset-a",
+      "last_seen_days": 2,
+      "patch_status": "deployed",
+      "scanner_status": "still-vulnerable",
+      "ticket_status": "awaiting-rescan",
+      "classification": "patched_pending_rescan",
+      "evidence": ["patch-export", "scanner-export", "ticket-note"]
+    },
+    {
+      "asset_label": "asset-b",
+      "last_seen_days": 29,
+      "patch_status": "not-seen",
+      "scanner_status": "still-vulnerable",
+      "ticket_status": "none",
+      "classification": "offline_stale",
+      "evidence": ["endpoint-last-seen", "scanner-export"]
+    },
+    {
+      "asset_label": "asset-c",
+      "last_seen_days": 1,
+      "patch_status": "rolled-back",
+      "scanner_status": "still-vulnerable",
+      "ticket_status": "breakage-note",
+      "classification": "rollback_exception_needed",
+      "evidence": ["patch-export", "ticket-note"]
+    }
+  ]
+}
