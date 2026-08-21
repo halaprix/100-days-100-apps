@@ -1,0 +1,11 @@
+{
+  "slug": "ddm-path",
+  "name": "DDMPath",
+  "source": "local 100-days-lab project snapshot",
+  "archived_at": "2026-08-21T07:16:00Z",
+  "source_remote": null,
+  "source_branch": "main",
+  "source_commit": null,
+  "tracked_file_count": 14,
+  "canonical_path": "projects/ddm-path"
+}

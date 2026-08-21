@@ -14,6 +14,7 @@ Each project contains a `.snapshot.json` with the source remote, branch, and com
 | CpuFlag Gate | [`projects/cpuflag-gate`](./cpuflag-gate) | — | `b7888bd` |
 | DavSync Doctor | [`projects/davsync-doctor`](./davsync-doctor) | https://github.com/halaprix/davsync-doctor.git | `49f986f` |
 | DeskPatch | [`projects/deskpatch`](./deskpatch) | https://github.com/halaprix/deskpatch.git | `f492585` |
+| DDMPath | [`projects/ddm-path`](./ddm-path) | — | — |
 | DiskTrace | [`projects/disktrace`](./disktrace) | — | `e250869` |
 | DrivePing | [`projects/driveping`](./driveping) | — | — |
 | EolBridge | [`projects/eolbridge`](./eolbridge) | — | — |

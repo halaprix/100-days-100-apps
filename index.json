@@ -546,6 +546,15 @@
       "signal": "Small-team sysadmins need patch-compliance evidence packets before vulnerability scores become blame fights",
       "status": "repo-created",
       "notes": "Scored 20/25; weakest dimensions tied at 4/5. Scaffold/spec snapshot consolidated directly into the master repo; local project had no dedicated GitHub remote."
+    },
+    {
+      "day": 57,
+      "date": "2026-08-21",
+      "app": "DDMPath",
+      "repo": "projects/ddm-path",
+      "signal": "Intune Apple-fleet admins need a DDM migration packet before legacy update-policy retirement creates unmanaged or disruptive rollout gaps",
+      "status": "repo-created",
+      "notes": "Scored 21/25; weakest dimensions tied at 4/5. Scaffold/spec snapshot consolidated directly into the master repo; no dedicated GitHub remote was created."
     }
   ]
 }

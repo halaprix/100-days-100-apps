@@ -1,0 +1,36 @@
+{
+  "policies": [
+    {
+      "label": "ios-pilot-update",
+      "platform": "ios",
+      "management_mode": "legacy_mdm",
+      "assignment": "pilot-group",
+      "schedule": "overnight",
+      "update_action": "install-later"
+    },
+    {
+      "label": "macos-modern-update",
+      "platform": "macos",
+      "management_mode": "ddm",
+      "assignment": "modern-mac-group",
+      "schedule": "deadline",
+      "update_action": "enforce"
+    }
+  ],
+  "devices": [
+    {
+      "label": "tablet-pilot-a",
+      "platform": "ios",
+      "os_major": 17,
+      "supervised": true,
+      "group": "pilot-group"
+    },
+    {
+      "label": "laptop-legacy-a",
+      "platform": "macos",
+      "os_major": 13,
+      "supervised": true,
+      "group": "modern-mac-group"
+    }
+  ]
+}
