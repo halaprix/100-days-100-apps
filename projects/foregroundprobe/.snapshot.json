@@ -1,0 +1,9 @@
+{
+  "slug": "foregroundprobe",
+  "source_repo": null,
+  "source_branch": "main",
+  "source_commit": "30a77328b74ecac499b68836014fc606d9fcc0d6",
+  "snapshot_at": "2026-08-22",
+  "status": "local-only",
+  "notes": "ForegroundProbe dedicated repository scaffold; no GitHub remote is configured. Snapshot contains tracked source files only."
+}

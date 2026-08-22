@@ -156,6 +156,17 @@
       "canonical_path": "projects/forestdrill"
     },
     {
+      "slug": "foregroundprobe",
+      "name": "ForegroundProbe",
+      "source": "local 100-days-lab project repo",
+      "archived_at": "2026-08-22T09:23:22+02:00",
+      "source_remote": null,
+      "source_branch": "main",
+      "source_commit": "30a77328b74ecac499b68836014fc606d9fcc0d6",
+      "tracked_file_count": 22,
+      "canonical_path": "projects/foregroundprobe"
+    },
+    {
       "slug": "free-tier-fit",
       "name": "FreeTierFit",
       "source": "local 100-days-lab project repo",

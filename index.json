@@ -555,6 +555,15 @@
       "signal": "Intune Apple-fleet admins need a DDM migration packet before legacy update-policy retirement creates unmanaged or disruptive rollout gaps",
       "status": "repo-created",
       "notes": "Scored 21/25; weakest dimensions tied at 4/5. Scaffold/spec snapshot consolidated directly into the master repo; no dedicated GitHub remote was created."
+    },
+    {
+      "day": 58,
+      "date": "2026-08-22",
+      "app": "ForegroundProbe",
+      "repo": "projects/foregroundprobe",
+      "signal": "Android developers need an Android 12–15 foreground-service readiness packet before persistent bot/sync features fail in background",
+      "status": "repo-created",
+      "notes": "Scored 19/25; weakest dimension is competitive wedge/timing at 3/5. Local dedicated scaffold has no GitHub remote; public-safe snapshot consolidated at projects/foregroundprobe."
     }
   ]
 }
