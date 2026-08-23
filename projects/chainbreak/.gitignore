@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Beads local database
+.beads/embeddeddolt/
+.beads/proxieddb/
+.beads/.local_version

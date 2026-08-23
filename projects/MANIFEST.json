@@ -46,6 +46,17 @@
       "canonical_path": "projects/campaignpacket"
     },
     {
+      "slug": "chainbreak",
+      "name": "ChainBreak",
+      "source": "local 100-days-lab project snapshot",
+      "archived_at": "2026-08-23T09:23:29+02:00",
+      "source_remote": null,
+      "source_branch": "main",
+      "source_commit": "609e1b8b5f33b06addc5d7cead73837547b315a8",
+      "tracked_file_count": 22,
+      "canonical_path": "projects/chainbreak"
+    },
+    {
       "slug": "comment-pulse",
       "name": "CommentPulse",
       "source": "local 100-days-lab project repo",

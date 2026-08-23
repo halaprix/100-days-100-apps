@@ -1,0 +1,9 @@
+{
+  "slug": "chainbreak",
+  "source_repo": null,
+  "source_branch": "main",
+  "source_commit": "609e1b8b5f33b06addc5d7cead73837547b315a8",
+  "snapshot_at": "2026-08-23",
+  "status": "local-only",
+  "notes": "ChainBreak dedicated repository scaffold; no GitHub remote is configured. Snapshot contains tracked source files only."
+}

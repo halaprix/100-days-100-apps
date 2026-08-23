@@ -10,6 +10,7 @@ Each project contains a `.snapshot.json` with the source remote, branch, and com
 | BayTrace | [`projects/baytrace`](./baytrace) | https://github.com/halaprix/baytrace.git | `93566b2` |
 | BecomeDoctor | [`projects/become-doctor`](./become-doctor) | https://github.com/halaprix/become-doctor.git | `abf52ae` |
 | CampaignPacket | [`projects/campaignpacket`](./campaignpacket) | https://github.com/halaprix/campaignpacket.git | `e9ca76d` |
+| ChainBreak | [`projects/chainbreak`](./chainbreak) | — | `609e1b8` |
 | CommentPulse | [`projects/comment-pulse`](./comment-pulse) | https://github.com/halaprix/comment-pulse.git | `4e60cda` |
 | CpuFlag Gate | [`projects/cpuflag-gate`](./cpuflag-gate) | — | `b7888bd` |
 | DavSync Doctor | [`projects/davsync-doctor`](./davsync-doctor) | https://github.com/halaprix/davsync-doctor.git | `49f986f` |
