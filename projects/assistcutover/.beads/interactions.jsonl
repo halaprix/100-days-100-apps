@@ -1,0 +1,1 @@
+{"id":"int-7fb86a44a3131db189e11c89aa7a9469","kind":"field_change","created_at":"2026-08-24T07:20:17.88790444Z","actor":"halaprix","issue_id":"asc-zpz","extra":{"field":"status","new_value":"closed","old_value":"in_progress","reason":"Completed in local scaffold commit"}}

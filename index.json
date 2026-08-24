@@ -573,6 +573,15 @@
       "signal": "Remote-site operators need a recovery-path dependency check before a VPN, firewall, or jump-host change cuts off its own management route",
       "status": "repo-created",
       "notes": "Scored 21/25; weakest dimension is competitive wedge/timing at 3/5. Local dedicated scaffold has no GitHub remote; public-safe snapshot consolidated at projects/chainbreak."
+    },
+    {
+      "day": 60,
+      "date": "2026-08-24",
+      "app": "AssistCutover",
+      "repo": "projects/assistcutover",
+      "signal": "OpenAI Assistants API teams need a local migration readiness packet before the August 26, 2026 sunset",
+      "status": "repo-created",
+      "notes": "Scored 22/25; weakest dimension is competitive wedge/timing at 3/5. Local sibling scaffold and public-safe snapshot created; no dedicated GitHub remote."
     }
   ]
 }

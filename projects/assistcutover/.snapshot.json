@@ -1,0 +1,11 @@
+{
+  "slug": "assistcutover",
+  "name": "AssistCutover",
+  "source": "local 100-days-lab project repo",
+  "archived_at": "2026-08-24T09:20:17+02:00",
+  "source_remote": null,
+  "source_branch": "main",
+  "source_commit": "17229b0cb9cba8dc2f3a143b5ed1f82da657ab3d",
+  "tracked_file_count": 22,
+  "canonical_path": "projects/assistcutover"
+}

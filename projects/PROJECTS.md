@@ -6,6 +6,7 @@ Each project contains a `.snapshot.json` with the source remote, branch, and com
 
 | Project | Canonical path | Former dedicated repo | Source commit |
 |---|---|---|---|
+| AssistCutover | [`projects/assistcutover`](./assistcutover) | — | `17229b0` |
 | BackupLocksmith | [`projects/backup-locksmith`](./backup-locksmith) | https://github.com/halaprix/backup-locksmith.git | `b4ecc72` |
 | BayTrace | [`projects/baytrace`](./baytrace) | https://github.com/halaprix/baytrace.git | `93566b2` |
 | BecomeDoctor | [`projects/become-doctor`](./become-doctor) | https://github.com/halaprix/become-doctor.git | `abf52ae` |
