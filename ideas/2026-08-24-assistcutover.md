@@ -18,8 +18,9 @@ readiness packet before the August 26, 2026 sunset.
 
 ## Source access caveats
 
-- Reddit public RSS fallback was reachable for `r/sysadmin`, but the fresh posts
-  did not substantiate this API-migration bet, so they are intentionally not
+- The Reddit skill's public JSON was blocked; its RSS fallback returned fresh
+  `r/SideProject` posts, while `r/SaaS` JSON/RSS was unavailable with a rate
+  limit. Neither produced relevant evidence, so they are intentionally not
   padded into the evidence table.
 - `xurl whoami` worked, but `xurl search` returned `401 Unauthorized`; X search
   was therefore unavailable and no X signal is claimed.
