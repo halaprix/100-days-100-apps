@@ -582,6 +582,15 @@
       "signal": "OpenAI Assistants API teams need a local migration readiness packet before the August 26, 2026 sunset",
       "status": "repo-created",
       "notes": "Scored 22/25; weakest dimension is competitive wedge/timing at 3/5. Local sibling scaffold and public-safe snapshot created; no dedicated GitHub remote."
+    },
+    {
+      "day": 61,
+      "date": "2026-08-25",
+      "app": "VariantGuard",
+      "repo": "projects/variantguard",
+      "signal": "Cloudflare Cache Rules teams need a request-matrix proof before a Vary misconfiguration serves the wrong representation",
+      "status": "repo-created",
+      "notes": "Scored 22/25; weakest dimension is usefulness at 4/5. Local sibling scaffold and public-safe snapshot created; no dedicated GitHub remote."
     }
   ]
 }

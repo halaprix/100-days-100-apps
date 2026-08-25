@@ -1,5 +1,5 @@
 {
-  "archived_at": "2026-08-24T09:20:17+02:00",
+  "archived_at": "2026-08-25T09:21:07+02:00",
   "projects": [
     {
       "slug": "assistcutover",
@@ -517,6 +517,17 @@
       "source_commit": "6df4bef2c0f1a133bc54d3d7db9f131e8ff18cba",
       "tracked_file_count": 23,
       "canonical_path": "projects/tzdrift"
+    },
+    {
+      "slug": "variantguard",
+      "name": "VariantGuard",
+      "source": "local 100-days-lab project repo",
+      "archived_at": "2026-08-25T09:21:07+02:00",
+      "source_remote": null,
+      "source_branch": "main",
+      "source_commit": "baf3bf5300153aaa41bcd06e4a342f39fdeb3ccd",
+      "tracked_file_count": 22,
+      "canonical_path": "projects/variantguard"
     },
     {
       "slug": "vram-janitor",

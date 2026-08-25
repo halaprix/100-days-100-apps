@@ -53,6 +53,7 @@ Each project contains a `.snapshot.json` with the source remote, branch, and com
 | TenantRoute | [`projects/tenant-route`](./tenant-route) | https://github.com/halaprix/tenant-route.git | `e4da2d8` |
 | TicketScrub | [`projects/ticketscrub`](./ticketscrub) | https://github.com/halaprix/ticketscrub.git | `5a81b60` |
 | TzDrift | [`projects/tzdrift`](./tzdrift) | https://github.com/halaprix/tzdrift.git | `6df4bef` |
+| VariantGuard | [`projects/variantguard`](./variantguard) | — | `baf3bf5` |
 | VramJanitor | [`projects/vram-janitor`](./vram-janitor) | https://github.com/halaprix/vram-janitor.git | `ed9f937` |
 | WeatherFork | [`projects/weatherfork`](./weatherfork) | — | `43ccdec` |
 | WinSvcBeacon | [`projects/winsvc-beacon`](./winsvc-beacon) | https://github.com/halaprix/winsvc-beacon.git | `c59f9a3` |
