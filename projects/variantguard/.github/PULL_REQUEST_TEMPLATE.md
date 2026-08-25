@@ -1,6 +1,6 @@
 ## Summary
 
-- 
+-
 
 ## Validation
 
@@ -10,4 +10,4 @@
 
 ## Beads
 
-- Bead: 
+- Bead:
