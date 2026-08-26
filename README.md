@@ -84,6 +84,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 059 | 2026-08-23 | ChainBreak | [`projects/chainbreak`](./projects/chainbreak) | Remote-site operators need a recovery-path dependency check before a VPN, firewall, or jump-host change cuts off its own management route | repo-created | Scored 21/25; weakest dimension is competitive wedge/timing at 3/5. Local dedicated scaffold has no GitHub remote; public-safe snapshot consolidated at projects/chainbreak. |
 | 060 | 2026-08-24 | AssistCutover | [`projects/assistcutover`](./projects/assistcutover) | OpenAI Assistants API teams need a local migration readiness packet before the August 26, 2026 sunset | repo-created | Scored 22/25; weakest dimension is competitive wedge/timing at 3/5. Local sibling scaffold and public-safe snapshot created; no dedicated GitHub remote. |
 | 061 | 2026-08-25 | VariantGuard | [`projects/variantguard`](./projects/variantguard) | Cloudflare Cache Rules teams need a request-matrix proof before a Vary misconfiguration serves the wrong representation | repo-created | Scored 22/25; weakest dimension is usefulness at 4/5. Local sibling scaffold and public-safe snapshot created; no dedicated GitHub remote. |
+| 062 | 2026-08-26 | CachePath | — | Android developers need a user-media cache-path release check before storage cleanup loses irreplaceable history | idea-only | Scored 20/25; no repo — distribution gate fails at 3/5 and existing Android Lint coverage must be disproven. |
 
 ## Consolidated project snapshots
 

@@ -591,6 +591,15 @@
       "signal": "Cloudflare Cache Rules teams need a request-matrix proof before a Vary misconfiguration serves the wrong representation",
       "status": "repo-created",
       "notes": "Scored 22/25; weakest dimension is usefulness at 4/5. Local sibling scaffold and public-safe snapshot created; no dedicated GitHub remote."
+    },
+    {
+      "day": 62,
+      "date": "2026-08-26",
+      "app": "CachePath",
+      "repo": null,
+      "signal": "Android developers need a user-media cache-path release check before storage cleanup loses irreplaceable history",
+      "status": "idea-only",
+      "notes": "Scored 20/25; no repo — distribution gate fails at 3/5 and existing Android Lint coverage must be disproven."
     }
   ]
 }
