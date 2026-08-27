@@ -1,0 +1,17 @@
+# Python and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Local reports and customer inputs
+reports/
+*.crawl.csv
+*.cookies
+.env
+
+# Beads runtime data; public issue export is intentionally tracked
+.beads/embeddeddolt/
+.beads/dolt/
+.beads/*.db
+.beads/*.db-*

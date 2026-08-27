@@ -600,6 +600,15 @@
       "signal": "Android developers need a user-media cache-path release check before storage cleanup loses irreplaceable history",
       "status": "idea-only",
       "notes": "Scored 20/25; no repo — distribution gate fails at 3/5 and existing Android Lint coverage must be disproven."
+    },
+    {
+      "day": 63,
+      "date": "2026-08-27",
+      "app": "RedirectLedger",
+      "repo": "projects/redirect-ledger",
+      "signal": "Static-site migration teams need an approved redirect ledger before a WordPress cutover loses indexed routes",
+      "status": "repo-created",
+      "notes": "Scored 21/25; weakest dimension is competitive wedge/timing at 3/5. Local dedicated scaffold and public-safe snapshot created; no dedicated GitHub remote."
     }
   ]
 }

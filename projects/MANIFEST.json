@@ -1,5 +1,5 @@
 {
-  "archived_at": "2026-08-25T09:21:07+02:00",
+  "archived_at": "2026-08-27T09:21:48+02:00",
   "projects": [
     {
       "slug": "assistcutover",
@@ -385,6 +385,17 @@
       "source_commit": "6d711b5de8f30e67ca01565ceabdaf28ae777998",
       "tracked_file_count": 22,
       "canonical_path": "projects/r2-backup-probe"
+    },
+    {
+      "slug": "redirect-ledger",
+      "name": "RedirectLedger",
+      "source": "local 100-days-lab project repo",
+      "archived_at": "2026-08-27T09:21:48+02:00",
+      "source_remote": null,
+      "source_branch": "main",
+      "source_commit": "c9a52347cd9c80b9ede16db970226c3888e305d4",
+      "tracked_file_count": 21,
+      "canonical_path": "projects/redirect-ledger"
     },
     {
       "slug": "relaytrace",

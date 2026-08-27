@@ -41,6 +41,7 @@ Each project contains a `.snapshot.json` with the source remote, branch, and com
 | QuadletState | [`projects/quadlet-state`](./quadlet-state) | — | — |
 | QueryGap | [`projects/querygap`](./querygap) | https://github.com/halaprix/querygap.git | `3eb5f4a` |
 | R2 Backup Probe | [`projects/r2-backup-probe`](./r2-backup-probe) | https://github.com/halaprix/r2-backup-probe.git | `6d711b5` |
+| RedirectLedger | [`projects/redirect-ledger`](./redirect-ledger) | — | `c9a5234` |
 | RelayTrace | [`projects/relaytrace`](./relaytrace) | — | `7aea399` |
 | RenderGate | [`projects/rendergate`](./rendergate) | — | `05326e9` |
 | ReplayFence | [`projects/replayfence`](./replayfence) | https://github.com/halaprix/replayfence.git | `82ccc7d` |
