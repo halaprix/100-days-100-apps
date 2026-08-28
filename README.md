@@ -86,6 +86,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 061 | 2026-08-25 | VariantGuard | [`projects/variantguard`](./projects/variantguard) | Cloudflare Cache Rules teams need a request-matrix proof before a Vary misconfiguration serves the wrong representation | repo-created | Scored 22/25; weakest dimension is usefulness at 4/5. Local sibling scaffold and public-safe snapshot created; no dedicated GitHub remote. |
 | 062 | 2026-08-26 | CachePath | — | Android developers need a user-media cache-path release check before storage cleanup loses irreplaceable history | idea-only | Scored 20/25; no repo — distribution gate fails at 3/5 and existing Android Lint coverage must be disproven. |
 | 063 | 2026-08-27 | RedirectLedger | [`projects/redirect-ledger`](./projects/redirect-ledger) | Static-site migration teams need an approved redirect ledger before a WordPress cutover loses indexed routes | repo-created | Scored 21/25; weakest dimension is competitive wedge/timing at 3/5. Local dedicated scaffold and public-safe snapshot created; no dedicated GitHub remote. |
+| 064 | 2026-08-28 | MaintainerCapacity | — | Small internal web teams need a stakeholder-readable maintenance capacity brief before invisible portfolio work silently displaces delivery | idea-only | Scored 18/25; no repo — distribution gate fails at 3/5. Existing update and catalog tools are strong substitutes; direct validation must prove the capacity-brief wedge. |
 
 ## Consolidated project snapshots
 

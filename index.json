@@ -609,6 +609,15 @@
       "signal": "Static-site migration teams need an approved redirect ledger before a WordPress cutover loses indexed routes",
       "status": "repo-created",
       "notes": "Scored 21/25; weakest dimension is competitive wedge/timing at 3/5. Local dedicated scaffold and public-safe snapshot created; no dedicated GitHub remote."
+    },
+    {
+      "day": 64,
+      "date": "2026-08-28",
+      "app": "MaintainerCapacity",
+      "repo": null,
+      "signal": "Small internal web teams need a stakeholder-readable maintenance capacity brief before invisible portfolio work silently displaces delivery",
+      "status": "idea-only",
+      "notes": "Scored 18/25; no repo — distribution gate fails at 3/5. Existing update and catalog tools are strong substitutes; direct validation must prove the capacity-brief wedge."
     }
   ]
 }
