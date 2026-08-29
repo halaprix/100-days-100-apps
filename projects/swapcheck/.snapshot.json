@@ -1,0 +1,9 @@
+{
+  "source": "local 100-days-lab project repo",
+  "source_remote": null,
+  "source_branch": "main",
+  "source_commit": "c8e8d5fdef4444afab1f4d6a9eb0ba56a3e09534",
+  "tracked_file_count": 22,
+  "snapshot_at": "2026-08-29T09:21:30+02:00",
+  "canonical_path": "projects/swapcheck"
+}

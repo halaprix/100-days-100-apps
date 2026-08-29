@@ -618,6 +618,15 @@
       "signal": "Small internal web teams need a stakeholder-readable maintenance capacity brief before invisible portfolio work silently displaces delivery",
       "status": "idea-only",
       "notes": "Scored 18/25; no repo — distribution gate fails at 3/5. Existing update and catalog tools are strong substitutes; direct validation must prove the capacity-brief wedge."
+    },
+    {
+      "day": 65,
+      "date": "2026-08-29",
+      "app": "SwapCheck",
+      "repo": "projects/swapcheck",
+      "signal": "Copilot admins need an approved model-policy migration packet before September retirements or inherited-policy changes interrupt workflows",
+      "status": "repo-created",
+      "notes": "Scored 21/25; weakest dimensions tied at 4/5. Local dedicated scaffold and public-safe snapshot created; no dedicated GitHub remote."
     }
   ]
 }

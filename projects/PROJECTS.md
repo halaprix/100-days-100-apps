@@ -49,6 +49,7 @@ Each project contains a `.snapshot.json` with the source remote, branch, and com
 | SheetSentry | [`projects/sheetsentry`](./sheetsentry) | https://github.com/halaprix/sheetsentry.git | `db99fb5` |
 | SplitPath | [`projects/splitpath`](./splitpath) | https://github.com/halaprix/splitpath.git | `25475f1` |
 | StatePin | [`projects/statepin`](./statepin) | — | `50d57e8` |
+| SwapCheck | [`projects/swapcheck`](./swapcheck) | — | `c8e8d5f` |
 | StorePacket | [`projects/storepacket`](./storepacket) | https://github.com/halaprix/storepacket.git | `79034c8` |
 | SyncBrake | [`projects/syncbrake`](./syncbrake) | — | — |
 | TenantRoute | [`projects/tenant-route`](./tenant-route) | https://github.com/halaprix/tenant-route.git | `e4da2d8` |

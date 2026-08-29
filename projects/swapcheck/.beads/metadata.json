@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "swapcheck",
+  "project_id": "e56d31eb-9635-4e9c-99eb-ad30dfed67f0"
+}

@@ -1,0 +1,1 @@
+{"id":"int-ce8c88f5771efb14016d61abccc7428d","kind":"field_change","created_at":"2026-08-29T07:21:30.118491085Z","actor":"halaprix","issue_id":"swapcheck-bzc","extra":{"field":"status","new_value":"closed","old_value":"in_progress","reason":"Scaffold committed in e60fad3"}}
