@@ -627,6 +627,15 @@
       "signal": "Copilot admins need an approved model-policy migration packet before September retirements or inherited-policy changes interrupt workflows",
       "status": "repo-created",
       "notes": "Scored 21/25; weakest dimensions tied at 4/5. Local dedicated scaffold and public-safe snapshot created; no dedicated GitHub remote."
+    },
+    {
+      "day": 66,
+      "date": "2026-08-30",
+      "app": "OverrideReceipt",
+      "repo": null,
+      "signal": "Defender admins need expiry-bound temporary-mitigation packets before false-positive overrides outlive the incident",
+      "status": "idea-only",
+      "notes": "Scored 20/25; no repo — distribution gate fails at 3/5. Strong Defender-specific reporting/triage products require validation of the narrow removal-proof wedge."
     }
   ]
 }
