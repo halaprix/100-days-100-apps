@@ -20,6 +20,7 @@ Each project contains a `.snapshot.json` with the source remote, branch, and com
 | DiskTrace | [`projects/disktrace`](./disktrace) | — | `e250869` |
 | DrivePing | [`projects/driveping`](./driveping) | — | — |
 | EolBridge | [`projects/eolbridge`](./eolbridge) | — | — |
+| EnrollFence | [`projects/enrollfence`](./enrollfence) | — | `05e47ad` |
 | ExitTrace | [`projects/exittrace`](./exittrace) | https://github.com/halaprix/exittrace.git | `1bd9e8f` |
 | ForestDrill | [`projects/forestdrill`](./forestdrill) | — | `5454d88` |
 | ForegroundProbe | [`projects/foregroundprobe`](./foregroundprobe) | — | `30a7732` |

@@ -89,6 +89,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 064 | 2026-08-28 | MaintainerCapacity | — | Small internal web teams need a stakeholder-readable maintenance capacity brief before invisible portfolio work silently displaces delivery | idea-only | Scored 18/25; no repo — distribution gate fails at 3/5. Existing update and catalog tools are strong substitutes; direct validation must prove the capacity-brief wedge. |
 | 065 | 2026-08-29 | SwapCheck | [`projects/swapcheck`](./projects/swapcheck) | Copilot admins need an approved model-policy migration packet before September retirements or inherited-policy changes interrupt workflows | repo-created | Scored 21/25; weakest dimensions tied at 4/5. Local dedicated scaffold and public-safe snapshot created; no dedicated GitHub remote. |
 | 066 | 2026-08-30 | OverrideReceipt | — | Defender admins need expiry-bound temporary-mitigation packets before false-positive overrides outlive the incident | idea-only | Scored 20/25; no repo — distribution gate fails at 3/5. Strong Defender-specific reporting/triage products require validation of the narrow removal-proof wedge. |
+| 067 | 2026-08-31 | EnrollFence | [`projects/enrollfence`](./projects/enrollfence) | Intune admins need an enrollment-path review packet before a corporate-device-only policy leaves a Windows route open | repo-created | Scored 21/25; weakest dimension is competitive wedge/timing at 3/5. Local dedicated scaffold and public-safe snapshot created; no dedicated GitHub remote. |
 
 ## Consolidated project snapshots
 

@@ -29,7 +29,7 @@
       "repo": null,
       "signal": "Neurodivergent-couple shared board with persistent Notice lane",
       "status": "idea-only",
-      "notes": "Scored 19/25; clears threshold but held — borderline score, narrow audience. 9 ideas scored, all others rejected on competitor gate."
+      "notes": "Scored 19/25; clears threshold but held \u2014 borderline score, narrow audience. 9 ideas scored, all others rejected on competitor gate."
     },
     {
       "day": 3,
@@ -38,7 +38,7 @@
       "repo": null,
       "signal": "Developers cannot trust raw visitor counts in bot-heavy traffic",
       "status": "idea-only",
-      "notes": "Scored 17/25; no repo — crowded analytics category, single strong public thread."
+      "notes": "Scored 17/25; no repo \u2014 crowded analytics category, single strong public thread."
     },
     {
       "day": 4,
@@ -47,7 +47,7 @@
       "repo": null,
       "signal": "Vibe-coded founders need a plain-language launch security gate",
       "status": "idea-only",
-      "notes": "Scored 17/25; no repo — strong timing, crowded AppSec/autofix category."
+      "notes": "Scored 17/25; no repo \u2014 strong timing, crowded AppSec/autofix category."
     },
     {
       "day": 5,
@@ -56,7 +56,7 @@
       "repo": null,
       "signal": "SaaS founders need demo story/shot planning before recording complex products",
       "status": "idea-only",
-      "notes": "Scored 17/25; no repo — useful pain, but crowded AI demo/video category."
+      "notes": "Scored 17/25; no repo \u2014 useful pain, but crowded AI demo/video category."
     },
     {
       "day": 6,
@@ -75,7 +75,7 @@
       "repo": null,
       "signal": "Astro/static-site developers need bundle-aware select component decisions",
       "status": "idea-only",
-      "notes": "Scored 17/25; no repo — useful narrow dev-tool wedge, but evidence is still one strong thread plus package/docs signals."
+      "notes": "Scored 17/25; no repo \u2014 useful narrow dev-tool wedge, but evidence is still one strong thread plus package/docs signals."
     },
     {
       "day": 8,
@@ -84,7 +84,7 @@
       "repo": null,
       "signal": "Self-hosted personal agents need a proof-of-done task ledger that prevents drifting project and waiting lists",
       "status": "idea-only",
-      "notes": "Scored 18/25; no repo — total clears, but distribution gate fails at 3/5."
+      "notes": "Scored 18/25; no repo \u2014 total clears, but distribution gate fails at 3/5."
     },
     {
       "day": 9,
@@ -133,7 +133,7 @@
       "repo": null,
       "signal": "SharePoint admins need safe user-to-user permission diffs before copying access",
       "status": "idea-only",
-      "notes": "Scored 17/25; no repo — direct competitors already cover permission reporting/compare, wedge needs sharper proof."
+      "notes": "Scored 17/25; no repo \u2014 direct competitors already cover permission reporting/compare, wedge needs sharper proof."
     },
     {
       "day": 14,
@@ -200,7 +200,7 @@
       "date": "2026-07-08",
       "app": "DavSync Doctor",
       "repo": "projects/davsync-doctor",
-      "signal": "Radicale/Baïkal self-hosters need Apple Contacts/CardDAV sync diagnostics before leaking configs into support threads",
+      "signal": "Radicale/Ba\u00efkal self-hosters need Apple Contacts/CardDAV sync diagnostics before leaking configs into support threads",
       "status": "repo-created",
       "notes": "Scored 19/25; repo scaffold pushed and tagged v0; snapshot consolidated into master repo at projects/davsync-doctor.",
       "archived_from_repo": "https://github.com/halaprix/davsync-doctor"
@@ -437,7 +437,7 @@
       "repo": null,
       "signal": "WebRTC file-transfer builders need data-channel chunk/backpressure checks before large transfers blow browser memory",
       "status": "idea-only",
-      "notes": "Scored 17/25; no repo — narrow developer pain, with usefulness, distribution, and wedge tied at 3/5."
+      "notes": "Scored 17/25; no repo \u2014 narrow developer pain, with usefulness, distribution, and wedge tied at 3/5."
     },
     {
       "day": 45,
@@ -446,7 +446,7 @@
       "repo": null,
       "signal": "Self-hosters need phone-safe Fail2Ban accidental-ban recovery before disabling protection or SSHing awkwardly from a couch",
       "status": "idea-only",
-      "notes": "Scored 17/25; no repo — useful emergency pain, but fail2ban-ui/fail2web weaken the wedge."
+      "notes": "Scored 17/25; no repo \u2014 useful emergency pain, but fail2ban-ui/fail2web weaken the wedge."
     },
     {
       "day": 46,
@@ -455,7 +455,7 @@
       "repo": null,
       "signal": "Windows admins need SMB/Explorer hang incident packets before intermittent mapped-drive stalls disappear",
       "status": "idea-only",
-      "notes": "Scored 19/25; no repo — total clears, but distribution gate fails at 3/5."
+      "notes": "Scored 19/25; no repo \u2014 total clears, but distribution gate fails at 3/5."
     },
     {
       "day": 47,
@@ -561,7 +561,7 @@
       "date": "2026-08-22",
       "app": "ForegroundProbe",
       "repo": "projects/foregroundprobe",
-      "signal": "Android developers need an Android 12–15 foreground-service readiness packet before persistent bot/sync features fail in background",
+      "signal": "Android developers need an Android 12\u201315 foreground-service readiness packet before persistent bot/sync features fail in background",
       "status": "repo-created",
       "notes": "Scored 19/25; weakest dimension is competitive wedge/timing at 3/5. Local dedicated scaffold has no GitHub remote; public-safe snapshot consolidated at projects/foregroundprobe."
     },
@@ -599,7 +599,7 @@
       "repo": null,
       "signal": "Android developers need a user-media cache-path release check before storage cleanup loses irreplaceable history",
       "status": "idea-only",
-      "notes": "Scored 20/25; no repo — distribution gate fails at 3/5 and existing Android Lint coverage must be disproven."
+      "notes": "Scored 20/25; no repo \u2014 distribution gate fails at 3/5 and existing Android Lint coverage must be disproven."
     },
     {
       "day": 63,
@@ -617,7 +617,7 @@
       "repo": null,
       "signal": "Small internal web teams need a stakeholder-readable maintenance capacity brief before invisible portfolio work silently displaces delivery",
       "status": "idea-only",
-      "notes": "Scored 18/25; no repo — distribution gate fails at 3/5. Existing update and catalog tools are strong substitutes; direct validation must prove the capacity-brief wedge."
+      "notes": "Scored 18/25; no repo \u2014 distribution gate fails at 3/5. Existing update and catalog tools are strong substitutes; direct validation must prove the capacity-brief wedge."
     },
     {
       "day": 65,
@@ -635,7 +635,16 @@
       "repo": null,
       "signal": "Defender admins need expiry-bound temporary-mitigation packets before false-positive overrides outlive the incident",
       "status": "idea-only",
-      "notes": "Scored 20/25; no repo — distribution gate fails at 3/5. Strong Defender-specific reporting/triage products require validation of the narrow removal-proof wedge."
+      "notes": "Scored 20/25; no repo \u2014 distribution gate fails at 3/5. Strong Defender-specific reporting/triage products require validation of the narrow removal-proof wedge."
+    },
+    {
+      "day": 67,
+      "date": "2026-08-31",
+      "app": "EnrollFence",
+      "repo": "projects/enrollfence",
+      "signal": "Intune admins need an enrollment-path review packet before a corporate-device-only policy leaves a Windows route open",
+      "status": "repo-created",
+      "notes": "Scored 21/25; weakest dimension is competitive wedge/timing at 3/5. Local dedicated scaffold and public-safe snapshot created; no dedicated GitHub remote."
     }
   ]
 }

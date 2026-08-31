@@ -1,5 +1,5 @@
 {
-  "archived_at": "2026-08-27T09:21:48+02:00",
+  "archived_at": "2026-08-31T09:22:26+02:00",
   "projects": [
     {
       "slug": "assistcutover",
@@ -101,17 +101,6 @@
       "canonical_path": "projects/davsync-doctor"
     },
     {
-      "slug": "deskpatch",
-      "name": "DeskPatch",
-      "source": "local 100-days-lab project repo",
-      "archived_at": "2026-07-28T05:37:20+00:00",
-      "source_remote": "https://github.com/halaprix/deskpatch.git",
-      "source_branch": "main",
-      "source_commit": "f49258566ddb4ebeced1933a0b5bf869509947ed",
-      "tracked_file_count": 23,
-      "canonical_path": "projects/deskpatch"
-    },
-    {
       "slug": "ddm-path",
       "name": "DDMPath",
       "source": "local 100-days-lab project snapshot",
@@ -121,6 +110,17 @@
       "source_commit": null,
       "tracked_file_count": 14,
       "canonical_path": "projects/ddm-path"
+    },
+    {
+      "slug": "deskpatch",
+      "name": "DeskPatch",
+      "source": "local 100-days-lab project repo",
+      "archived_at": "2026-07-28T05:37:20+00:00",
+      "source_remote": "https://github.com/halaprix/deskpatch.git",
+      "source_branch": "main",
+      "source_commit": "f49258566ddb4ebeced1933a0b5bf869509947ed",
+      "tracked_file_count": 23,
+      "canonical_path": "projects/deskpatch"
     },
     {
       "slug": "disktrace",
@@ -145,6 +145,17 @@
       "canonical_path": "projects/driveping"
     },
     {
+      "slug": "enrollfence",
+      "name": "EnrollFence",
+      "source": "local 100-days-lab project repo",
+      "archived_at": "2026-08-31T09:22:26+02:00",
+      "source_remote": null,
+      "source_branch": "main",
+      "source_commit": "05e47ad076e6382de0e25ce82385ab2da8a134e6",
+      "tracked_file_count": 22,
+      "canonical_path": "projects/enrollfence"
+    },
+    {
       "slug": "eolbridge",
       "name": "EolBridge",
       "source": "local 100-days-lab project snapshot",
@@ -167,17 +178,6 @@
       "canonical_path": "projects/exittrace"
     },
     {
-      "slug": "forestdrill",
-      "name": "ForestDrill",
-      "source": "local 100-days-lab project repo",
-      "archived_at": "2026-08-05T07:25:08Z",
-      "source_remote": null,
-      "source_branch": "main",
-      "source_commit": "5454d882b0c5bdb82bccb5c3e45fccb083fbce94",
-      "tracked_file_count": 22,
-      "canonical_path": "projects/forestdrill"
-    },
-    {
       "slug": "foregroundprobe",
       "name": "ForegroundProbe",
       "source": "local 100-days-lab project repo",
@@ -187,6 +187,17 @@
       "source_commit": "30a77328b74ecac499b68836014fc606d9fcc0d6",
       "tracked_file_count": 22,
       "canonical_path": "projects/foregroundprobe"
+    },
+    {
+      "slug": "forestdrill",
+      "name": "ForestDrill",
+      "source": "local 100-days-lab project repo",
+      "archived_at": "2026-08-05T07:25:08Z",
+      "source_remote": null,
+      "source_branch": "main",
+      "source_commit": "5454d882b0c5bdb82bccb5c3e45fccb083fbce94",
+      "tracked_file_count": 22,
+      "canonical_path": "projects/forestdrill"
     },
     {
       "slug": "free-tier-fit",
@@ -475,17 +486,6 @@
       "canonical_path": "projects/statepin"
     },
     {
-      "slug": "swapcheck",
-      "name": "SwapCheck",
-      "source": "local 100-days-lab project repo",
-      "archived_at": "2026-08-29T09:21:30+02:00",
-      "source_remote": null,
-      "source_branch": "main",
-      "source_commit": "c8e8d5fdef4444afab1f4d6a9eb0ba56a3e09534",
-      "tracked_file_count": 22,
-      "canonical_path": "projects/swapcheck"
-    },
-    {
       "slug": "storepacket",
       "name": "StorePacket",
       "source": "local 100-days-lab project repo",
@@ -495,6 +495,17 @@
       "source_commit": "79034c8c3f09d9381f90258d9f937dd665934056",
       "tracked_file_count": 21,
       "canonical_path": "projects/storepacket"
+    },
+    {
+      "slug": "swapcheck",
+      "name": "SwapCheck",
+      "source": "local 100-days-lab project repo",
+      "archived_at": "2026-08-29T09:21:30+02:00",
+      "source_remote": null,
+      "source_branch": "main",
+      "source_commit": "c8e8d5fdef4444afab1f4d6a9eb0ba56a3e09534",
+      "tracked_file_count": 22,
+      "canonical_path": "projects/swapcheck"
     },
     {
       "slug": "syncbrake",
