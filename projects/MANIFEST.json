@@ -1,5 +1,5 @@
 {
-  "archived_at": "2026-08-31T09:22:26+02:00",
+  "archived_at": "2026-09-02T09:21:25+02:00",
   "projects": [
     {
       "slug": "assistcutover",
@@ -561,6 +561,17 @@
       "source_commit": "a22a9d436f5b5cef148a8db2a04e61a7bd51de2e",
       "tracked_file_count": 22,
       "canonical_path": "projects/variantguard"
+    },
+    {
+      "slug": "packageproof",
+      "name": "PackageProof",
+      "source": "local 100-days-lab project repo",
+      "archived_at": "2026-09-02T09:21:25+02:00",
+      "source_remote": null,
+      "source_branch": "main",
+      "source_commit": "b37cb2d52e5dcbdbcabbb8a4be2f96a1b10783b8",
+      "tracked_file_count": 21,
+      "canonical_path": "projects/packageproof"
     },
     {
       "slug": "vram-janitor",

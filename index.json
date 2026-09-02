@@ -654,6 +654,15 @@
       "signal": "GitHub maintainers need an explicit review-checkpoint delta before reopening tabs to reconstruct an interrupted pull-request review",
       "status": "idea-only",
       "notes": "Scored 18/25; no repo — distribution is 3/5 and competitive wedge/timing is 2/5 against GitHub’s new dashboard and Graphite."
+    },
+    {
+      "day": 69,
+      "date": "2026-09-02",
+      "app": "PackageProof",
+      "repo": "projects/packageproof",
+      "signal": "Android publishers need a package/certificate/route verification packet before the September 30 developer-verification milestone",
+      "status": "repo-created",
+      "notes": "Scored 21/25; weakest dimension is competitive wedge/timing at 3/5. Local dedicated scaffold and public-safe snapshot created; no dedicated GitHub remote."
     }
   ]
 }

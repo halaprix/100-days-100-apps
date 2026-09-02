@@ -1,0 +1,10 @@
+{
+  "name": "packageproof",
+  "source": {
+    "remote": null,
+    "branch": "main",
+    "commit": "b37cb2d52e5dcbdbcabbb8a4be2f96a1b10783b8"
+  },
+  "snapshot_reason": "Daily Day 069 qualifying scaffold retained in the master index.",
+  "captured_at": "2026-09-02"
+}

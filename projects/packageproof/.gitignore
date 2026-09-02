@@ -1,0 +1,23 @@
+# Python / test output
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Android and signing material
+*.apk
+*.aab
+*.jks
+*.keystore
+*.pem
+*.p12
+*.pfx
+
+# Local configuration and reports
+.env
+packageproof.local.*
+packageproof-report.*
+
+# Beads runtime state
+.beads/dolt/
+.beads/embeddeddolt/
+.beads/*.lock
