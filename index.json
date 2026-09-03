@@ -663,6 +663,15 @@
       "signal": "Android publishers need a package/certificate/route verification packet before the September 30 developer-verification milestone",
       "status": "repo-created",
       "notes": "Scored 21/25; weakest dimension is competitive wedge/timing at 3/5. Local dedicated scaffold and public-safe snapshot created; no dedicated GitHub remote."
+    },
+    {
+      "day": 70,
+      "date": "2026-09-03",
+      "app": "WebPushFit",
+      "repo": null,
+      "signal": "WordPress publishers need a self-hosted web-push readiness proof before exposing a browser opt-in on constrained hosting",
+      "status": "idea-only",
+      "notes": "Scored 18/25; no repo — Distribution is 3/5 and competitive wedge/timing is 2/5 against existing self-hosted WordPress push plugins."
     }
   ]
 }
