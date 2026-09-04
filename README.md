@@ -93,6 +93,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 068 | 2026-09-01 | ReviewDelta | — | GitHub maintainers need an explicit review-checkpoint delta before reopening tabs to reconstruct an interrupted pull-request review | idea-only | Scored 18/25; no repo — distribution is 3/5 and competitive wedge/timing is 2/5 against GitHub’s new dashboard and Graphite. |
 | 069 | 2026-09-02 | PackageProof | [`projects/packageproof`](./projects/packageproof) | Android publishers need a package/certificate/route verification packet before the September 30 developer-verification milestone | repo-created | Scored 21/25; weakest dimension is competitive wedge/timing at 3/5. Local dedicated scaffold and public-safe snapshot created; no dedicated GitHub remote. |
 | 070 | 2026-09-03 | WebPushFit | — | WordPress publishers need a self-hosted web-push readiness proof before exposing a browser opt-in on constrained hosting | idea-only | Scored 18/25; no repo — Distribution is 3/5 and competitive wedge/timing is 2/5 against existing self-hosted WordPress push plugins. |
+| 071 | 2026-09-04 | ScheduleMap | — | Solo operators need a task-to-schedule map before AI-agent cron jobs silently duplicate or stop work | idea-only | Scored 18/25; no repo — Distribution is 3/5. Runtime monitors are strong substitutes; validate static cross-source reconciliation first. |
 
 ## Consolidated project snapshots
 

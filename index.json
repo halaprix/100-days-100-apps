@@ -672,6 +672,15 @@
       "signal": "WordPress publishers need a self-hosted web-push readiness proof before exposing a browser opt-in on constrained hosting",
       "status": "idea-only",
       "notes": "Scored 18/25; no repo — Distribution is 3/5 and competitive wedge/timing is 2/5 against existing self-hosted WordPress push plugins."
+    },
+    {
+      "day": 71,
+      "date": "2026-09-04",
+      "app": "ScheduleMap",
+      "repo": null,
+      "signal": "Solo operators need a task-to-schedule map before AI-agent cron jobs silently duplicate or stop work",
+      "status": "idea-only",
+      "notes": "Scored 18/25; no repo — Distribution is 3/5. Runtime monitors are strong substitutes; validate static cross-source reconciliation first."
     }
   ]
 }
