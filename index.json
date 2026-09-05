@@ -681,6 +681,15 @@
       "signal": "Solo operators need a task-to-schedule map before AI-agent cron jobs silently duplicate or stop work",
       "status": "idea-only",
       "notes": "Scored 18/25; no repo — Distribution is 3/5. Runtime monitors are strong substitutes; validate static cross-source reconciliation first."
+    },
+    {
+      "day": 72,
+      "date": "2026-09-05",
+      "app": "DNSCutoverLint",
+      "repo": null,
+      "signal": "Self-hosters need a redacted DDNS cutover preflight before a multi-host migration leaves remote services on stale records",
+      "status": "idea-only",
+      "notes": "Scored 18/25; no repo — competitive wedge/timing is 2/5. Existing updaters are strong substitutes; validate the narrow migration-review gap first."
     }
   ]
 }
