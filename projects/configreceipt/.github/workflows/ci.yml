@@ -22,4 +22,4 @@ jobs:
           test -f CONTRIBUTING.md
           test -f SECURITY.md
           test -f .beads/issues.jsonl
-          git diff --check HEAD^ HEAD || true
+          git diff --check "$(git hash-object -t tree /dev/null)" HEAD
