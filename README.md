@@ -95,6 +95,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 070 | 2026-09-03 | WebPushFit | — | WordPress publishers need a self-hosted web-push readiness proof before exposing a browser opt-in on constrained hosting | idea-only | Scored 18/25; no repo — Distribution is 3/5 and competitive wedge/timing is 2/5 against existing self-hosted WordPress push plugins. |
 | 071 | 2026-09-04 | ScheduleMap | — | Solo operators need a task-to-schedule map before AI-agent cron jobs silently duplicate or stop work | idea-only | Scored 18/25; no repo — Distribution is 3/5. Runtime monitors are strong substitutes; validate static cross-source reconciliation first. |
 | 072 | 2026-09-05 | DNSCutoverLint | — | Self-hosters need a redacted DDNS cutover preflight before a multi-host migration leaves remote services on stale records | idea-only | Scored 18/25; no repo — competitive wedge/timing is 2/5. Existing updaters are strong substitutes; validate the narrow migration-review gap first. |
+| 073 | 2026-09-06 | ConfigReceipt | [`projects/configreceipt`](./projects/configreceipt) | Self-hosters need offline receipts around manual appliance exports before recovery or support lacks file context or safe sharing | repo-created | Scored 19/25; weakest dimension is usefulness at 3/5. Local dedicated scaffold and public-safe snapshot created; no dedicated GitHub remote. |
 
 ## Consolidated project snapshots
 

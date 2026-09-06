@@ -1,0 +1,18 @@
+# Local data and generated receipts
+receipts/
+fixtures/private/
+*.receipt.json
+
+# Beads runtime state
+.beads/dolt/
+.beads/embeddeddolt/
+.beads/*.lock
+.beads/metrics.json
+
+# Editor and environment files
+.env
+.env.*
+!.env.example
+__pycache__/
+.pytest_cache/
+.DS_Store

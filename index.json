@@ -690,6 +690,15 @@
       "signal": "Self-hosters need a redacted DDNS cutover preflight before a multi-host migration leaves remote services on stale records",
       "status": "idea-only",
       "notes": "Scored 18/25; no repo — competitive wedge/timing is 2/5. Existing updaters are strong substitutes; validate the narrow migration-review gap first."
+    },
+    {
+      "day": 73,
+      "date": "2026-09-06",
+      "app": "ConfigReceipt",
+      "repo": "projects/configreceipt",
+      "signal": "Self-hosters need offline receipts around manual appliance exports before recovery or support lacks file context or safe sharing",
+      "status": "repo-created",
+      "notes": "Scored 19/25; weakest dimension is usefulness at 3/5. Local dedicated scaffold and public-safe snapshot created; no dedicated GitHub remote."
     }
   ]
 }
