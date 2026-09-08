@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local output and fixtures that may contain user data
+output/
+*.packet.json
+*.packet.md
+
+# Local environment
+.env
+.env.*
+
+# Beads runtime data
+.beads/embeddeddolt/
+.beads/metrics.json
+.beads/backup/
+.beads/*.db

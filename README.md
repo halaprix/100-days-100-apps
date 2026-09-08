@@ -97,6 +97,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 072 | 2026-09-05 | DNSCutoverLint | — | Self-hosters need a redacted DDNS cutover preflight before a multi-host migration leaves remote services on stale records | idea-only | Scored 18/25; no repo — competitive wedge/timing is 2/5. Existing updaters are strong substitutes; validate the narrow migration-review gap first. |
 | 073 | 2026-09-06 | ConfigReceipt | [`projects/configreceipt`](./projects/configreceipt) | Self-hosters need offline receipts around manual appliance exports before recovery or support lacks file context or safe sharing | repo-created | Scored 19/25; weakest dimension is usefulness at 3/5. Local dedicated scaffold and public-safe snapshot created; no dedicated GitHub remote. |
 | 074 | 2026-09-07 | SkillFixture | — | Skill authors need local package-contract receipts before broken references or setup reach a public directory | idea-only | Scored 18/25; no repo — Distribution is 3/5, below the creation gate. Validate recurring maintainer pain and a repeatable GitHub Action/template channel first. |
+| 075 | 2026-09-08 | McpRouteCheck | [`projects/mcp-routecheck`](./projects/mcp-routecheck) | Atlassian Rovo MCP owners need a redacted v1-to-v2 configuration migration packet before the March 2027 behavior change breaks an agent connection | repo-created | Scored 21/25; weakest dimensions are usefulness and feasibility at 4/5. Local dedicated scaffold and public-safe snapshot created; no dedicated GitHub remote. |
 
 ## Consolidated project snapshots
 

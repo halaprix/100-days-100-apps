@@ -29,6 +29,7 @@ Each project contains a `.snapshot.json` with the source remote, branch, and com
 | LabFit | [`projects/labfit`](./labfit) | https://github.com/halaprix/labfit.git | `3853754` |
 | Llama CUDA Doctor | [`projects/llama-cuda-doctor`](./llama-cuda-doctor) | https://github.com/halaprix/llama-cuda-doctor.git | `aa6a7ab` |
 | MxCutover | [`projects/mxcutover`](./mxcutover) | https://github.com/halaprix/mxcutover.git | `b15535f` |
+| McpRouteCheck | [`projects/mcp-routecheck`](./mcp-routecheck) | — | `69c7256` |
 | NIS2 EvidencePack | [`projects/nis2-evidencepack`](./nis2-evidencepack) | https://github.com/halaprix/nis2-evidencepack.git | `98e199d` |
 | OOBEGuard | [`projects/oobeguard`](./oobeguard) | https://github.com/halaprix/oobeguard.git | `e9814d1` |
 | PasskeyPilot | [`projects/passkey-pilot`](./passkey-pilot) | — | `0bb08a6` |

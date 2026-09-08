@@ -653,7 +653,7 @@
       "repo": null,
       "signal": "GitHub maintainers need an explicit review-checkpoint delta before reopening tabs to reconstruct an interrupted pull-request review",
       "status": "idea-only",
-      "notes": "Scored 18/25; no repo — distribution is 3/5 and competitive wedge/timing is 2/5 against GitHub’s new dashboard and Graphite."
+      "notes": "Scored 18/25; no repo \u2014 distribution is 3/5 and competitive wedge/timing is 2/5 against GitHub\u2019s new dashboard and Graphite."
     },
     {
       "day": 69,
@@ -671,7 +671,7 @@
       "repo": null,
       "signal": "WordPress publishers need a self-hosted web-push readiness proof before exposing a browser opt-in on constrained hosting",
       "status": "idea-only",
-      "notes": "Scored 18/25; no repo — Distribution is 3/5 and competitive wedge/timing is 2/5 against existing self-hosted WordPress push plugins."
+      "notes": "Scored 18/25; no repo \u2014 Distribution is 3/5 and competitive wedge/timing is 2/5 against existing self-hosted WordPress push plugins."
     },
     {
       "day": 71,
@@ -680,7 +680,7 @@
       "repo": null,
       "signal": "Solo operators need a task-to-schedule map before AI-agent cron jobs silently duplicate or stop work",
       "status": "idea-only",
-      "notes": "Scored 18/25; no repo — Distribution is 3/5. Runtime monitors are strong substitutes; validate static cross-source reconciliation first."
+      "notes": "Scored 18/25; no repo \u2014 Distribution is 3/5. Runtime monitors are strong substitutes; validate static cross-source reconciliation first."
     },
     {
       "day": 72,
@@ -689,7 +689,7 @@
       "repo": null,
       "signal": "Self-hosters need a redacted DDNS cutover preflight before a multi-host migration leaves remote services on stale records",
       "status": "idea-only",
-      "notes": "Scored 18/25; no repo — competitive wedge/timing is 2/5. Existing updaters are strong substitutes; validate the narrow migration-review gap first."
+      "notes": "Scored 18/25; no repo \u2014 competitive wedge/timing is 2/5. Existing updaters are strong substitutes; validate the narrow migration-review gap first."
     },
     {
       "day": 73,
@@ -707,7 +707,16 @@
       "repo": null,
       "signal": "Skill authors need local package-contract receipts before broken references or setup reach a public directory",
       "status": "idea-only",
-      "notes": "Scored 18/25; no repo — Distribution is 3/5, below the creation gate. Validate recurring maintainer pain and a repeatable GitHub Action/template channel first."
+      "notes": "Scored 18/25; no repo \u2014 Distribution is 3/5, below the creation gate. Validate recurring maintainer pain and a repeatable GitHub Action/template channel first."
+    },
+    {
+      "day": 75,
+      "date": "2026-09-08",
+      "app": "McpRouteCheck",
+      "repo": "projects/mcp-routecheck",
+      "signal": "Atlassian Rovo MCP owners need a redacted v1-to-v2 configuration migration packet before the March 2027 behavior change breaks an agent connection",
+      "status": "repo-created",
+      "notes": "Scored 21/25; weakest dimensions are usefulness and feasibility at 4/5. Local dedicated scaffold and public-safe snapshot created; no dedicated GitHub remote."
     }
   ]
 }

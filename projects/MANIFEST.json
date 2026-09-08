@@ -1,5 +1,5 @@
 {
-  "archived_at": "2026-09-02T09:21:25+02:00",
+  "archived_at": "2026-09-08T07:26:00Z",
   "projects": [
     {
       "slug": "assistcutover",
@@ -244,6 +244,17 @@
       "canonical_path": "projects/llama-cuda-doctor"
     },
     {
+      "slug": "mcp-routecheck",
+      "name": "McpRouteCheck",
+      "source": "local 100-days-lab project repo",
+      "archived_at": "2026-09-08T07:26:00Z",
+      "source_remote": null,
+      "source_branch": "main",
+      "source_commit": "69c725655a7f6c3118b1570c77b72c4d937a2047",
+      "tracked_file_count": 22,
+      "canonical_path": "projects/mcp-routecheck"
+    },
+    {
       "slug": "mxcutover",
       "name": "MxCutover",
       "source": "local 100-days-lab project repo",
@@ -275,6 +286,17 @@
       "source_commit": "e9814d1f023c4b54fab0f067a0bf3ac0b7baca73",
       "tracked_file_count": 23,
       "canonical_path": "projects/oobeguard"
+    },
+    {
+      "slug": "packageproof",
+      "name": "PackageProof",
+      "source": "local 100-days-lab project repo",
+      "archived_at": "2026-09-02T09:21:25+02:00",
+      "source_remote": null,
+      "source_branch": "main",
+      "source_commit": "b37cb2d52e5dcbdbcabbb8a4be2f96a1b10783b8",
+      "tracked_file_count": 21,
+      "canonical_path": "projects/packageproof"
     },
     {
       "slug": "passkey-pilot",
@@ -561,17 +583,6 @@
       "source_commit": "a22a9d436f5b5cef148a8db2a04e61a7bd51de2e",
       "tracked_file_count": 22,
       "canonical_path": "projects/variantguard"
-    },
-    {
-      "slug": "packageproof",
-      "name": "PackageProof",
-      "source": "local 100-days-lab project repo",
-      "archived_at": "2026-09-02T09:21:25+02:00",
-      "source_remote": null,
-      "source_branch": "main",
-      "source_commit": "b37cb2d52e5dcbdbcabbb8a4be2f96a1b10783b8",
-      "tracked_file_count": 21,
-      "canonical_path": "projects/packageproof"
     },
     {
       "slug": "vram-janitor",
