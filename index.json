@@ -717,6 +717,15 @@
       "signal": "Atlassian Rovo MCP owners need a redacted v1-to-v2 configuration migration packet before the March 2027 behavior change breaks an agent connection",
       "status": "repo-created",
       "notes": "Scored 21/25; weakest dimensions are usefulness and feasibility at 4/5. Local dedicated scaffold and public-safe snapshot created; no dedicated GitHub remote."
+    },
+    {
+      "day": 76,
+      "date": "2026-09-09",
+      "app": "RunnerReady",
+      "repo": null,
+      "signal": "GitHub Actions organization admins need self-hosted runner end-of-life packets before unsupported versions interrupt CI",
+      "status": "idea-only",
+      "notes": "Scored 19/25; no repo — Distribution is 3/5, below the creation gate. Validate that fleet operators value a packet beyond GitHub's native version EOL API and runner-management substitutes."
     }
   ]
 }
