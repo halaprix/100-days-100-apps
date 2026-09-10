@@ -1,0 +1,27 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  scaffold:
+    name: scaffold
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: verify required files
+        run: |
+          test -f README.md
+          test -f SPEC.md
+          test -f AGENTS.md
+          test -f LICENSE
+          test -f SECURITY.md
+          test -f CONTRIBUTING.md
+          test -f CHANGELOG.md
+          test -f .github/PULL_REQUEST_TEMPLATE.md
+      - name: validate beads export
+        run: python3 -c "import json; [json.loads(line) for line in open('.beads/issues.jsonl') if line.strip()]"

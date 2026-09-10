@@ -1,5 +1,5 @@
 {
-  "archived_at": "2026-09-08T07:26:00Z",
+  "archived_at": "2026-09-10T07:24:31Z",
   "projects": [
     {
       "slug": "assistcutover",
@@ -187,6 +187,17 @@
       "source_commit": "30a77328b74ecac499b68836014fc606d9fcc0d6",
       "tracked_file_count": 22,
       "canonical_path": "projects/foregroundprobe"
+    },
+    {
+      "slug": "flagpassport",
+      "name": "FlagPassport",
+      "source": "local 100-days-lab project repo",
+      "archived_at": "2026-09-10T07:24:31Z",
+      "source_remote": null,
+      "source_branch": "main",
+      "source_commit": "8ce5b8e6bab2756435fa68b4b2a7cbea243fb45a",
+      "tracked_file_count": 21,
+      "canonical_path": "projects/flagpassport"
     },
     {
       "slug": "forestdrill",

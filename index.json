@@ -726,6 +726,15 @@
       "signal": "GitHub Actions organization admins need self-hosted runner end-of-life packets before unsupported versions interrupt CI",
       "status": "idea-only",
       "notes": "Scored 19/25; no repo — Distribution is 3/5, below the creation gate. Validate that fleet operators value a packet beyond GitHub's native version EOL API and runner-management substitutes."
+    },
+    {
+      "day": 77,
+      "date": "2026-09-10",
+      "app": "FlagPassport",
+      "repo": "projects/flagpassport",
+      "signal": "Forge Marketplace partners need anonymous feature-flag exposure packets before the December 1 client-SDK behavior change",
+      "status": "repo-created",
+      "notes": "Scored 22/25; weakest dimensions tied at 4/5. Local dedicated scaffold and public-safe snapshot created; no dedicated GitHub remote."
     }
   ]
 }

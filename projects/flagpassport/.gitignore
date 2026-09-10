@@ -1,0 +1,20 @@
+# Dependencies and build output
+node_modules/
+dist/
+coverage/
+*.log
+
+# Local environment and editor state
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+
+# Beads runtime state
+.beads/embeddeddolt/
+.beads/dolt/
+.beads/proxieddb/
+.beads/*.lock
+.beads/last-touched
+.beads/.local_version
