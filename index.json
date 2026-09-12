@@ -735,6 +735,15 @@
       "signal": "Forge Marketplace partners need anonymous feature-flag exposure packets before the December 1 client-SDK behavior change",
       "status": "repo-created",
       "notes": "Scored 22/25; weakest dimensions tied at 4/5. Local dedicated scaffold and public-safe snapshot created; no dedicated GitHub remote."
+    },
+    {
+      "day": 78,
+      "date": "2026-09-12",
+      "app": "IngestCutover",
+      "repo": null,
+      "signal": "Azure Monitor custom-log owners need a redacted DCR/Logs Ingestion cutover packet before legacy HTTP Data Collector API support ends",
+      "status": "idea-only",
+      "notes": "Scored 18/25; no repo — Distribution is 3/5, below the creation gate. Validate recurring operator need beyond Microsoft guidance and AzLogDcrIngestPS."
     }
   ]
 }
