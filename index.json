@@ -744,6 +744,15 @@
       "signal": "Azure Monitor custom-log owners need a redacted DCR/Logs Ingestion cutover packet before legacy HTTP Data Collector API support ends",
       "status": "idea-only",
       "notes": "Scored 18/25; no repo — Distribution is 3/5, below the creation gate. Validate recurring operator need beyond Microsoft guidance and AzLogDcrIngestPS."
+    },
+    {
+      "day": 79,
+      "date": "2026-09-13",
+      "app": "HsProjectProof",
+      "repo": null,
+      "signal": "HubSpot legacy-app maintainers need a redacted post-migration receipt before a documented serverless environment-to-secret follow-up is missed",
+      "status": "idea-only",
+      "notes": "Scored 18/25; no repo — Distribution is 3/5, below the creation gate. Validate the receipt against three redacted migration fixtures and HubSpot-maintainer review."
     }
   ]
 }
