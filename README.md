@@ -102,6 +102,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 077 | 2026-09-10 | FlagPassport | [`projects/flagpassport`](./projects/flagpassport) | Forge Marketplace partners need anonymous feature-flag exposure packets before the December 1 client-SDK behavior change | repo-created | Scored 22/25; weakest dimensions tied at 4/5. Local dedicated scaffold and public-safe snapshot created; no dedicated GitHub remote. |
 | 078 | 2026-09-12 | IngestCutover | — | Azure Monitor custom-log owners need a redacted DCR/Logs Ingestion cutover packet before legacy HTTP Data Collector API support ends | idea-only | Scored 18/25; no repo — Distribution is 3/5, below the creation gate. Validate recurring operator need beyond Microsoft guidance and AzLogDcrIngestPS. |
 | 079 | 2026-09-13 | HsProjectProof | — | HubSpot legacy-app maintainers need a redacted post-migration receipt before a documented serverless environment-to-secret follow-up is missed | idea-only | Scored 18/25; no repo — Distribution is 3/5, below the creation gate. Validate the receipt against three redacted migration fixtures and HubSpot-maintainer review. |
+| 080 | 2026-09-14 | ReceiptHandoff | — | Spreadsheet-first tiny businesses need a local accountant-ready receipt handoff packet without adopting full bookkeeping software | idea-only | Scored 18/25; no repo — Distribution is 3/5, below the creation gate. Validate the delivery packet with three accountants before building. |
 
 ## Consolidated project snapshots
 

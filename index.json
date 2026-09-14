@@ -753,6 +753,15 @@
       "signal": "HubSpot legacy-app maintainers need a redacted post-migration receipt before a documented serverless environment-to-secret follow-up is missed",
       "status": "idea-only",
       "notes": "Scored 18/25; no repo — Distribution is 3/5, below the creation gate. Validate the receipt against three redacted migration fixtures and HubSpot-maintainer review."
+    },
+    {
+      "day": 80,
+      "date": "2026-09-14",
+      "app": "ReceiptHandoff",
+      "repo": null,
+      "signal": "Spreadsheet-first tiny businesses need a local accountant-ready receipt handoff packet without adopting full bookkeeping software",
+      "status": "idea-only",
+      "notes": "Scored 18/25; no repo — Distribution is 3/5, below the creation gate. Validate the delivery packet with three accountants before building."
     }
   ]
 }
