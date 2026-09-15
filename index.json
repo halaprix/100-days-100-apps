@@ -762,6 +762,15 @@
       "signal": "Spreadsheet-first tiny businesses need a local accountant-ready receipt handoff packet without adopting full bookkeeping software",
       "status": "idea-only",
       "notes": "Scored 18/25; no repo — Distribution is 3/5, below the creation gate. Validate the delivery packet with three accountants before building."
+    },
+    {
+      "day": 81,
+      "date": "2026-09-15",
+      "app": "PlanRetain",
+      "repo": "projects/planretain",
+      "signal": "Project Online PMOs need export-coverage and restore-test packets before the September 30 retirement",
+      "status": "repo-created",
+      "notes": "Scored 21/25; weakest dimension is competitive wedge/timing at 3/5. Local dedicated scaffold and public-safe snapshot created; no dedicated GitHub remote."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "archived_at": "2026-09-10T07:24:31Z",
+  "archived_at": "2026-09-15T07:25:28Z",
   "projects": [
     {
       "slug": "assistcutover",
@@ -352,6 +352,17 @@
       "source_commit": "25c63a10756a28190af955df1d4bbcdc329dfcb0",
       "tracked_file_count": 21,
       "canonical_path": "projects/pipe-twin"
+    },
+    {
+      "slug": "planretain",
+      "name": "PlanRetain",
+      "source": "local 100-days-lab project repo",
+      "archived_at": "2026-09-15T07:25:28Z",
+      "source_remote": null,
+      "source_branch": "main",
+      "source_commit": "bfe998800215abcd56c8ad758b694c6d0b2d0102",
+      "tracked_file_count": 21,
+      "canonical_path": "projects/planretain"
     },
     {
       "slug": "portlease",

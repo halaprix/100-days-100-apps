@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "planretain",
+  "project_id": "92d415fe-2ca4-4960-a100-dc655c75f85c"
+}

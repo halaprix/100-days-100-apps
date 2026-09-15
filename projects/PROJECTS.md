@@ -38,6 +38,7 @@ Each project contains a `.snapshot.json` with the source remote, branch, and com
 | PatchProof | [`projects/patchproof`](./patchproof) | — | — |
 | PeerPath | [`projects/peerpath`](./peerpath) | https://github.com/halaprix/peerpath.git | `2714ac6` |
 | PipeTwin | [`projects/pipe-twin`](./pipe-twin) | https://github.com/halaprix/pipe-twin.git | `25c63a1` |
+| PlanRetain | [`projects/planretain`](./planretain) | — | `bfe9988` |
 | PortLease | [`projects/portlease`](./portlease) | https://github.com/halaprix/portlease.git | `5dc7293` |
 | ProxyEnv Doctor | [`projects/proxyenv-doctor`](./proxyenv-doctor) | https://github.com/halaprix/proxyenv-doctor.git | `457ba81` |
 | PurgeBrake | [`projects/purgebrake`](./purgebrake) | — | `3f07bd8` |
