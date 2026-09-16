@@ -771,6 +771,15 @@
       "signal": "Project Online PMOs need export-coverage and restore-test packets before the September 30 retirement",
       "status": "repo-created",
       "notes": "Scored 21/25; weakest dimension is competitive wedge/timing at 3/5. Local dedicated scaffold and public-safe snapshot created; no dedicated GitHub remote."
+    },
+    {
+      "day": 82,
+      "date": "2026-09-16",
+      "app": "AlertDryRun",
+      "repo": null,
+      "signal": "n8n operators need a Telegram error-path preflight before dynamic Markdown causes silent incident alerts",
+      "status": "idea-only",
+      "notes": "Scored 19/25; no repo — Distribution is 3/5, below the creation gate. One fresh RSS-fallback report supports the pain; validate repeatable demand before building."
     }
   ]
 }
