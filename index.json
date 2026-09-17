@@ -780,6 +780,15 @@
       "signal": "n8n operators need a Telegram error-path preflight before dynamic Markdown causes silent incident alerts",
       "status": "idea-only",
       "notes": "Scored 19/25; no repo — Distribution is 3/5, below the creation gate. One fresh RSS-fallback report supports the pain; validate repeatable demand before building."
+    },
+    {
+      "day": 83,
+      "date": "2026-09-17",
+      "app": "ModelParity",
+      "repo": null,
+      "signal": "Spreadsheet-migration consultancies need a local source-versus-target pricing parity packet before retiring a workbook",
+      "status": "idea-only",
+      "notes": "Scored 19/25; no repo — Distribution is 3/5, below the creation gate. Validate that existing migration tools and manual UAT do not already provide reusable golden-case parity proof."
     }
   ]
 }
