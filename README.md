@@ -106,6 +106,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 081 | 2026-09-15 | PlanRetain | [`projects/planretain`](./projects/planretain) | Project Online PMOs need export-coverage and restore-test packets before the September 30 retirement | repo-created | Scored 21/25; weakest dimension is competitive wedge/timing at 3/5. Local dedicated scaffold and public-safe snapshot created; no dedicated GitHub remote. |
 | 082 | 2026-09-16 | AlertDryRun | — | n8n operators need a Telegram error-path preflight before dynamic Markdown causes silent incident alerts | idea-only | Scored 19/25; no repo — Distribution is 3/5, below the creation gate. One fresh RSS-fallback report supports the pain; validate repeatable demand before building. |
 | 083 | 2026-09-17 | ModelParity | — | Spreadsheet-migration consultancies need a local source-versus-target pricing parity packet before retiring a workbook | idea-only | Scored 19/25; no repo — Distribution is 3/5, below the creation gate. Validate that existing migration tools and manual UAT do not already provide reusable golden-case parity proof. |
+| 084 | 2026-10-20 | PreLogonDiff | — | Intune Windows Wi-Fi pilot owners need a phase-aware evidence comparison when EAP-TLS works after sign-in but fails before logon | idea-only | Scored 18/25; no repo — Distribution is 3/5, below the creation gate. Wedge/timing is also 3/5; validate added utility against native WLAN reports and Microsoft's checklist. |
 
 ## Consolidated project snapshots
 
