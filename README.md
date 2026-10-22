@@ -108,6 +108,7 @@ The goal is not to create 100 empty repos. The goal is to create a public trail 
 | 083 | 2026-09-17 | ModelParity | — | Spreadsheet-migration consultancies need a local source-versus-target pricing parity packet before retiring a workbook | idea-only | Scored 19/25; no repo — Distribution is 3/5, below the creation gate. Validate that existing migration tools and manual UAT do not already provide reusable golden-case parity proof. |
 | 084 | 2026-10-20 | PreLogonDiff | — | Intune Windows Wi-Fi pilot owners need a phase-aware evidence comparison when EAP-TLS works after sign-in but fails before logon | idea-only | Scored 18/25; no repo — Distribution is 3/5, below the creation gate. Wedge/timing is also 3/5; validate added utility against native WLAN reports and Microsoft's checklist. |
 | 085 | 2026-10-21 | QueueAftercare | — | Small-team Exchange SE admins need a bounded queue-recurrence comparison before treating a brief post-reboot recovery as incident resolution | idea-only | Scored 18/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Validate against native tooling and existing monitors before building. |
+| 086 | 2026-10-22 | LogRunway | — | Multi-DC AD operators need a metadata-only comparison of observed Directory Service, DFS Replication and DNS Server log history against their review targets | idea-only | Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Validate added utility against native PowerShell queries and WEF guidance before building. |
 
 ## Consolidated project snapshots
 

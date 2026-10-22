@@ -807,6 +807,15 @@
       "signal": "Small-team Exchange SE admins need a bounded queue-recurrence comparison before treating a brief post-reboot recovery as incident resolution",
       "status": "idea-only",
       "notes": "Scored 18/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Validate against native tooling and existing monitors before building."
+    },
+    {
+      "day": 86,
+      "date": "2026-10-22",
+      "app": "LogRunway",
+      "repo": null,
+      "signal": "Multi-DC AD operators need a metadata-only comparison of observed Directory Service, DFS Replication and DNS Server log history against their review targets",
+      "status": "idea-only",
+      "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Validate added utility against native PowerShell queries and WEF guidance before building."
     }
   ]
 }
