@@ -825,6 +825,15 @@
       "signal": "Browser uploader maintainers need a local two-tab expiry regression fixture before queued presigned multipart requests fail in production",
       "status": "idea-only",
       "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Reject a replacement scheduler; validate the regression-kit hypothesis against a plain Playwright test and current Uppy behavior."
+    },
+    {
+      "day": 88,
+      "date": "2026-10-24",
+      "app": "RestoreCover",
+      "repo": null,
+      "signal": "Small infrastructure teams need an uncoached substitute-operator restore rehearsal before the sole backup administrator goes on leave",
+      "status": "idea-only",
+      "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Validate the local handoff exercise against Hudu or an existing runbook; reject generic backup coverage reporting already supplied by incumbents."
     }
   ]
 }
