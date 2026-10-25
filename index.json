@@ -834,6 +834,15 @@
       "signal": "Small infrastructure teams need an uncoached substitute-operator restore rehearsal before the sole backup administrator goes on leave",
       "status": "idea-only",
       "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Validate the local handoff exercise against Hudu or an existing runbook; reject generic backup coverage reporting already supplied by incumbents."
+    },
+    {
+      "day": 89,
+      "date": "2026-10-25",
+      "app": "DairyTap",
+      "repo": null,
+      "signal": "Small dairy/cheese farms need faster mobile event capture before paper-to-Excel retyping becomes a second desk job",
+      "status": "idea-only",
+      "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Compare three daily capture flows against paper-plus-Excel and configured REI3 or farmOS; prefer an existing-platform template unless a measured advantage emerges."
     }
   ]
 }
