@@ -843,6 +843,15 @@
       "signal": "Small dairy/cheese farms need faster mobile event capture before paper-to-Excel retyping becomes a second desk job",
       "status": "idea-only",
       "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Compare three daily capture flows against paper-plus-Excel and configured REI3 or farmOS; prefer an existing-platform template unless a measured advantage emerges."
+    },
+    {
+      "day": 90,
+      "date": "2026-10-26",
+      "app": "LocalePilot",
+      "repo": null,
+      "signal": "Windows endpoint engineers need a working-versus-failing Copilot pilot comparison that separates missing-locale-resource and mixed-installation observations",
+      "status": "idea-only",
+      "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark paired evidence against native ProcMon/Intune exports and a short PowerShell diff before building."
     }
   ]
 }
