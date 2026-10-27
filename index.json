@@ -852,6 +852,15 @@
       "signal": "Windows endpoint engineers need a working-versus-failing Copilot pilot comparison that separates missing-locale-resource and mixed-installation observations",
       "status": "idea-only",
       "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark paired evidence against native ProcMon/Intune exports and a short PowerShell diff before building."
+    },
+    {
+      "day": 91,
+      "date": "2026-10-27",
+      "app": "ExportWitness",
+      "repo": null,
+      "signal": "Small-team M365 admins need an export handoff review that separates file integrity, declared search provenance, and unknown completeness",
+      "status": "idea-only",
+      "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Validate against a recipient worksheet, native hash/count script, and BagIt before building."
     }
   ]
 }
