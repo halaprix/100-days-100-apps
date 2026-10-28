@@ -861,6 +861,15 @@
       "signal": "Small-team M365 admins need an export handoff review that separates file integrity, declared search provenance, and unknown completeness",
       "status": "idea-only",
       "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Validate against a recipient worksheet, native hash/count script, and BagIt before building."
+    },
+    {
+      "day": 92,
+      "date": "2026-10-28",
+      "app": "ScopeCarry",
+      "repo": null,
+      "signal": "Small MSPs need original-scope migration exceptions carried across Google Drive-to-M365 reruns before task completion becomes all-data sign-off",
+      "status": "idea-only",
+      "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark against native reports, a prepared Power Query register and MigrationWiz before building."
     }
   ]
 }
