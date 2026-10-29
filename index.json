@@ -870,6 +870,15 @@
       "signal": "Small MSPs need original-scope migration exceptions carried across Google Drive-to-M365 reruns before task completion becomes all-data sign-off",
       "status": "idea-only",
       "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark against native reports, a prepared Power Query register and MigrationWiz before building."
+    },
+    {
+      "day": 93,
+      "date": "2026-10-29",
+      "app": "PrintTrial",
+      "repo": null,
+      "signal": "Universal Print operators need matched trial history across direct/connector paths without mistaking firmware correlations or cloud status for a proven fix",
+      "status": "idea-only",
+      "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark trial continuity against a prepared worksheet and native Microsoft troubleshooting before building."
     }
   ]
 }
