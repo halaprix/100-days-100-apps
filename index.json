@@ -879,6 +879,15 @@
       "signal": "Universal Print operators need matched trial history across direct/connector paths without mistaking firmware correlations or cloud status for a proven fix",
       "status": "idea-only",
       "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark trial continuity against a prepared worksheet and native Microsoft troubleshooting before building."
+    },
+    {
+      "day": 94,
+      "date": "2026-10-30",
+      "app": "MenuRuleDiff",
+      "repo": null,
+      "signal": "Restaurant-web agencies need independent source-to-target menu-rule review before a GloriaFood migration loses size-specific modifiers or selection constraints",
+      "status": "idea-only",
+      "notes": "Scored 18/25; no repo — Distribution is 3/5, below the creation gate. Validate against native TastyIgniter exports, a prepared worksheet and included migration QA; preserve conflicting official shutdown dates."
     }
   ]
 }
