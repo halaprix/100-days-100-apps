@@ -888,6 +888,15 @@
       "signal": "Restaurant-web agencies need independent source-to-target menu-rule review before a GloriaFood migration loses size-specific modifiers or selection constraints",
       "status": "idea-only",
       "notes": "Scored 18/25; no repo — Distribution is 3/5, below the creation gate. Validate against native TastyIgniter exports, a prepared worksheet and included migration QA; preserve conflicting official shutdown dates."
+    },
+    {
+      "day": 95,
+      "date": "2026-10-31",
+      "app": "NetnsCarry",
+      "repo": null,
+      "signal": "Docker/LXC incident owners need temporary-mitigation review continuity across network-namespace recreation without mistaking old observations for current protection",
+      "status": "idea-only",
+      "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark namespace-lifecycle review against existing mitigation scripts, native lsns/nft JSON and a prepared worksheet; prefer an upstream improvement unless repeated operator need is validated."
     }
   ]
 }
