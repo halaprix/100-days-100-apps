@@ -897,6 +897,15 @@
       "signal": "Docker/LXC incident owners need temporary-mitigation review continuity across network-namespace recreation without mistaking old observations for current protection",
       "status": "idea-only",
       "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark namespace-lifecycle review against existing mitigation scripts, native lsns/nft JSON and a prepared worksheet; prefer an upstream improvement unless repeated operator need is validated."
+    },
+    {
+      "day": 96,
+      "date": "2026-11-01",
+      "app": "DriveBoundary",
+      "repo": null,
+      "signal": "Workspace-to-M365 migration engineers need source-boundary triage before corrective orphan staging or another incremental rerun",
+      "status": "idea-only",
+      "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark source-root interpretation against GAM orphan preview, CloudM discovery/settings and a prepared worksheet; prefer a ScopeCarry adapter if a separate app is not justified."
     }
   ]
 }
