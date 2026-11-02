@@ -906,6 +906,15 @@
       "signal": "Workspace-to-M365 migration engineers need source-boundary triage before corrective orphan staging or another incremental rerun",
       "status": "idea-only",
       "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark source-root interpretation against GAM orphan preview, CloudM discovery/settings and a prepared worksheet; prefer a ScopeCarry adapter if a separate app is not justified."
+    },
+    {
+      "day": 97,
+      "date": "2026-11-02",
+      "app": "MailParity",
+      "repo": null,
+      "signal": "PST-to-Thunderbird migration operators need cross-export message and attachment discrepancy triage without confusing payload agreement with source completeness or client usability",
+      "status": "idea-only",
+      "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark against Outbird validation, Aid4Mail logs/viewer and a prepared MIME/hash script, including second-export acquisition; prefer a fixture recipe unless recurring operator need is validated."
     }
   ]
 }
