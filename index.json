@@ -915,6 +915,15 @@
       "signal": "PST-to-Thunderbird migration operators need cross-export message and attachment discrepancy triage without confusing payload agreement with source completeness or client usability",
       "status": "idea-only",
       "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark against Outbird validation, Aid4Mail logs/viewer and a prepared MIME/hash script, including second-export acquisition; prefer a fixture recipe unless recurring operator need is validated."
+    },
+    {
+      "day": 98,
+      "date": "2026-11-03",
+      "app": "SpeechCase",
+      "repo": null,
+      "signal": "Design-system maintainers need component-specific disclosure retest context without confusing valid markup or another reader's output with actual Narrator announcements",
+      "status": "idea-only",
+      "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark against ARIA-AT review pages, Assistiv Labs and a prepared fixture/issue template; prefer a test contribution unless recurring retest need and time savings are validated."
     }
   ]
 }
