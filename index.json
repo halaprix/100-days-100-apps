@@ -924,6 +924,15 @@
       "signal": "Design-system maintainers need component-specific disclosure retest context without confusing valid markup or another reader's output with actual Narrator announcements",
       "status": "idea-only",
       "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark against ARIA-AT review pages, Assistiv Labs and a prepared fixture/issue template; prefer a test contribution unless recurring retest need and time savings are validated."
+    },
+    {
+      "day": 99,
+      "date": "2026-11-04",
+      "app": "ChunkFixture",
+      "repo": null,
+      "signal": "Ubuntu HAProxy operators need sanitized incident-to-VTC fixture preparation before a post-update backend failure becomes an unsafe rollback or an unreproducible support report",
+      "status": "idea-only",
+      "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark against native vtest, show errors and a prepared VTC/issue template, including acquisition and sanitization; prefer an upstream fixture contribution unless recurring need and time savings are validated."
     }
   ]
 }
