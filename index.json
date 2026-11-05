@@ -933,6 +933,15 @@
       "signal": "Ubuntu HAProxy operators need sanitized incident-to-VTC fixture preparation before a post-update backend failure becomes an unsafe rollback or an unreproducible support report",
       "status": "idea-only",
       "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark against native vtest, show errors and a prepared VTC/issue template, including acquisition and sanitization; prefer an upstream fixture contribution unless recurring need and time savings are validated."
+    },
+    {
+      "day": 100,
+      "date": "2026-11-05",
+      "app": "ConsentBrief",
+      "repo": null,
+      "signal": "Small M365 review teams need revision-specific evidence handoffs for employee-built automations without mistaking maker declarations for verified security facts",
+      "status": "idea-only",
+      "notes": "Scored 18/25; no repo — total clears, but competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark against native Entra consent review and a prepared ITSM questionnaire, including maker effort and resubmissions; prefer a template unless recurring need and time savings are validated."
     }
   ]
 }
