@@ -951,6 +951,15 @@
       "signal": "Windows endpoint troubleshooters need attempt-scoped enrollment evidence comparison without confusing current policy, older events and different enrollment identities",
       "status": "idea-only",
       "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark against native MDM reports, Microsoft troubleshooting, Intune Debug Toolkit and a prepared event filter/worksheet; prefer an existing-tool contribution unless recurring comparison need and time savings are validated."
+    },
+    {
+      "day": 102,
+      "date": "2026-11-07",
+      "app": "CohortTail",
+      "repo": null,
+      "signal": "MSP backup operators need upload-cohort-aware billing-policy cutover scenarios without confusing minimum billing duration, Object Lock and observed usage",
+      "status": "idea-only",
+      "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark against WACM exports, provider explanation, Rack2Cloud VISE and a prepared cohort worksheet; prefer an existing-tool contribution unless recurring explanation need and time savings are validated."
     }
   ]
 }
