@@ -960,6 +960,15 @@
       "signal": "MSP backup operators need upload-cohort-aware billing-policy cutover scenarios without confusing minimum billing duration, Object Lock and observed usage",
       "status": "idea-only",
       "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark against WACM exports, provider explanation, Rack2Cloud VISE and a prepared cohort worksheet; prefer an existing-tool contribution unless recurring explanation need and time savings are validated."
+    },
+    {
+      "day": 103,
+      "date": "2026-11-08",
+      "app": "TagStage",
+      "repo": null,
+      "signal": "Self-hosted music curators need batch review of persisted tag and artwork changes in an independent working copy before touching their real library",
+      "status": "idea-only",
+      "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark against native Picard metadata/artwork previews, Mp3tag undo/exports and a prepared copy recipe, including preparation effort; prefer an existing-tool contribution unless recurring need and time savings are validated."
     }
   ]
 }
