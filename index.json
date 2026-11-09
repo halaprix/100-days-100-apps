@@ -969,6 +969,15 @@
       "signal": "Self-hosted music curators need batch review of persisted tag and artwork changes in an independent working copy before touching their real library",
       "status": "idea-only",
       "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark against native Picard metadata/artwork previews, Mp3tag undo/exports and a prepared copy recipe, including preparation effort; prefer an existing-tool contribution unless recurring need and time savings are validated."
+    },
+    {
+      "day": 104,
+      "date": "2026-11-09",
+      "app": "MoveScope",
+      "repo": null,
+      "signal": "Workspace MSPs need per-file move/rename-chain triage without confusing partial incident logs with complete history or safe Shared Drive rollback",
+      "status": "idea-only",
+      "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark native Drive investigation, GAM plus a prepared worksheet and backup change views, including acquisition effort; prefer an existing-tool contribution unless recurring need and time savings are validated."
     }
   ]
 }
