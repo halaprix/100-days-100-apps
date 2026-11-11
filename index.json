@@ -978,6 +978,15 @@
       "signal": "Workspace MSPs need per-file move/rename-chain triage without confusing partial incident logs with complete history or safe Shared Drive rollback",
       "status": "idea-only",
       "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark native Drive investigation, GAM plus a prepared worksheet and backup change views, including acquisition effort; prefer an existing-tool contribution unless recurring need and time savings are validated."
+    },
+    {
+      "day": 105,
+      "date": "2026-11-11",
+      "app": "FixInterleave",
+      "repo": null,
+      "signal": "Custom ESLint plugin maintainers need assertion-linked rule-interaction traces without confusing textual non-overlap, serial fixing and semantic safety",
+      "status": "idea-only",
+      "notes": "Scored 16/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark against RuleTester, native APIs, widened fix ranges and a prepared fixture script; prefer a native regression example unless recurring maintainer need and effort savings are validated."
     }
   ]
 }
