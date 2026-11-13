@@ -996,6 +996,15 @@
       "signal": "ConfigJon BIOS operators need prospective fallback-window review without confusing reported version markers with verified credentials, escrow or recoverability",
       "status": "idea-only",
       "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark native Intune exports plus a prepared PowerShell/worksheet join, including acquisition and review effort; prefer an upstream recipe unless recurring operator need and material savings are validated."
+    },
+    {
+      "day": 107,
+      "date": "2026-11-13",
+      "app": "CreditRoute",
+      "repo": null,
+      "signal": "Microsoft 365 CSP support coordinators need customer-specific credit-intake gap review without confusing incident visibility, submission authority and approved compensation",
+      "status": "idea-only",
+      "notes": "Scored 17/25; no repo — competitive wedge/timing is 2/5 and Distribution is 3/5. Benchmark existing provider intake plus a prepared worksheet, including evidence acquisition and handoff; prefer a reusable form unless recurring multi-customer rework and material savings are validated."
     }
   ]
 }
